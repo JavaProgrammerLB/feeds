@@ -14,3 +14,12 @@ title = "Sharon Brizinov — Selected Writeups"
 entrySelector = "h2#selected-writeups-competitions-and-presentations + ul li"
 titleSelector = "a"
 linkSelector = "a"
+
+[yihong]
+url = "https://blog.yihong0618.me/"
+title = "Yihong’s Blog"
+entrySelector = "article.post"
+titleSelector = "h1.post__title a"
+linkSelector = "h1.post__title a"
+dateSelector = "span.post__time"
+dateFormat = "yyyy-MM-dd"
