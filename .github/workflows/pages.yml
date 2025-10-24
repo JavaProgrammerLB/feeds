@@ -32,6 +32,7 @@ jobs:
         cd gh-pages
         git rm -r .
         cp -r ../public/. .
+        cp -r ../CNAME .
         git add .
         git commit --message="Deploying to GitHub Pages from $GITHUB_SHA"
         git push gh-pages-remote gh-pages:gh-pages
