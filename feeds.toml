@@ -1,8 +1,0 @@
-[limboy]
-title = "limboy blog"
-url = "https://limboy.me/posts"
-entrySelector = ".article-list .article-item[data-type='post']"
-titleSelector = "span.line-clamp-1"
-linkSelector = "*"
-dateSelector = "time"
-dateFormat = "yyyy-MM-dd"
