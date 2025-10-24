@@ -6,8 +6,10 @@ on:
       - main
   schedule:
     # * is a special character in YAML so you have to quote this string
-      # Run every day at 05:30 and 17:30:
-      - cron:  '30 5,17 * * *'
+    # Run every day at 05:30 and 17:30 (Shanghai Time, GMT+8):
+    # The cron expression uses UTC time, so 05:30 GMT+8 converts to 21:30 (previous day) UTC,
+    # and 17:30 GMT+8 converts to 09:30 (same day) UTC.
+    - cron: '30 21,9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -15,6 +17,7 @@ permissions:
 
 env:
   CI: true
+
 jobs:
   publish-feeds:
     runs-on: ubuntu-24.04
