@@ -7,14 +7,6 @@ linkSelector = "*"
 dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
 
-[SharonBrizinov]
-url = "https://sharonbrizinov.com/"
-title = "Sharon Brizinov — Selected Writeups"
-# Target only the list under the "Selected Writeups, competitions, and presentations" section
-entrySelector = "h2#selected-writeups-competitions-and-presentations + ul li"
-titleSelector = "a"
-linkSelector = "a"
-
 [yihong]
 url = "https://blog.yihong0618.me/"
 title = "Yihong’s Blog"
