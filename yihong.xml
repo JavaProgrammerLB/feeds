@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.yihong0618.me/</id>
+    <title>Yihong’s Blog</title>
+    <updated>2025-10-24T05:48:57.939Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://blog.yihong0618.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Notes on Pycon2025]]></title>
+        <id>https://blog.yihong0618.me/issue-327/</id>
+        <link href="https://blog.yihong0618.me/issue-327/"/>
+        <updated>2025-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-327/">Notes on Pycon2025</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-21</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/327">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-327/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从错误中学习]]></title>
+        <id>https://blog.yihong0618.me/issue-326/</id>
+        <link href="https://blog.yihong0618.me/issue-326/"/>
+        <updated>2025-09-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-326/">从错误中学习</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-08</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/326">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-326/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次艰难的 cpython issue 排查过程，以及我学到了什么]]></title>
+        <id>https://blog.yihong0618.me/issue-325/</id>
+        <link href="https://blog.yihong0618.me/issue-325/"/>
+        <updated>2025-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-325/">一次艰难的 cpython issue 排查过程，以及我学到了什么</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-04</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/325">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-325/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八月]]></title>
+        <id>https://blog.yihong0618.me/issue-324/</id>
+        <link href="https://blog.yihong0618.me/issue-324/"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-324/">八月</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-08-28</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/324">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-324/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从给 Greptime 贡献代码的过程中，我都学到了什么]]></title>
+        <id>https://blog.yihong0618.me/issue-320/</id>
+        <link href="https://blog.yihong0618.me/issue-320/"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-320/">从给 Greptime 贡献代码的过程中，我都学到了什么</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-07-22</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/320">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-320/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on May]]></title>
+        <id>https://blog.yihong0618.me/issue-318/</id>
+        <link href="https://blog.yihong0618.me/issue-318/"/>
+        <updated>2025-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-318/">Notes on May</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-06-01</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/318">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-318/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I like]]></title>
+        <id>https://blog.yihong0618.me/issue-311/</id>
+        <link href="https://blog.yihong0618.me/issue-311/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-311/">Things I like</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-04-29</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/311">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-311/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 35 岁]]></title>
+        <id>https://blog.yihong0618.me/issue-309/</id>
+        <link href="https://blog.yihong0618.me/issue-309/"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-309/">我的 35 岁</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-04-22</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/309">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-309/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连续跑了 365 天]]></title>
+        <id>https://blog.yihong0618.me/issue-306/</id>
+        <link href="https://blog.yihong0618.me/issue-306/"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-306/">连续跑了 365 天</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-03-12</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/306">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-306/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近给开源项目贡献的记录]]></title>
+        <id>https://blog.yihong0618.me/issue-304/</id>
+        <link href="https://blog.yihong0618.me/issue-304/"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-304/">最近给开源项目贡献的记录</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-01-27</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/304">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-304/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+</feed>

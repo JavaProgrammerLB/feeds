@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sharonbrizinov.com/</id>
+    <title>Sharon Brizinov — Selected Writeups</title>
+    <updated>2025-10-24T05:48:57.946Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://sharonbrizinov.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How I Scanned all of GitHub “Oops Commits” for Leaked Secrets - Bug Bounty]]></title>
+        <id>https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets</id>
+        <link href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2025 - [Writeup]  <a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets">How I Scanned all of GitHub “Oops Commits” for Leaked Secrets - Bug Bounty</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made $64k From Deleted Files - Bug Bounty]]></title>
+        <id>https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b</id>
+        <link href="https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2025 - [Writeup]  <a href="https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b">How I Made $64k From Deleted Files - Bug Bounty</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Rockwell Logix Controllers Trusted Slot]]></title>
+        <id>https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection</id>
+        <link href="https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection">Bypassing Rockwell Logix Controllers Trusted Slot</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS]]></title>
+        <id>https://www.youtube.com/watch?v=EhNsXXbDp3U</id>
+        <link href="https://www.youtube.com/watch?v=EhNsXXbDp3U"/>
+        <updated>2025-10-24T05:48:48.311Z</updated>
+        <content type="html"><![CDATA[2024 - [Presentation]  <a href="https://www.youtube.com/watch?v=EhNsXXbDp3U">BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera]]></title>
+        <id>https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera</id>
+        <link href="https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera"/>
+        <updated>2025-10-24T05:48:48.311Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera">Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwn2Own: Pivoting from WAN to LAN Part 1 - TP-Link ER605 router]]></title>
+        <id>https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase</id>
+        <link href="https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase"/>
+        <updated>2025-10-24T05:48:48.314Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase">Pwn2Own: Pivoting from WAN to LAN Part 1 - TP-Link ER605 router</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking the Blackjack Group Fuxnet Malware]]></title>
+        <id>https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware</id>
+        <link href="https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware"/>
+        <updated>2025-10-24T05:48:48.315Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware">Unpacking the Blackjack Group Fuxnet Malware</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology NAS DSM Account Takeover: When Random is not Secure]]></title>
+        <id>https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure</id>
+        <link href="https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure"/>
+        <updated>2025-10-24T05:48:48.316Z</updated>
+        <content type="html"><![CDATA[2023 - [Writeup]  <a href="https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure">Synology NAS DSM Account Takeover: When Random is not Secure</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 31]]></title>
+        <id>https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference</id>
+        <link href="https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference"/>
+        <updated>2025-10-24T05:48:48.317Z</updated>
+        <content type="html"><![CDATA[2023 - [Presentation] <a href="https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference">DEFCON 31</a> &amp; <a href="https://www.youtube.com/watch?v=Setiy_a1Ch0&amp;ab_channel=BlackHat">BlackHat</a> - Exploiting OPC UA - Practical Attacks Against OPC UA Architectures]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 31]]></title>
+        <id>https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference</id>
+        <link href="https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference"/>
+        <updated>2025-10-24T05:48:48.319Z</updated>
+        <content type="html"><![CDATA[2023 - [Presentation] <a href="https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference">DEFCON 31</a> &amp; <a href="https://www.youtube.com/watch?v=8VK582uC55k&amp;ab_channel=BlackHat">BlackHat</a> - A Pain in the NAS Exploiting Cloud Connectivity to PWN your NAS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Part Series on OPC UA Security Deep Dive]]></title>
+        <id>https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface</id>
+        <link href="https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface"/>
+        <updated>2025-10-24T05:48:48.320Z</updated>
+        <content type="html"><![CDATA[2023 - [Writeup] <a href="https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface">Multi-Part Series on OPC UA Security Deep Dive</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexsus 22 - Live Hacking - Patient Monitor]]></title>
+        <id>https://www.youtube.com/watch?v=lHZtDS7jPbo</id>
+        <link href="https://www.youtube.com/watch?v=lHZtDS7jPbo"/>
+        <updated>2025-10-24T05:48:48.321Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=lHZtDS7jPbo">Nexsus 22 - Live Hacking - Patient Monitor</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTCEP 22 - Hiding Code in PLCs]]></title>
+        <id>https://www.youtube.com/watch?v=yx39_2GCR_I</id>
+        <link href="https://www.youtube.com/watch?v=yx39_2GCR_I"/>
+        <updated>2025-10-24T05:48:48.322Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=yx39_2GCR_I">OTCEP 22 - Hiding Code in PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 30 - Evil PLC Attack]]></title>
+        <id>https://www.youtube.com/watch?v=pNNOUiR8EQo</id>
+        <link href="https://www.youtube.com/watch?v=pNNOUiR8EQo"/>
+        <updated>2025-10-24T05:48:48.324Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=pNNOUiR8EQo">DEFCON 30 - Evil PLC Attack</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evil PLC Attack: Weapnizing PLCs]]></title>
+        <id>https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf</id>
+        <link href="https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf"/>
+        <updated>2025-10-24T05:48:48.326Z</updated>
+        <content type="html"><![CDATA[2022 - [Research Paper] <a href="https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf">Evil PLC Attack: Weapnizing PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANS ICS 2022 - Hunting EtherNet/IP Protocol Stacks]]></title>
+        <id>https://www.youtube.com/watch?v=0jftEYDo0ao</id>
+        <link href="https://www.youtube.com/watch?v=0jftEYDo0ao"/>
+        <updated>2025-10-24T05:48:48.327Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=0jftEYDo0ao">SANS ICS 2022 - Hunting EtherNet/IP Protocol Stacks</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S4x22 2022 - The Race to Native Code Execution in Siemens PLCs]]></title>
+        <id>https://www.youtube.com/watch?v=r-dmxU1gEl0</id>
+        <link href="https://www.youtube.com/watch?v=r-dmxU1gEl0"/>
+        <updated>2025-10-24T05:48:48.329Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=r-dmxU1gEl0">S4x22 2022 - The Race to Native Code Execution in Siemens PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlueHat IL 2022 - Pwn’ing Cloud-Based Intercoms at Scale]]></title>
+        <id>https://www.youtube.com/watch?v=YTxABU_L2Ok</id>
+        <link href="https://www.youtube.com/watch?v=YTxABU_L2Ok"/>
+        <updated>2025-10-24T05:48:48.332Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=YTxABU_L2Ok">BlueHat IL 2022 - Pwn’ing Cloud-Based Intercoms at Scale</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiding Code on Rockwell Automation PLCs]]></title>
+        <id>https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/</id>
+        <link href="https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/"/>
+        <updated>2025-10-24T05:48:48.333Z</updated>
+        <content type="html"><![CDATA[2022 - [Writeup]      <a href="https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/">Hiding Code on Rockwell Automation PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting URL Parsers]]></title>
+        <id>https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf</id>
+        <link href="https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf"/>
+        <updated>2025-10-24T05:48:48.334Z</updated>
+        <content type="html"><![CDATA[2022 - [Research Paper]  <a href="https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf">Exploiting URL Parsers</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackInParis 2021 - Pwning Industrial Remote Access Clients]]></title>
+        <id>https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis</id>
+        <link href="https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis"/>
+        <updated>2025-10-24T05:48:48.336Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis">HackInParis 2021 - Pwning Industrial Remote Access Clients</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwning Industrial Remote Access Clients]]></title>
+        <id>https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/</id>
+        <link href="https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/"/>
+        <updated>2025-10-24T05:48:48.337Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/">Pwning Industrial Remote Access Clients</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing BusyBox: 14 Vulnerabilities Uncovered]]></title>
+        <id>https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/</id>
+        <link href="https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/"/>
+        <updated>2025-10-24T05:48:48.338Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/">Unboxing BusyBox: 14 Vulnerabilities Uncovered</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crashing SIP Clients With a Single Slash]]></title>
+        <id>https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash</id>
+        <link href="https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash"/>
+        <updated>2025-10-24T05:48:48.340Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash">Crashing SIP Clients With a Single Slash</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Bugs in a Popular EtherNet/IP Protocol Stack]]></title>
+        <id>https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/</id>
+        <link href="https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/"/>
+        <updated>2025-10-24T05:48:48.341Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/">Finding Bugs in a Popular EtherNet/IP Protocol Stack</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era]]></title>
+        <id>https://www.youtube.com/watch?v=l3rs1GwOVSU</id>
+        <link href="https://www.youtube.com/watch?v=l3rs1GwOVSU"/>
+        <updated>2025-10-24T05:48:48.344Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=l3rs1GwOVSU">DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack the Capitol - Attacking Your OT Network]]></title>
+        <id>https://www.youtube.com/watch?v=ZtMO-F7zraI</id>
+        <link href="https://www.youtube.com/watch?v=ZtMO-F7zraI"/>
+        <updated>2025-10-24T05:48:48.345Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=ZtMO-F7zraI">Hack the Capitol - Attacking Your OT Network</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The OPC Attack Surface]]></title>
+        <id>https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf</id>
+        <link href="https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf"/>
+        <updated>2025-10-24T05:48:48.347Z</updated>
+        <content type="html"><![CDATA[2020 - [Research Paper]  <a href="https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf">Exploring The OPC Attack Surface</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZDI - RCE on Schneider Electric Ecostruxure software]]></title>
+        <id>https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020</id>
+        <link href="https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020"/>
+        <updated>2025-10-24T05:48:48.349Z</updated>
+        <content type="html"><![CDATA[2020 - [Writeup]      <a href="https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020">ZDI - RCE on Schneider Electric Ecostruxure software</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting WIBU CodeMeter to attack ICS networks]]></title>
+        <id>https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/</id>
+        <link href="https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/"/>
+        <updated>2025-10-24T05:48:48.350Z</updated>
+        <content type="html"><![CDATA[2020 - [Research Paper]  <a href="https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/">Exploiting WIBU CodeMeter to attack ICS networks</a>]]></content>
+    </entry>
+</feed>

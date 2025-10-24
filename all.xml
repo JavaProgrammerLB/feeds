@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-24T04:39:49.694Z</updated>
+    <updated>2025-10-24T05:48:57.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[构建自己的反思系统 (limboy blog)]]></title>
@@ -1564,5 +1564,1150 @@
         <link href="https://limboy.me/posts/make-github-as-blog-engine"/>
         <updated>2010-08-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="line-clamp-1 flex items-center gap-2"> 使用 github 作为博客引擎  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Scanned all of GitHub “Oops Commits” for Leaked Secrets - Bug Bounty (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets</id>
+        <link href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2025 - [Writeup]  <a href="https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets">How I Scanned all of GitHub “Oops Commits” for Leaked Secrets - Bug Bounty</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Made $64k From Deleted Files - Bug Bounty (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b</id>
+        <link href="https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2025 - [Writeup]  <a href="https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b">How I Made $64k From Deleted Files - Bug Bounty</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing Rockwell Logix Controllers Trusted Slot (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection</id>
+        <link href="https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection"/>
+        <updated>2025-10-24T05:48:48.310Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection">Bypassing Rockwell Logix Controllers Trusted Slot</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=EhNsXXbDp3U</id>
+        <link href="https://www.youtube.com/watch?v=EhNsXXbDp3U"/>
+        <updated>2025-10-24T05:48:48.311Z</updated>
+        <content type="html"><![CDATA[2024 - [Presentation]  <a href="https://www.youtube.com/watch?v=EhNsXXbDp3U">BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera</id>
+        <link href="https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera"/>
+        <updated>2025-10-24T05:48:48.311Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera">Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwn2Own: Pivoting from WAN to LAN Part 1 - TP-Link ER605 router (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase</id>
+        <link href="https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase"/>
+        <updated>2025-10-24T05:48:48.314Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase">Pwn2Own: Pivoting from WAN to LAN Part 1 - TP-Link ER605 router</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking the Blackjack Group Fuxnet Malware (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware</id>
+        <link href="https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware"/>
+        <updated>2025-10-24T05:48:48.315Z</updated>
+        <content type="html"><![CDATA[2024 - [Writeup]  <a href="https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware">Unpacking the Blackjack Group Fuxnet Malware</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology NAS DSM Account Takeover: When Random is not Secure (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure</id>
+        <link href="https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure"/>
+        <updated>2025-10-24T05:48:48.316Z</updated>
+        <content type="html"><![CDATA[2023 - [Writeup]  <a href="https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure">Synology NAS DSM Account Takeover: When Random is not Secure</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 31 (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference</id>
+        <link href="https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference"/>
+        <updated>2025-10-24T05:48:48.317Z</updated>
+        <content type="html"><![CDATA[2023 - [Presentation] <a href="https://www.youtube.com/watch?v=de6kpQVvFL0&amp;ab_channel=DEFCONConference">DEFCON 31</a> &amp; <a href="https://www.youtube.com/watch?v=Setiy_a1Ch0&amp;ab_channel=BlackHat">BlackHat</a> - Exploiting OPC UA - Practical Attacks Against OPC UA Architectures]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 31 (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference</id>
+        <link href="https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference"/>
+        <updated>2025-10-24T05:48:48.319Z</updated>
+        <content type="html"><![CDATA[2023 - [Presentation] <a href="https://www.youtube.com/watch?v=pY7S5CUqPxI&amp;ab_channel=DEFCONConference">DEFCON 31</a> &amp; <a href="https://www.youtube.com/watch?v=8VK582uC55k&amp;ab_channel=BlackHat">BlackHat</a> - A Pain in the NAS Exploiting Cloud Connectivity to PWN your NAS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Part Series on OPC UA Security Deep Dive (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface</id>
+        <link href="https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface"/>
+        <updated>2025-10-24T05:48:48.320Z</updated>
+        <content type="html"><![CDATA[2023 - [Writeup] <a href="https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface">Multi-Part Series on OPC UA Security Deep Dive</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexsus 22 - Live Hacking - Patient Monitor (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=lHZtDS7jPbo</id>
+        <link href="https://www.youtube.com/watch?v=lHZtDS7jPbo"/>
+        <updated>2025-10-24T05:48:48.321Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=lHZtDS7jPbo">Nexsus 22 - Live Hacking - Patient Monitor</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTCEP 22 - Hiding Code in PLCs (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=yx39_2GCR_I</id>
+        <link href="https://www.youtube.com/watch?v=yx39_2GCR_I"/>
+        <updated>2025-10-24T05:48:48.322Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=yx39_2GCR_I">OTCEP 22 - Hiding Code in PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 30 - Evil PLC Attack (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=pNNOUiR8EQo</id>
+        <link href="https://www.youtube.com/watch?v=pNNOUiR8EQo"/>
+        <updated>2025-10-24T05:48:48.324Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=pNNOUiR8EQo">DEFCON 30 - Evil PLC Attack</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evil PLC Attack: Weapnizing PLCs (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf</id>
+        <link href="https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf"/>
+        <updated>2025-10-24T05:48:48.326Z</updated>
+        <content type="html"><![CDATA[2022 - [Research Paper] <a href="https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf">Evil PLC Attack: Weapnizing PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SANS ICS 2022 - Hunting EtherNet/IP Protocol Stacks (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=0jftEYDo0ao</id>
+        <link href="https://www.youtube.com/watch?v=0jftEYDo0ao"/>
+        <updated>2025-10-24T05:48:48.327Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=0jftEYDo0ao">SANS ICS 2022 - Hunting EtherNet/IP Protocol Stacks</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S4x22 2022 - The Race to Native Code Execution in Siemens PLCs (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=r-dmxU1gEl0</id>
+        <link href="https://www.youtube.com/watch?v=r-dmxU1gEl0"/>
+        <updated>2025-10-24T05:48:48.329Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=r-dmxU1gEl0">S4x22 2022 - The Race to Native Code Execution in Siemens PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlueHat IL 2022 - Pwn’ing Cloud-Based Intercoms at Scale (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=YTxABU_L2Ok</id>
+        <link href="https://www.youtube.com/watch?v=YTxABU_L2Ok"/>
+        <updated>2025-10-24T05:48:48.332Z</updated>
+        <content type="html"><![CDATA[2022 - [Presentation] <a href="https://www.youtube.com/watch?v=YTxABU_L2Ok">BlueHat IL 2022 - Pwn’ing Cloud-Based Intercoms at Scale</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiding Code on Rockwell Automation PLCs (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/</id>
+        <link href="https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/"/>
+        <updated>2025-10-24T05:48:48.333Z</updated>
+        <content type="html"><![CDATA[2022 - [Writeup]      <a href="https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/">Hiding Code on Rockwell Automation PLCs</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting URL Parsers (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf</id>
+        <link href="https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf"/>
+        <updated>2025-10-24T05:48:48.334Z</updated>
+        <content type="html"><![CDATA[2022 - [Research Paper]  <a href="https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf">Exploiting URL Parsers</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackInParis 2021 - Pwning Industrial Remote Access Clients (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis</id>
+        <link href="https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis"/>
+        <updated>2025-10-24T05:48:48.336Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=rNHshToPt2Y&amp;ab_channel=HackinParis">HackInParis 2021 - Pwning Industrial Remote Access Clients</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwning Industrial Remote Access Clients (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/</id>
+        <link href="https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/"/>
+        <updated>2025-10-24T05:48:48.337Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/">Pwning Industrial Remote Access Clients</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unboxing BusyBox: 14 Vulnerabilities Uncovered (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/</id>
+        <link href="https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/"/>
+        <updated>2025-10-24T05:48:48.338Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/">Unboxing BusyBox: 14 Vulnerabilities Uncovered</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crashing SIP Clients With a Single Slash (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash</id>
+        <link href="https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash"/>
+        <updated>2025-10-24T05:48:48.340Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash">Crashing SIP Clients With a Single Slash</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Bugs in a Popular EtherNet/IP Protocol Stack (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/</id>
+        <link href="https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/"/>
+        <updated>2025-10-24T05:48:48.341Z</updated>
+        <content type="html"><![CDATA[2021 - [Writeup]      <a href="https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/">Finding Bugs in a Popular EtherNet/IP Protocol Stack</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=l3rs1GwOVSU</id>
+        <link href="https://www.youtube.com/watch?v=l3rs1GwOVSU"/>
+        <updated>2025-10-24T05:48:48.344Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=l3rs1GwOVSU">DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hack the Capitol - Attacking Your OT Network (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.youtube.com/watch?v=ZtMO-F7zraI</id>
+        <link href="https://www.youtube.com/watch?v=ZtMO-F7zraI"/>
+        <updated>2025-10-24T05:48:48.345Z</updated>
+        <content type="html"><![CDATA[2021 - [Presentation] <a href="https://www.youtube.com/watch?v=ZtMO-F7zraI">Hack the Capitol - Attacking Your OT Network</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The OPC Attack Surface (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf</id>
+        <link href="https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf"/>
+        <updated>2025-10-24T05:48:48.347Z</updated>
+        <content type="html"><![CDATA[2020 - [Research Paper]  <a href="https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf">Exploring The OPC Attack Surface</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZDI - RCE on Schneider Electric Ecostruxure software (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020</id>
+        <link href="https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020"/>
+        <updated>2025-10-24T05:48:48.349Z</updated>
+        <content type="html"><![CDATA[2020 - [Writeup]      <a href="https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020">ZDI - RCE on Schneider Electric Ecostruxure software</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting WIBU CodeMeter to attack ICS networks (Sharon Brizinov — Selected Writeups)]]></title>
+        <id>https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/</id>
+        <link href="https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/"/>
+        <updated>2025-10-24T05:48:48.350Z</updated>
+        <content type="html"><![CDATA[2020 - [Research Paper]  <a href="https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/">Exploiting WIBU CodeMeter to attack ICS networks</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on Pycon2025 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-327/</id>
+        <link href="https://blog.yihong0618.me/issue-327/"/>
+        <updated>2025-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-327/">Notes on Pycon2025</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-21</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/327">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-327/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从错误中学习 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-326/</id>
+        <link href="https://blog.yihong0618.me/issue-326/"/>
+        <updated>2025-09-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-326/">从错误中学习</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-08</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/326">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-326/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次艰难的 cpython issue 排查过程，以及我学到了什么 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-325/</id>
+        <link href="https://blog.yihong0618.me/issue-325/"/>
+        <updated>2025-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-325/">一次艰难的 cpython issue 排查过程，以及我学到了什么</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-09-04</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/325">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-325/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八月 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-324/</id>
+        <link href="https://blog.yihong0618.me/issue-324/"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-324/">八月</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-08-28</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/324">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-324/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从给 Greptime 贡献代码的过程中，我都学到了什么 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-320/</id>
+        <link href="https://blog.yihong0618.me/issue-320/"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-320/">从给 Greptime 贡献代码的过程中，我都学到了什么</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-07-22</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/320">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-320/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on May (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-318/</id>
+        <link href="https://blog.yihong0618.me/issue-318/"/>
+        <updated>2025-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-318/">Notes on May</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-06-01</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/318">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-318/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I like (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-311/</id>
+        <link href="https://blog.yihong0618.me/issue-311/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-311/">Things I like</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-04-29</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/311">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-311/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 35 岁 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-309/</id>
+        <link href="https://blog.yihong0618.me/issue-309/"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-309/">我的 35 岁</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-04-22</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/309">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-309/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连续跑了 365 天 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-306/</id>
+        <link href="https://blog.yihong0618.me/issue-306/"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-306/">连续跑了 365 天</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-03-12</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/306">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-306/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近给开源项目贡献的记录 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-304/</id>
+        <link href="https://blog.yihong0618.me/issue-304/"/>
+        <updated>2025-01-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-304/">最近给开源项目贡献的记录</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-01-27</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/304">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-304/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCome (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2025/pycon/</id>
+        <link href="https://frostming.com/2025/pycon/"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2025/pycon/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">PyCome<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" data-astro-cid-qtyrxm4s=""><symbol id="ai:material-symbols:calendar-today-outline-rounded" viewBox="0 0 24 24"><path d="M5 22q-.825 0-1.412-.587T3 20V6q0-.825.588-1.412T5 4h1V3q0-.425.288-.712T7 2t.713.288T8 3v1h8V3q0-.425.288-.712T17 2t.713.288T18 3v1h1q.825 0 1.413.588T21 6v14q0 .825-.587 1.413T19 22zm0-2h14V10H5zM5 8h14V6H5zm0 0V6z" fill="currentColor"></path></symbol><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2025-09-22</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" data-astro-cid-qtyrxm4s=""><symbol id="ai:material-symbols:tag-rounded" viewBox="0 0 24 24"><path d="m9 16l-.825 3.275q-.075.325-.325.525t-.6.2q-.475 0-.775-.375T6.3 18.8L7 16H4.275q-.5 0-.8-.387T3.3 14.75q.075-.35.35-.55t.625-.2H7.5l1-4H5.775q-.5 0-.8-.387T4.8 8.75q.075-.35.35-.55t.625-.2H9l.825-3.275Q9.9 4.4 10.15 4.2t.6-.2q.475 0 .775.375t.175.825L11 8h4l.825-3.275q.075-.325.325-.525t.6-.2q.475 0 .775.375t.175.825L17 8h2.725q.5 0 .8.387t.175.863q-.075.35-.35.55t-.625.2H16.5l-1 4h2.725q.5 0 .8.388t.175.862q-.075.35-.35.55t-.625.2H15l-.825 3.275q-.075.325-.325.525t-.6.2q-.475 0-.775-.375T12.3 18.8L13 16zm.5-2h4l1-4h-4z" fill="currentColor"></path></symbol><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/日志/" aria-label="View all posts with the 日志 tag" data-astro-cid-qtyrxm4s="">日志</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">1245 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">6 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南行拾遗 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2025/henan/</id>
+        <link href="https://frostming.com/2025/henan/"/>
+        <updated>2025-05-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2025/henan/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">河南行拾遗<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2025-05-11</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/游记/" aria-label="View all posts with the 游记 tag" data-astro-cid-qtyrxm4s="">游记</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">2559 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">13 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再也别问 Singleton 了好吗？ (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2025/singleton/</id>
+        <link href="https://frostming.com/2025/singleton/"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2025/singleton/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">再也别问 Singleton 了好吗？<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2025-03-05</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/Python/" aria-label="View all posts with the Python tag" data-astro-cid-qtyrxm4s="">Python</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">1300 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">7 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 2024 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2024/review/</id>
+        <link href="https://frostming.com/2024/review/"/>
+        <updated>2024-12-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/review/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">我的 2024<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-12-24</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/总结/" aria-label="View all posts with the 总结 tag" data-astro-cid-qtyrxm4s="">总结</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">738 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">4 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个 monkeypatch 引起的循环引用问题 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2024/circular-ref-monkeypatch/</id>
+        <link href="https://frostming.com/2024/circular-ref-monkeypatch/"/>
+        <updated>2024-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/circular-ref-monkeypatch/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">一个 monkeypatch 引起的循环引用问题<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-12-18</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/Python/" aria-label="View all posts with the Python tag" data-astro-cid-qtyrxm4s="">Python</a></div><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/雕虫小技/" aria-label="View all posts with the 雕虫小技 tag" data-astro-cid-qtyrxm4s="">雕虫小技</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">363 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">2 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功不唐捐 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2024/efforts/</id>
+        <link href="https://frostming.com/2024/efforts/"/>
+        <updated>2024-11-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/efforts/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">功不唐捐<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-11-07</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/感悟/" aria-label="View all posts with the 感悟 tag" data-astro-cid-qtyrxm4s="">感悟</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">566 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">3 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[表达的阈值 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2024/express-threshold/</id>
+        <link href="https://frostming.com/2024/express-threshold/"/>
+        <updated>2024-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/express-threshold/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">表达的阈值<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-10-20</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/碎碎念/" aria-label="View all posts with the 碎碎念 tag" data-astro-cid-qtyrxm4s="">碎碎念</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">513 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">3 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《21世纪》与主流文化 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/2024/21-centry-trend/</id>
+        <link href="https://frostming.com/2024/21-centry-trend/"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/21-centry-trend/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">《21世纪》与主流文化<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-07-24</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/碎碎念/" aria-label="View all posts with the 碎碎念 tag" data-astro-cid-qtyrxm4s="">碎碎念</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">787 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">4 分钟</div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scariest “user support” email I’ve ever received (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/the-scariest-user-support-email-ive-ever-received/</id>
+        <link href="https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"/>
+        <updated>2025-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-scariest-user-support-email-ive-ever-received/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
+                            /content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
+                            /content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
+                            /content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
+                            /content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="640px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. As your app grows in popularity, you occasionally start to attract attacks aimed directly at you—the developer or site owner. Just the other day, I got one that was honestly terrifying, so I'd like to share it.
+
+
+The Email
+
+Subject: Cookie consent</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-15">15 Oct 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering the joy of driving as a long-time paper driver (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/</id>
+        <link href="https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/discovering-the-joy-of-driving-as-a-long-time-paper-driver/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
+                            /content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
+                            /content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
+                            /content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
+                            /content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. Ever since I got my driver’s license before entering university, I had basically never driven a car. Living in the city, I avoided driving as much as possible. The thought of operating something that could seriously hurt or even kill someone if I made</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-11">11 Oct 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen: Why Inkdrop never extends Markdown syntax (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/</id>
+        <link href="https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/zen-why-inkdrop-never-extends-markdown-syntax/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
+                            /content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
+                            /content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
+                            /content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
+                            /content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
+                            /content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Inkdrop</p>
+            <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
+                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document format in</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-08-28">28 Aug 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/</id>
+        <link href="https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
+                            /content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
+                            /content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
+                            /content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
+                            /content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Inkdrop</p>
+            <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>
+                    <p class="gh-card-excerpt is-body">Hi! This is Takuya. I'm super excited to announce that the first canary version of v6.0.0 is available 😆✨
+It comes with a bunch of ground-up improvements. Let's go!
+
+Release notes:
+
+Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-08-01">01 Aug 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic coding made programming fun again (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/agentic-coding-made-programming-fun-again/</id>
+        <link href="https://www.devas.life/agentic-coding-made-programming-fun-again/"/>
+        <updated>2025-07-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/agentic-coding-made-programming-fun-again/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/07/2025-07-16-Programming-is-fun-again_2.jpg" alt="Agentic coding made programming fun again">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">Agentic coding made programming fun again</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I have a 9-year-old SaaS with multi-platform desktop and mobile apps called Inkdrop, a plain-text Markdown note-taking app. Recently, I started using Claude Code in my project. My first attempt was a failure, though I eventually got used to it in my workflow.
+Then, I</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-07-16">16 Jul 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to automate signing your Windows app with Certum's SimplySign app (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/</id>
+        <link href="https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/"/>
+        <updated>2025-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-signing-your-windows-app-with-certum/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
+                            /content/images/size/w320/format/webp/2025/07/image-3.png 320w,
+                            /content/images/size/w600/format/webp/2025/07/image-3.png 600w,
+                            /content/images/size/w960/format/webp/2025/07/image-3.png 960w,
+                            /content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">How to automate signing your Windows app with Certum's SimplySign app</h3>
+                    <p class="gh-card-excerpt is-body">I’ve been running a SaaS for 9 years, which includes an Electron app for Windows.
+For code signing, I’ve been using Certum's Code Signing Certificate:
+
+Code signing certificate for indie developersA walkthrough from buying a Certum’s code signing certificate to sign an app with itTakuya</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-07-11">11 Jul 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to automate development journaling with Claude Code (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-automate-development-journaling-with-claude-code/</id>
+        <link href="https://www.devas.life/how-to-automate-development-journaling-with-claude-code/"/>
+        <updated>2025-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-development-journaling-with-claude-code/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
+                            /content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
+                            /content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
+                            /content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
+                            /content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">How to automate development journaling with Claude Code</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I recently started using Claude Code to write code. It works great with my tmux and neovim setup since it can run as a CLI tool. It dramatically improved my productivity, but I tend to get lost in what I was working</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-06-20">20 Jun 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
+        <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/new-wallpaper-pack-textures-of-kyoto/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/01/L1000386.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/01/L1000386.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/01/L1000386.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/01/L1000386.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/01/L1000386.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/01/L1000386.jpg 2000w" sizes="80px" src="/content/images/size/w600/2025/01/L1000386.jpg" alt="New wallpaper pack: Textures of Kyoto">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">New wallpaper pack: Textures of Kyoto</h3>
+                    <p class="gh-card-excerpt is-body">I’m no exception as a Japanese person who loves Kyoto, despite its recent overtourism issues. When considering creating a wallpaper pack in Kyoto, I contemplated what aspects of the city resonate with me most. There are already tons of amazing photos showcasing iconic views, such as Sannen-zaka or Zen</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-01-09">09 Jan 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/</id>
+        <link href="https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/"/>
+        <updated>2018-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 2000w" sizes="80px" src="/content/images/size/w600/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg" alt="How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo</h3>
+                <p class="gh-card-excerpt is-body">You Don’t Have To Get Covered on Large Blogs, Why Churn Rate is Surprisingly Low, Spend a Lot of Time At User Forum, etc..</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I did for upgrading React Native to 0.79.1 from 0.74.2 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/</id>
+        <link href="https://www.devas.life/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/"/>
+        <updated>2025-04-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/04/2025-04-22-React-Native-0.79_2.jpg" alt="What I did for upgrading React Native to 0.79.1 from 0.74.2" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">What I did for upgrading React Native to 0.79.1 from 0.74.2</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here, the developer of Inkdrop – a Markdown note-taking app that supports syncing and offline-first capabilities, built with React Native.
+
+Bumping up the React Native versions has always been hard, and this time wasn't an exception, especially because it involved migrating from the old</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-04-23">23 Apr 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to animate a TanStack Virtual list with motion (rev. 2) (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion-rev-2/</id>
+        <link href="https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion-rev-2/"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-animate-a-tanstack-virtual-list-with-motion-rev-2/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/04/Untitled-1.png 160w,
+                            /content/images/size/w320/format/webp/2025/04/Untitled-1.png 320w,
+                            /content/images/size/w600/format/webp/2025/04/Untitled-1.png 600w,
+                            /content/images/size/w960/format/webp/2025/04/Untitled-1.png 960w,
+                            /content/images/size/w1200/format/webp/2025/04/Untitled-1.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/04/Untitled-1.png 2000w" sizes="320px" src="/content/images/size/w600/2025/04/Untitled-1.png" alt="How to animate a TanStack Virtual list with motion (rev. 2)" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to animate a TanStack Virtual list with motion (rev. 2)</h3>
+                    <p class="gh-card-excerpt is-body">The desktop version of my note-taking app is built with React and Electron.
+Previously, I managed to animate the insertion and removal of specific items of a TanStack Virtual list using motion.
+However, that approach would always trigger animations whenever the note list content changed, including when switching notebooks from</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-04-15">15 Apr 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I implemented TOTP-based 2FA for my Markdown note app (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/</id>
+        <link href="https://www.devas.life/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg" alt="How I implemented TOTP-based 2FA for my Markdown note app" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How I implemented TOTP-based 2FA for my Markdown note app</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I'm building a Markdown note-taking app called&nbsp;Inkdrop. As of v5.11.0, it supports two-factor authentication with a time-based one-time password. Thank you so much for the feedback during the beta testing!
+
+Inkdrop v5.11.0 - Two-factor authentication</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-03-25">25 Mar 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Answering dev questions based on my tech notes using MCP + Claude (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/</id>
+        <link href="https://www.devas.life/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/"/>
+        <updated>2025-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 160w,
+                            /content/images/size/w320/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 320w,
+                            /content/images/size/w600/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 600w,
+                            /content/images/size/w960/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 960w,
+                            /content/images/size/w1200/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png" alt="Answering dev questions based on my tech notes using MCP + Claude" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Answering dev questions based on my tech notes using MCP + Claude</h3>
+                    <p class="gh-card-excerpt is-body">In the previous post, I integrated my note-taking app Inkdrop with Claude's MCP:
+
+Integrating my note app with Claude’s MCPHi, it’s Takuya here. I’ve been fiddling with Claude, which provides an interesting protocol for third-party AI integrations called MCP (Model Context Protocol). Some of my</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-03-18">18 Mar 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating my note app with Claude's MCP (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/integrating-my-note-app-with-claudes-mcp/</id>
+        <link href="https://www.devas.life/integrating-my-note-app-with-claudes-mcp/"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/integrating-my-note-app-with-claudes-mcp/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-07-MCP-Integration_thumb.jpg" alt="Integrating my note app with Claude's MCP" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Integrating my note app with Claude's MCP</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here. I've been fiddling with Claude, which provides an interesting protocol for third-party AI integrations called MCP (Model Context Protocol). Some of my note app (called Inkdrop) users requested that they want to let Claude use their tech notes as knowledge via MCP.</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-03-07">07 Mar 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to animate a TanStack Virtual list with Motion (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion/</id>
+        <link href="https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion/"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-animate-a-tanstack-virtual-list-with-motion/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/02/25-02-27_note-list-animations_thumb2.jpg" alt="How to animate a TanStack Virtual list with Motion" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to animate a TanStack Virtual list with Motion</h3>
+                    <p class="gh-card-excerpt is-body">I love Motion. It makes animating UIs in web apps incredibly easy. I've been using it in my app to animate components like the tags input bar, the notebook list, dialogs, and more.
+
+One of the components I wanted to animate was the note list. This was challenging</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-02-28">28 Feb 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I efficiently built a browser extension (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-i-efficiently-built-a-browser-extension/</id>
+        <link href="https://www.devas.life/how-i-efficiently-built-a-browser-extension/"/>
+        <updated>2025-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-efficiently-built-a-browser-extension/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 160w,
+                            /content/images/size/w320/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 320w,
+                            /content/images/size/w600/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 600w,
+                            /content/images/size/w960/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 960w,
+                            /content/images/size/w1200/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 2000w" sizes="320px" src="/content/images/size/w600/2025/02/Screenshot-2025-02-21-at-16.11.22a.png" alt="How I efficiently built a browser extension" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How I efficiently built a browser extension</h3>
+                    <p class="gh-card-excerpt is-body">I've released a new browser extension for Inkdrop last week.
+
+Web clipper v0.2.2 - Import Kindle highlights!I’ve been working on rebuilding Inkdrop’s browser extension for clipping web pages. And I’m thrilled to announce that it now supports importing your Kindle highlights! This</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-02-21">21 Feb 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supporting iOS Share Extensions & Android Intents on React Native (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/supporting-ios-share-extensions-android-intents-on-react-native/</id>
+        <link href="https://www.devas.life/supporting-ios-share-extensions-android-intents-on-react-native/"/>
+        <updated>2025-02-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/supporting-ios-share-extensions-android-intents-on-react-native/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/02/kyoto_ls_094.png 160w,
+                            /content/images/size/w320/format/webp/2025/02/kyoto_ls_094.png 320w,
+                            /content/images/size/w600/format/webp/2025/02/kyoto_ls_094.png 600w,
+                            /content/images/size/w960/format/webp/2025/02/kyoto_ls_094.png 960w,
+                            /content/images/size/w1200/format/webp/2025/02/kyoto_ls_094.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/02/kyoto_ls_094.png 2000w" sizes="320px" src="/content/images/size/w600/2025/02/kyoto_ls_094.png" alt="Supporting iOS Share Extensions &amp; Android Intents on React Native" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Supporting iOS Share Extensions &amp; Android Intents on React Native</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya, the solo developer of Inkdrop, a note-taking app designed for software developers. Recently, I enabled a web clipper feature on the mobile app for both iOS and Android. I'd like to share how I implemented the logic to receive a shared URL in</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-02-05">05 Feb 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I will not care about numbers for my indie dev in 2025 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/</id>
+        <link href="https://www.devas.life/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/"/>
+        <updated>2025-01-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/01/My_Personal_Goal_For_2025.jpg" alt="I will not care about numbers for my indie dev in 2025" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">I will not care about numbers for my indie dev in 2025</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I've been taking a year-end and New Year break until January 20th and have been reflecting on my personal goals for 2025. I'd like to share my thoughts in this post.
+
+Have you ever run a profitable web service for more</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-01-24">24 Jan 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
+        <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/new-wallpaper-pack-textures-of-kyoto/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/01/L1000386.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/01/L1000386.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/01/L1000386.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/01/L1000386.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/01/L1000386.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/01/L1000386.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/01/L1000386.jpg" alt="New wallpaper pack: Textures of Kyoto" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">New wallpaper pack: Textures of Kyoto</h3>
+                    <p class="gh-card-excerpt is-body">I’m no exception as a Japanese person who loves Kyoto, despite its recent overtourism issues. When considering creating a wallpaper pack in Kyoto, I contemplated what aspects of the city resonate with me most. There are already tons of amazing photos showcasing iconic views, such as Sannen-zaka or Zen</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-01-09">09 Jan 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create beautiful glowing components on React Native 0.76+ (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-create-beautiful-glowing-components-on-react-native-0-76/</id>
+        <link href="https://www.devas.life/how-to-create-beautiful-glowing-components-on-react-native-0-76/"/>
+        <updated>2024-12-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-create-beautiful-glowing-components-on-react-native-0-76/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 160w,
+                            /content/images/size/w320/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 320w,
+                            /content/images/size/w600/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 600w,
+                            /content/images/size/w960/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 960w,
+                            /content/images/size/w1200/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg" alt="How to create beautiful glowing components on React Native 0.76+" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to create beautiful glowing components on React Native 0.76+</h3>
+                    <p class="gh-card-excerpt is-body">I wanted to try one of the new features introduced in React Native 0.76, which is box-shadow. Evan Bacon told me that it even supports multiple box shadows on Android – pretty exciting!
+
+you can use multiple box shadows on android now
+
+— Evan Bacon 🥓 (@Baconbrix) November 15, 2024
+
+
+So, in</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2024-12-28">28 Dec 2024</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Roadmap of Inkdrop vol.6 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/the-roadmap-of-inkdrop-vol-6/</id>
+        <link href="https://www.devas.life/the-roadmap-of-inkdrop-vol-6/"/>
+        <updated>2024-12-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-roadmap-of-inkdrop-vol-6/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 160w,
+                            /content/images/size/w320/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 320w,
+                            /content/images/size/w600/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 600w,
+                            /content/images/size/w960/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 960w,
+                            /content/images/size/w1200/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 2000w" sizes="320px" src="/content/images/size/w600/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg" alt="The Roadmap of Inkdrop vol.6" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">The Roadmap of Inkdrop vol.6</h3>
+                    <p class="gh-card-excerpt is-body">Hi folks, it's Takuya here, the solo developer of Inkdrop. It's already been 4 years (!) since I last published a roadmap for Inkdrop here in 2020. Some items from that roadmap are still in progress—I haven’t given up on them—but I felt it’</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2024-12-25">25 Dec 2024</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
     </entry>
 </feed>
