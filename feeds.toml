@@ -23,3 +23,14 @@ titleSelector = "h1.post__title a"
 linkSelector = "h1.post__title a"
 dateSelector = "span.post__time"
 dateFormat = "yyyy-MM-dd"
+
+[frostming]
+url = "https://frostming.com/"
+title = "Frost Ming — Blog"
+# Each post item on the homepage has this container with padding utility classes
+entrySelector = "main div.w-full.relative.pb-6.pt-6.pl-6.pr-6"
+titleSelector = "a[href^='/20']"
+linkSelector = "a[href^='/20']"
+# Date appears as YYYY-MM-DD in the first meta row; select the second child to avoid the icon
+dateSelector = ".flex.items-center > :nth-child(2)"
+dateFormat = "yyyy-MM-dd"
