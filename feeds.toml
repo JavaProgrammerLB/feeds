@@ -34,3 +34,13 @@ linkSelector = "a[href^='/20']"
 # Date appears as YYYY-MM-DD in the first meta row; select the second child to avoid the icon
 dateSelector = ".flex.items-center > :nth-child(2)"
 dateFormat = "yyyy-MM-dd"
+
+[TakuyaMatsuyama]
+url = "https://www.devas.life/"
+title = "Takuya Matsuyama — Blog"
+# Each post card is an <article> with a single wrapper <a>, an <h3> title, and a <time> like "15 Oct 2025"
+entrySelector = "article"
+titleSelector = "h3"
+linkSelector = "a"
+dateSelector = "time"
+dateFormat = "dd MMM yyyy"
