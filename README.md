@@ -2,3 +2,7 @@
 # Use Github Action With [feed-me-up-scotty](https://www.npmjs.com/package/feed-me-up-scotty) tool to generate and host website rss feed automation
 - [feeds.toml setup document](https://feed-me-up-scotty.vincenttunru.com/docs/setup/)
 - [feed-me-up-scotty souce code](https://gitlab.com/vincenttunru/feed-me-up-scotty/) 
+
+## feed url
+- [limboy's blog](https://feeds.yitianyigexiangfa.com/limboy.xml)
+all config url in [feeds.toml](feeds.toml)
