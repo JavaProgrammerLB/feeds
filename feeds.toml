@@ -7,26 +7,10 @@ linkSelector = "*"
 dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
 
-[PaulGraham]
-url = "https://paulgraham.com/articles.html"
-title = "Paul Graham Essays"
-# Main essays are listed inside a table with width=435; exclude the header table (with the "Essays" image)
-# and the bottom RSS link. Select the anchor itself as the entry so we can use "*" for title/link.
-entrySelector = "table[width='435']:not(:has(img[alt='Essays'])) a[href$='.html']:not([href='rss.html'])"
-titleSelector = "*"
-linkSelector = "*"
-
 [SharonBrizinov]
 url = "https://sharonbrizinov.com/"
-
-[yihong]
-url = "https://blog.yihong0618.me/"
-
-[Frost]
-url = "https://frostming.com/"
-
-[TakuyaMatsuyama]
-url = "https://www.devas.life/"
-
-[SteveTurbek]
-url = "https://turbek.com/"
+title = "Sharon Brizinov — Selected Writeups"
+# Target only the list under the "Selected Writeups, competitions, and presentations" section
+entrySelector = "h2#selected-writeups-competitions-and-presentations + ul li"
+titleSelector = "a"
+linkSelector = "a"
