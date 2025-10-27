@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-26T21:34:46.500Z</updated>
+    <updated>2025-10-27T09:39:56.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[记一次与 Coding Agent 合作实现 Feature 的过程 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature</id>
+        <link href="https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1 flex items-center gap-2"> 记一次与 Coding Agent 合作实现 Feature 的过程  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-10-27 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[构建自己的反思系统 (limboy blog)]]></title>
         <id>https://limboy.me/posts/review-system</id>
