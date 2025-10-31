@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2025-10-30T21:34:53.723Z</updated>
+    <updated>2025-10-31T09:39:20.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How low self-esteem and hyperfocus drove me to burnout]]></title>
+        <id>https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/</id>
+        <link href="https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/"/>
+        <updated>2025-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
+                    <p class="gh-card-excerpt is-body">Hey, this is Takuya. Recently, I pushed myself too hard on indie development and ended up sick, as I posted a video on my channel recently. My atopic dermatitis flared up badly, and my quality of life dropped sharply. It was like hell, literally. I’m still recovering, but I’</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-31">31 Oct 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The scariest “user support” email I’ve ever received]]></title>
         <id>https://www.devas.life/the-scariest-user-support-email-ive-ever-received/</id>
@@ -17,7 +45,7 @@
                             /content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
                             /content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
                             /content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="640px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received">
+                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -188,34 +216,6 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to automate development journaling with Claude Code]]></title>
-        <id>https://www.devas.life/how-to-automate-development-journaling-with-claude-code/</id>
-        <link href="https://www.devas.life/how-to-automate-development-journaling-with-claude-code/"/>
-        <updated>2025-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-development-journaling-with-claude-code/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
-                            /content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
-                            /content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
-                            /content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
-                            /content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">How to automate development journaling with Claude Code</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I recently started using Claude Code to write code. It works great with my tmux and neovim setup since it can run as a CLI tool. It dramatically improved my productivity, but I tend to get lost in what I was working</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-06-20">20 Jun 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -264,6 +264,33 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to automate development journaling with Claude Code]]></title>
+        <id>https://www.devas.life/how-to-automate-development-journaling-with-claude-code/</id>
+        <link href="https://www.devas.life/how-to-automate-development-journaling-with-claude-code/"/>
+        <updated>2025-06-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-development-journaling-with-claude-code/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
+                            /content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
+                            /content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
+                            /content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
+                            /content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to automate development journaling with Claude Code</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I recently started using Claude Code to write code. It works great with my tmux and neovim setup since it can run as a CLI tool. It dramatically improved my productivity, but I tend to get lost in what I was working</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-06-20">20 Jun 2025</time>
                 <!--
          --></footer>
         </div>
@@ -582,33 +609,6 @@ So, in</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2024-12-28">28 Dec 2024</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Roadmap of Inkdrop vol.6]]></title>
-        <id>https://www.devas.life/the-roadmap-of-inkdrop-vol-6/</id>
-        <link href="https://www.devas.life/the-roadmap-of-inkdrop-vol-6/"/>
-        <updated>2024-12-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-roadmap-of-inkdrop-vol-6/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 160w,
-                            /content/images/size/w320/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 320w,
-                            /content/images/size/w600/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 600w,
-                            /content/images/size/w960/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 960w,
-                            /content/images/size/w1200/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg 2000w" sizes="320px" src="/content/images/size/w600/2024/12/2024-12-25_Inkdrop-roadmap-vol.6_thumb.jpg" alt="The Roadmap of Inkdrop vol.6" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">The Roadmap of Inkdrop vol.6</h3>
-                    <p class="gh-card-excerpt is-body">Hi folks, it's Takuya here, the solo developer of Inkdrop. It's already been 4 years (!) since I last published a roadmap for Inkdrop here in 2020. Some items from that roadmap are still in progress—I haven’t given up on them—but I felt it’</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2024-12-25">25 Dec 2024</time>
                 <!--
          --></footer>
         </div>
