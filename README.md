@@ -8,5 +8,6 @@
 all config url in [feeds.toml](feeds.toml)
 
 ## Prompt
+```
 Please read the setup documentation at https://feed-me-up-scotty.vincenttunru.com/docs/setup and implement the configuration beginning at line ${LINE_NUMBER:38} for the ${BLOG_URL} blog so the repository can monitor that blog’s RSS feed. If the site requires dynamic rendering, you may use a Playwright MCP server to fetch and generate feed data.
 ```
