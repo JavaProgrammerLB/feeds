@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yihong0618.me/</id>
     <title>Yihong’s Blog</title>
-    <updated>2025-11-05T10:29:06.238Z</updated>
+    <updated>2025-11-06T09:38:30.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.yihong0618.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Things I don’t like]]></title>
+        <id>https://blog.yihong0618.me/issue-329/</id>
+        <link href="https://blog.yihong0618.me/issue-329/"/>
+        <updated>2025-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-329/">Things I don’t like</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-11-06</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/329">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-329/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes on Pycon2025]]></title>
         <id>https://blog.yihong0618.me/issue-327/</id>
@@ -246,33 +273,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-306/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近给开源项目贡献的记录]]></title>
-        <id>https://blog.yihong0618.me/issue-304/</id>
-        <link href="https://blog.yihong0618.me/issue-304/"/>
-        <updated>2025-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-304/">最近给开源项目贡献的记录</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-01-27</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/304">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-304/">Read more...</a>
                                     </div>]]></content>
     </entry>
 </feed>
