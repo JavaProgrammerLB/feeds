@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-07T09:36:30.909Z</updated>
+    <updated>2025-11-08T09:35:59.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
@@ -1906,6 +1906,37 @@
         <content type="html"><![CDATA[<a class="transition w-full active:text-[var(--title-active)] before:absolute before:bg-[var(--primary)] before:h-5 before:hidden before:left-[18px] before:rounded-md before:top-[35px] before:w-1 block dark:active:text-[var(--title-active)] dark:hover:text-[var(--primary)] font-bold hover:text-[var(--primary)] mb-3 md:before:block text-3xl text-90" href="/2024/21-centry-trend/" data-astro-cid-iyiqi2so="" style="--coverWidth:28%">《21世纪》与主流文化<svg data-icon="material-symbols:chevron-right-rounded" height="28" width="28" class="text-[var(--primary)] -translate-y-[0.15rem] inline md:hidden" viewBox="0 0 24 24" data-astro-cid-iyiqi2so=""><use href="#ai:material-symbols:chevron-right-rounded"></use></svg></a><div class="flex items-center dark:text-neutral-400 flex-wrap gap-4 gap-x-4 gap-y-2 mb-6 text-neutral-500" data-astro-cid-qtyrxm4s=""><div class="flex items-center" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:calendar-today-outline-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:calendar-today-outline-rounded"></use></svg></div><span class="text-sm text-50 font-medium" data-astro-cid-qtyrxm4s="">2024-07-24</span></div><div class="hidden items-center md:flex" data-astro-cid-qtyrxm4s=""><div class="meta-icon" data-astro-cid-qtyrxm4s=""><svg data-icon="material-symbols:tag-rounded" height="1em" width="1em" class="text-xl" viewBox="0 0 24 24" data-astro-cid-qtyrxm4s=""><use href="#ai:material-symbols:tag-rounded"></use></svg></div><div class="flex flex-row flex-nowrap" data-astro-cid-qtyrxm4s=""><div class="with-divider" data-astro-cid-qtyrxm4s=""><a class="transition text-sm text-50 dark:hover:text-[var(--primary)] font-medium hover:text-[var(--primary)] link-lg whitespace-nowrap" href="/tag/碎碎念/" aria-label="View all posts with the 碎碎念 tag" data-astro-cid-qtyrxm4s="">碎碎念</a></div></div></div></div><div class="transition mb-3.5 text-75" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""></div><div class="transition flex dark:text-white/30 gap-4 text-black/30 text-sm" style="--coverWidth:28%" data-astro-cid-iyiqi2so=""><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">787 字</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">|</div><div style="--coverWidth:28%" data-astro-cid-iyiqi2so="">4 分钟</div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two) (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/</id>
+        <link href="https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/"/>
+        <updated>2025-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/11/Work_At_Healthy_Pace.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/11/Work_At_Healthy_Pace.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here.
+As I wrote in my previous post, I recently pushed myself too hard with my indie SaaS dev work and ended up burning out.
+One of the main reasons was my tendency to hyperfocus.
+When I get absorbed in something, I tend to lose</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-11-08">08 Nov 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How low self-esteem and hyperfocus drove me to burnout (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/</id>
         <link href="https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/"/>
@@ -1917,7 +1948,7 @@
                             /content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
                             /content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
                             /content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout">
+                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -2085,37 +2116,6 @@ Then, I</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to automate signing your Windows app with Certum's SimplySign app (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/</id>
-        <link href="https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/"/>
-        <updated>2025-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-signing-your-windows-app-with-certum/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
-                            /content/images/size/w320/format/webp/2025/07/image-3.png 320w,
-                            /content/images/size/w600/format/webp/2025/07/image-3.png 600w,
-                            /content/images/size/w960/format/webp/2025/07/image-3.png 960w,
-                            /content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">How to automate signing your Windows app with Certum's SimplySign app</h3>
-                    <p class="gh-card-excerpt is-body">I’ve been running a SaaS for 9 years, which includes an Electron app for Windows.
-For code signing, I’ve been using Certum's Code Signing Certificate:
-
-Code signing certificate for indie developersA walkthrough from buying a Certum’s code signing certificate to sign an app with itTakuya</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-07-11">11 Jul 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2164,6 +2164,36 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to automate signing your Windows app with Certum's SimplySign app (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/</id>
+        <link href="https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/"/>
+        <updated>2025-07-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-signing-your-windows-app-with-certum/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
+                            /content/images/size/w320/format/webp/2025/07/image-3.png 320w,
+                            /content/images/size/w600/format/webp/2025/07/image-3.png 600w,
+                            /content/images/size/w960/format/webp/2025/07/image-3.png 960w,
+                            /content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to automate signing your Windows app with Certum's SimplySign app</h3>
+                    <p class="gh-card-excerpt is-body">I’ve been running a SaaS for 9 years, which includes an Electron app for Windows.
+For code signing, I’ve been using Certum's Code Signing Certificate:
+
+Code signing certificate for indie developersA walkthrough from buying a Certum’s code signing certificate to sign an app with itTakuya</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-07-11">11 Jul 2025</time>
                 <!--
          --></footer>
         </div>
@@ -2475,40 +2505,6 @@ Have you ever run a profitable web service for more</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-01-09">09 Jan 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to create beautiful glowing components on React Native 0.76+ (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-to-create-beautiful-glowing-components-on-react-native-0-76/</id>
-        <link href="https://www.devas.life/how-to-create-beautiful-glowing-components-on-react-native-0-76/"/>
-        <updated>2024-12-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-create-beautiful-glowing-components-on-react-native-0-76/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 160w,
-                            /content/images/size/w320/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 320w,
-                            /content/images/size/w600/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 600w,
-                            /content/images/size/w960/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 960w,
-                            /content/images/size/w1200/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2024/12/2024-12-26-React-Native-Beautiful-Buttons_thumb2.jpg" alt="How to create beautiful glowing components on React Native 0.76+" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How to create beautiful glowing components on React Native 0.76+</h3>
-                    <p class="gh-card-excerpt is-body">I wanted to try one of the new features introduced in React Native 0.76, which is box-shadow. Evan Bacon told me that it even supports multiple box shadows on Android – pretty exciting!
-
-you can use multiple box shadows on android now
-
-— Evan Bacon 🥓 (@Baconbrix) November 15, 2024
-
-
-So, in</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2024-12-28">28 Dec 2024</time>
                 <!--
          --></footer>
         </div>
