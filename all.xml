@@ -2,8 +2,1583 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-12T09:38:02.467Z</updated>
+    <updated>2025-11-13T09:37:53.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
+        <id>https://limboy.me/posts/pingmind</id>
+        <link href="https://limboy.me/posts/pingmind"/>
+        <updated>2025-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的第一款 iOS App：PingMind  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-11-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一次与 Coding Agent 合作实现 Feature 的过程 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature</id>
+        <link href="https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 记一次与 Coding Agent 合作实现 Feature 的过程  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-10-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建自己的反思系统 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/review-system</id>
+        <link href="https://limboy.me/posts/review-system"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 构建自己的反思系统  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-10-17 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避风塘 V2 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/before-town-v2</id>
+        <link href="https://limboy.me/posts/before-town-v2"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 避风塘 V2  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-09-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35mm Coffee - 一个创意工作者的线上社区 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/35mm-coffee</id>
+        <link href="https://limboy.me/posts/35mm-coffee"/>
+        <updated>2025-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 35mm Coffee - 一个创意工作者的线上社区  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-07-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避风塘 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/before-town</id>
+        <link href="https://limboy.me/posts/before-town"/>
+        <updated>2025-07-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 避风塘  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-07-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做了一个小游戏：笔画猜成语 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/stroke</id>
+        <link href="https://limboy.me/posts/stroke"/>
+        <updated>2025-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 做了一个小游戏：笔画猜成语  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-29 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding 一段时间后的感受 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/vibe-coding</id>
+        <link href="https://limboy.me/posts/vibe-coding"/>
+        <updated>2025-06-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Vibe Coding 一段时间后的感受  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-28 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科萨人和祖鲁人 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/amaxhosa-amazulu</id>
+        <link href="https://limboy.me/posts/amaxhosa-amazulu"/>
+        <updated>2025-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 科萨人和祖鲁人  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LimTube (limboy blog)]]></title>
+        <id>https://limboy.me/posts/limtube</id>
+        <link href="https://limboy.me/posts/limtube"/>
+        <updated>2025-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> LimTube  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email (limboy blog)]]></title>
+        <id>https://limboy.me/posts/email</id>
+        <link href="https://limboy.me/posts/email"/>
+        <updated>2025-06-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Email  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冷水澡 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/code-shower</id>
+        <link href="https://limboy.me/posts/code-shower"/>
+        <updated>2025-06-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 冷水澡  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-13 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 AI 辅助编程的一些实践和思考 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ai-assisted-coding</id>
+        <link href="https://limboy.me/posts/ai-assisted-coding"/>
+        <updated>2025-06-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于 AI 辅助编程的一些实践和思考  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-06-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想的文本内容创作、分发和消费系统 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ideal-text-content-create-deliver-consume</id>
+        <link href="https://limboy.me/posts/ideal-text-content-create-deliver-consume"/>
+        <updated>2025-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 理想的文本内容创作、分发和消费系统  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-03-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以终为始，面向价值观生活 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/value-oriented-life</id>
+        <link href="https://limboy.me/posts/value-oriented-life"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 以终为始，面向价值观生活  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-02-28 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 辅助编程的崛起意味着什么？ (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ai-programming</id>
+        <link href="https://limboy.me/posts/ai-programming"/>
+        <updated>2025-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> AI 辅助编程的崛起意味着什么？  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2025-02-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去喀什旅行 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/travel-to-kashi</id>
+        <link href="https://limboy.me/posts/travel-to-kashi"/>
+        <updated>2024-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 去喀什旅行  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-12-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立开发之路：在不确定中寻找确定性 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/indie-dev</id>
+        <link href="https://limboy.me/posts/indie-dev"/>
+        <updated>2024-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 独立开发之路：在不确定中寻找确定性  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-11-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？ (limboy blog)]]></title>
+        <id>https://limboy.me/posts/bike-shedding</id>
+        <link href="https://limboy.me/posts/bike-shedding"/>
+        <updated>2024-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-11-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洗澡这件小事值得被认真对待 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/shower-habit</id>
+        <link href="https://limboy.me/posts/shower-habit"/>
+        <updated>2024-09-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 洗澡这件小事值得被认真对待  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-09-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebuilt this site for the next decade using Astro (limboy blog)]]></title>
+        <id>https://limboy.me/posts/rebuilt-this-site-for-the-next-decade</id>
+        <link href="https://limboy.me/posts/rebuilt-this-site-for-the-next-decade"/>
+        <updated>2024-09-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Rebuilt this site for the next decade using Astro  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-09-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 不断发展的时代，人应该做什么 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/thinking-on-the-development-stages-of-ai-and-its-impact</id>
+        <link href="https://limboy.me/posts/thinking-on-the-development-stages-of-ai-and-its-impact"/>
+        <updated>2024-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> AI 不断发展的时代，人应该做什么  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-07-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[展开讲讲独立创作者的工作节奏 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/indie-creator-routine</id>
+        <link href="https://limboy.me/posts/indie-creator-routine"/>
+        <updated>2024-07-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 展开讲讲独立创作者的工作节奏  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-07-13 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立创作是一种生活方式 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/independent-creation-is-a-lifestyle</id>
+        <link href="https://limboy.me/posts/independent-creation-is-a-lifestyle"/>
+        <updated>2024-07-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 独立创作是一种生活方式  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-07-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何高效地学习英语 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/learn-english-effectively</id>
+        <link href="https://limboy.me/posts/learn-english-effectively"/>
+        <updated>2024-06-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 如何高效地学习英语  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-06-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polly V2 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/polly-v2</id>
+        <link href="https://limboy.me/posts/polly-v2"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Polly V2  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-06-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Telegram 来构建数字花园 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/telegram-digital-garden</id>
+        <link href="https://limboy.me/posts/telegram-digital-garden"/>
+        <updated>2024-05-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 用 Telegram 来构建数字花园  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-05-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于易维护的代码 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/maintainable-code</id>
+        <link href="https://limboy.me/posts/maintainable-code"/>
+        <updated>2024-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于易维护的代码  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-03-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不再好好做音乐流媒体的 Spotify (limboy blog)]]></title>
+        <id>https://limboy.me/posts/spotify-expand-scope</id>
+        <link href="https://limboy.me/posts/spotify-expand-scope"/>
+        <updated>2024-02-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 不再好好做音乐流媒体的 Spotify  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2024-02-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polly (limboy blog)]]></title>
+        <id>https://limboy.me/posts/polly</id>
+        <link href="https://limboy.me/posts/polly"/>
+        <updated>2023-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Polly  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-12-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吃饭时也可以练习正念 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/be-mindful-while-eating</id>
+        <link href="https://limboy.me/posts/be-mindful-while-eating"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 吃饭时也可以练习正念  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-11-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感恩练习 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/grateful-practice</id>
+        <link href="https://limboy.me/posts/grateful-practice"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 感恩练习  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-11-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元宝 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/yuanbao</id>
+        <link href="https://limboy.me/posts/yuanbao"/>
+        <updated>2023-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 元宝  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-11-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的理想住所 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-ideal-residence</id>
+        <link href="https://limboy.me/posts/my-ideal-residence"/>
+        <updated>2023-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的理想住所  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-06-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将糟心事变成习惯的触发器 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/turn-bad-thing-into-trigger</id>
+        <link href="https://limboy.me/posts/turn-bad-thing-into-trigger"/>
+        <updated>2023-06-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 将糟心事变成习惯的触发器  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-06-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[方便的代价 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-price-of-convenience</id>
+        <link href="https://limboy.me/posts/the-price-of-convenience"/>
+        <updated>2023-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 方便的代价  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-06-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把自己当作他人，把他人当做自己，把课题当作科学研究 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/3-tips</id>
+        <link href="https://limboy.me/posts/3-tips"/>
+        <updated>2023-05-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 把自己当作他人，把他人当做自己，把课题当作科学研究  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-05-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真诚可能是最重要的一个品德 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/sincerity</id>
+        <link href="https://limboy.me/posts/sincerity"/>
+        <updated>2023-05-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 真诚可能是最重要的一个品德  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-05-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Google Groups 作为评论系统 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/use-google-groups-as-comment-system</id>
+        <link href="https://limboy.me/posts/use-google-groups-as-comment-system"/>
+        <updated>2023-05-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 Google Groups 作为评论系统  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-05-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Graham: What I Worked On (limboy blog)]]></title>
+        <id>https://limboy.me/posts/what-i-worked-on</id>
+        <link href="https://limboy.me/posts/what-i-worked-on"/>
+        <updated>2023-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Paul Graham: What I Worked On  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-04-29 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beef, 被压抑的情绪与第22条军规 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/beef</id>
+        <link href="https://limboy.me/posts/beef"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Beef, 被压抑的情绪与第22条军规  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-04-26 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我心目中好工具的标准 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/standards-of-good-tools</id>
+        <link href="https://limboy.me/posts/standards-of-good-tools"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我心目中好工具的标准  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-04-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Period(蓝色时期)：一部关于画画的动漫 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/blue-period</id>
+        <link href="https://limboy.me/posts/blue-period"/>
+        <updated>2023-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Blue Period(蓝色时期)：一部关于画画的动漫  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-04-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex Machina(机械姬)：有意识的 AI 会是怎样的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ex-machina</id>
+        <link href="https://limboy.me/posts/ex-machina"/>
+        <updated>2023-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Ex Machina(机械姬)：有意识的 AI 会是怎样的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-04-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是 Mastodon（长毛象），应该怎么玩 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mastodon</id>
+        <link href="https://limboy.me/posts/mastodon"/>
+        <updated>2023-01-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 什么是 Mastodon（长毛象），应该怎么玩  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-01-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于工作后 Gap Year 的一些经验 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/gap-year</id>
+        <link href="https://limboy.me/posts/gap-year"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于工作后 Gap Year 的一些经验  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2023-01-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的博客系统演变之路 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-blog-system</id>
+        <link href="https://limboy.me/posts/my-blog-system"/>
+        <updated>2022-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的博客系统演变之路  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-11-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在 Obsidian 上的 ZettelKasten 实践 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/obsidian-zettelkasten</id>
+        <link href="https://limboy.me/posts/obsidian-zettelkasten"/>
+        <updated>2022-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我在 Obsidian 上的 ZettelKasten 实践  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-10-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Routine (limboy blog)]]></title>
+        <id>https://limboy.me/posts/routine</id>
+        <link href="https://limboy.me/posts/routine"/>
+        <updated>2022-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Routine  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-10-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Router 6 是如何工作的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/react-router-6</id>
+        <link href="https://limboy.me/posts/react-router-6"/>
+        <updated>2022-10-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> React Router 6 是如何工作的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-10-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你要如何衡量你的人生 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-will-you-measure-your-life</id>
+        <link href="https://limboy.me/posts/how-will-you-measure-your-life"/>
+        <updated>2022-08-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 你要如何衡量你的人生  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-08-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine, Tailwind, Deno, SQLite 我的本地服务四件套 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/local-services-tools</id>
+        <link href="https://limboy.me/posts/local-services-tools"/>
+        <updated>2022-07-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Alpine, Tailwind, Deno, SQLite 我的本地服务四件套  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-07-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel, Cloudflare, fly.io 我的云服务三剑客 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/vercel-cf-fly</id>
+        <link href="https://limboy.me/posts/vercel-cf-fly"/>
+        <updated>2022-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Vercel, Cloudflare, fly.io 我的云服务三剑客  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-06-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过 VisiData 来方便地分析数据 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/visidata</id>
+        <link href="https://limboy.me/posts/visidata"/>
+        <updated>2022-06-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 通过 VisiData 来方便地分析数据  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-06-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚好够用的简易前端工具集 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/just-enough-toolkits-for-simple-frontend-project</id>
+        <link href="https://limboy.me/posts/just-enough-toolkits-for-simple-frontend-project"/>
+        <updated>2022-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 刚好够用的简易前端工具集  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-04-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的前端学习路线 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/frontend-learning</id>
+        <link href="https://limboy.me/posts/frontend-learning"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的前端学习路线  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-04-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Apple Watch 来约束娱乐时间 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/limit-entertainment</id>
+        <link href="https://limboy.me/posts/limit-entertainment"/>
+        <updated>2022-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 用 Apple Watch 来约束娱乐时间  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-04-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过视频片段来学习英语 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/english-video-clips</id>
+        <link href="https://limboy.me/posts/english-video-clips"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 通过视频片段来学习英语  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-03-31 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 Logseq 使用习惯 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/logseq</id>
+        <link href="https://limboy.me/posts/logseq"/>
+        <updated>2022-03-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的 Logseq 使用习惯  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-03-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拼音猜成语 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/idiom</id>
+        <link href="https://limboy.me/posts/idiom"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 拼音猜成语  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-03-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 Bytetalk (limboy blog)]]></title>
+        <id>https://limboy.me/posts/bytetalk</id>
+        <link href="https://limboy.me/posts/bytetalk"/>
+        <updated>2022-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于 Bytetalk  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-03-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/2021-review</id>
+        <link href="https://limboy.me/posts/2021-review"/>
+        <updated>2022-01-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2021 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2022-01-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 个囚犯的随机选择问题 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/100-prisoners</id>
+        <link href="https://limboy.me/posts/100-prisoners"/>
+        <updated>2021-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 100 个囚犯的随机选择问题  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-11-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021/10 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/2021-10-notes</id>
+        <link href="https://limboy.me/posts/2021-10-notes"/>
+        <updated>2021-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2021/10 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-11-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个看起来不可能赢的游戏 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/impossible-win-game</id>
+        <link href="https://limboy.me/posts/impossible-win-game"/>
+        <updated>2021-11-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 一个看起来不可能赢的游戏  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-11-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否要买 M1 Pro (limboy blog)]]></title>
+        <id>https://limboy.me/posts/buy-m1-pro-or-not</id>
+        <link href="https://limboy.me/posts/buy-m1-pro-or-not"/>
+        <updated>2021-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 是否要买 M1 Pro  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-10-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021/09 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/2021-09-notes</id>
+        <link href="https://limboy.me/posts/2021-09-notes"/>
+        <updated>2021-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2021/09 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-10-17 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021/08 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/2021-08-notes</id>
+        <link href="https://limboy.me/posts/2021-08-notes"/>
+        <updated>2021-10-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2021/08 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-10-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对自己说的一些话 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/words-to-myself</id>
+        <link href="https://limboy.me/posts/words-to-myself"/>
+        <updated>2021-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 对自己说的一些话  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-10-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十分钟冥想 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ten-minutes-a-day-mindfulness</id>
+        <link href="https://limboy.me/posts/ten-minutes-a-day-mindfulness"/>
+        <updated>2021-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 十分钟冥想  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-10-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不再钟情于移动端开发 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/bye-mobile-dev</id>
+        <link href="https://limboy.me/posts/bye-mobile-dev"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 不再钟情于移动端开发  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-09-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WaitButWhy: The Tail End (limboy blog)]]></title>
+        <id>https://limboy.me/posts/wbw-the-tail-end</id>
+        <link href="https://limboy.me/posts/wbw-the-tail-end"/>
+        <updated>2021-08-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> WaitButWhy: The Tail End  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-08-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Derek Sivers: How to Live (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-live</id>
+        <link href="https://limboy.me/posts/how-to-live"/>
+        <updated>2021-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Derek Sivers: How to Live  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的音乐播放器可能跟你的不太一样 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-music-player</id>
+        <link href="https://limboy.me/posts/my-music-player"/>
+        <updated>2021-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的音乐播放器可能跟你的不太一样  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Graham: Life is Short (limboy blog)]]></title>
+        <id>https://limboy.me/posts/life-is-short</id>
+        <link href="https://limboy.me/posts/life-is-short"/>
+        <updated>2021-07-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Paul Graham: Life is Short  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-13 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐一部真人秀：双层公寓（都会男女） (limboy blog)]]></title>
+        <id>https://limboy.me/posts/terrace-house</id>
+        <link href="https://limboy.me/posts/terrace-house"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 推荐一部真人秀：双层公寓（都会男女）  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近日随想 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/random-thoughts</id>
+        <link href="https://limboy.me/posts/random-thoughts"/>
+        <updated>2021-07-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 近日随想  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从「创新者」看计算机发展史 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/computer-history</id>
+        <link href="https://limboy.me/posts/computer-history"/>
+        <updated>2021-07-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 从「创新者」看计算机发展史  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-07-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件设计的哲学 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/software-design-philosophy</id>
+        <link href="https://limboy.me/posts/software-design-philosophy"/>
+        <updated>2021-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 软件设计的哲学  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-06-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程师的成长 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/eng-growth</id>
+        <link href="https://limboy.me/posts/eng-growth"/>
+        <updated>2021-06-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 工程师的成长  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-06-29 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 2021 年加入飞书是不错的选择 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/join-lark-2021</id>
+        <link href="https://limboy.me/posts/join-lark-2021"/>
+        <updated>2021-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 为什么 2021 年加入飞书是不错的选择  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2021-01-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应该成为专才还是通才 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/specialize-or-generalist</id>
+        <link href="https://limboy.me/posts/specialize-or-generalist"/>
+        <updated>2020-08-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 应该成为专才还是通才  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2020-08-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contact Tracing 技术实现解析 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/contact-tracing-tech-analyze</id>
+        <link href="https://limboy.me/posts/contact-tracing-tech-analyze"/>
+        <updated>2020-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Contact Tracing 技术实现解析  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2020-04-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强大的可视化利器 Chrome Trace Viewer 使用详解 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/chrome-trace-viewer</id>
+        <link href="https://limboy.me/posts/chrome-trace-viewer"/>
+        <updated>2020-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 强大的可视化利器 Chrome Trace Viewer 使用详解  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2020-03-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本印象 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/japan-impression</id>
+        <link href="https://limboy.me/posts/japan-impression"/>
+        <updated>2019-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 日本印象  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-10-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了不起的盖茨 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-great-gates</id>
+        <link href="https://limboy.me/posts/the-great-gates"/>
+        <updated>2019-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 了不起的盖茨  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-10-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[癌细胞的成长史 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/cancer</id>
+        <link href="https://limboy.me/posts/cancer"/>
+        <updated>2019-04-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 癌细胞的成长史  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-04-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对职业发展的一些想法 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/career</id>
+        <link href="https://limboy.me/posts/career"/>
+        <updated>2019-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 对职业发展的一些想法  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-04-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们是如何「看见」的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/see</id>
+        <link href="https://limboy.me/posts/see"/>
+        <updated>2019-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我们是如何「看见」的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-04-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[也来说说黑洞吧 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/blackhole</id>
+        <link href="https://limboy.me/posts/blackhole"/>
+        <updated>2019-04-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 也来说说黑洞吧  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-04-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于脑，你可能想知道的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/brain</id>
+        <link href="https://limboy.me/posts/brain"/>
+        <updated>2019-04-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于脑，你可能想知道的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-04-09 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Graham: How to Work Hard (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-work-hard</id>
+        <link href="https://limboy.me/posts/how-to-work-hard"/>
+        <updated>2019-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Paul Graham: How to Work Hard  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-02-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[架构师思维 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/architect-mindset</id>
+        <link href="https://limboy.me/posts/architect-mindset"/>
+        <updated>2019-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 架构师思维  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-02-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过 iframe 实现跨域通信 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/iframe-crossdomain</id>
+        <link href="https://limboy.me/posts/iframe-crossdomain"/>
+        <updated>2019-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 通过 iframe 实现跨域通信  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-02-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The War of Art (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-war-of-art</id>
+        <link href="https://limboy.me/posts/the-war-of-art"/>
+        <updated>2019-02-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> The War of Art  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-02-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 Flutter Layout 你应该知道的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/flutter-layout</id>
+        <link href="https://limboy.me/posts/flutter-layout"/>
+        <updated>2019-01-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于 Flutter Layout 你应该知道的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-01-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我觉得 Flutter 短期内不会流行但依然选择学习它 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/is-flutter-the-future</id>
+        <link href="https://limboy.me/posts/is-flutter-the-future"/>
+        <updated>2019-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 为什么我觉得 Flutter 短期内不会流行但依然选择学习它  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-01-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture Flutter App the Bloc_Redux Way (limboy blog)]]></title>
+        <id>https://limboy.me/posts/bloc-redux</id>
+        <link href="https://limboy.me/posts/bloc-redux"/>
+        <updated>2019-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Architecture Flutter App the Bloc_Redux Way  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-01-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「不就是」与「不仅仅是」 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/just-not-only</id>
+        <link href="https://limboy.me/posts/just-not-only"/>
+        <updated>2019-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 「不就是」与「不仅仅是」  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2019-01-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habbit 一个极简的习惯养成 App (limboy blog)]]></title>
+        <id>https://limboy.me/posts/habbit</id>
+        <link href="https://limboy.me/posts/habbit"/>
+        <updated>2018-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Habbit 一个极简的习惯养成 App  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-12-31 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-2018</id>
+        <link href="https://limboy.me/posts/my-2018"/>
+        <updated>2018-12-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2018 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-12-28 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个 Demo 入门 Flutter (limboy blog)]]></title>
+        <id>https://limboy.me/posts/flutter-demo</id>
+        <link href="https://limboy.me/posts/flutter-demo"/>
+        <updated>2018-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 一个 Demo 入门 Flutter  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-12-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[操作系统是如何管理内存的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/os-memory</id>
+        <link href="https://limboy.me/posts/os-memory"/>
+        <updated>2018-09-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 操作系统是如何管理内存的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-09-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时而不见 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/12hour</id>
+        <link href="https://limboy.me/posts/12hour"/>
+        <updated>2018-08-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 时而不见  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-08-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离开舒适区 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/leave-the-comfort-zone</id>
+        <link href="https://limboy.me/posts/leave-the-comfort-zone"/>
+        <updated>2018-04-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 离开舒适区  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-04-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You and Your Career (limboy blog)]]></title>
+        <id>https://limboy.me/posts/you-and-your-career</id>
+        <link href="https://limboy.me/posts/you-and-your-career"/>
+        <updated>2018-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> You and Your Career  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-04-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑海里的演员们（Your Brain at Work） (limboy blog)]]></title>
+        <id>https://limboy.me/posts/your-brain-at-work</id>
+        <link href="https://limboy.me/posts/your-brain-at-work"/>
+        <updated>2018-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 脑海里的演员们（Your Brain at Work）  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-03-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何设计一个配置中心的后端架构 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-architecture-config</id>
+        <link href="https://limboy.me/posts/how-to-architecture-config"/>
+        <updated>2018-03-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 如何设计一个配置中心的后端架构  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-03-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量级低风险 iOS Hotfix 方案 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-lightweight-hotfix</id>
+        <link href="https://limboy.me/posts/ios-lightweight-hotfix"/>
+        <updated>2018-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 轻量级低风险 iOS Hotfix 方案  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-03-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果想学点什么，就别依赖笔记软件 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/dont-rely-on-notetaker</id>
+        <link href="https://limboy.me/posts/dont-rely-on-notetaker"/>
+        <updated>2018-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 如果想学点什么，就别依赖笔记软件  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-01-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么番茄工作法对你没有效果 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/why-u-failed-on-pomodoro</id>
+        <link href="https://limboy.me/posts/why-u-failed-on-pomodoro"/>
+        <updated>2018-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 为什么番茄工作法对你没有效果  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2018-01-01 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017 Review (limboy blog)]]></title>
+        <id>https://limboy.me/posts/summary-of-2017</id>
+        <link href="https://limboy.me/posts/summary-of-2017"/>
+        <updated>2017-12-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 2017 Review  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-12-26 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何过好这一生 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/live-well</id>
+        <link href="https://limboy.me/posts/live-well"/>
+        <updated>2017-10-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 如何过好这一生  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-10-17 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App 图片体验指标 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/app-img-metrics</id>
+        <link href="https://limboy.me/posts/app-img-metrics"/>
+        <updated>2017-09-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> App 图片体验指标  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-09-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作缺少劲头怎么办 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/work-exhaust</id>
+        <link href="https://limboy.me/posts/work-exhaust"/>
+        <updated>2017-08-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 工作缺少劲头怎么办  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-08-31 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何认识事物 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-know</id>
+        <link href="https://limboy.me/posts/how-to-know"/>
+        <updated>2017-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 如何认识事物  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-07-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Right Way to Architect iOS App with Swift (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-right-way-to-ios-architecture</id>
+        <link href="https://limboy.me/posts/the-right-way-to-ios-architecture"/>
+        <updated>2017-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> The Right Way to Architect iOS App with Swift  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-06-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动端开发路在何方 - 寻找不变量 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mobile-dev-way-out</id>
+        <link href="https://limboy.me/posts/mobile-dev-way-out"/>
+        <updated>2017-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 移动端开发路在何方 - 寻找不变量  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-05-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alan Kay: The Center of Why (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-center-of-why</id>
+        <link href="https://limboy.me/posts/the-center-of-why"/>
+        <updated>2017-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Alan Kay: The Center of Why  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-04-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对职业生涯感到迷茫时可以看看这本书 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/pivot</id>
+        <link href="https://limboy.me/posts/pivot"/>
+        <updated>2017-04-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 对职业生涯感到迷茫时可以看看这本书  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2017-04-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是时候学习 RxSwift 了 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/time-to-learn-rxswift</id>
+        <link href="https://limboy.me/posts/time-to-learn-rxswift"/>
+        <updated>2016-12-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 是时候学习 RxSwift 了  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-12-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「无侵入页面加载完成检测」的一些思路 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/page-open-detect</id>
+        <link href="https://limboy.me/posts/page-open-detect"/>
+        <updated>2016-12-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 「无侵入页面加载完成检测」的一些思路  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-12-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReSwift 介绍 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/reswift-analyze</id>
+        <link href="https://limboy.me/posts/reswift-analyze"/>
+        <updated>2016-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> ReSwift 介绍  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-12-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做一个 App 前需要考虑的几件事 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/starting-an-app</id>
+        <link href="https://limboy.me/posts/starting-an-app"/>
+        <updated>2016-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 做一个 App 前需要考虑的几件事  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-07-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘑菇街 App 的组件化之路·续 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mgj-components-continued</id>
+        <link href="https://limboy.me/posts/mgj-components-continued"/>
+        <updated>2016-03-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 蘑菇街 App 的组件化之路·续  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-03-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘑菇街 App 的组件化之路 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mgj-components</id>
+        <link href="https://limboy.me/posts/mgj-components"/>
+        <updated>2016-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 蘑菇街 App 的组件化之路  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2016-03-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不可变对象的魅力 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-power-of-immutable-objects</id>
+        <link href="https://limboy.me/posts/the-power-of-immutable-objects"/>
+        <updated>2015-10-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 不可变对象的魅力  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-10-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVVM without ReactiveCocoa (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-mvvm-without-reactivecocoa</id>
+        <link href="https://limboy.me/posts/ios-mvvm-without-reactivecocoa"/>
+        <updated>2015-09-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> MVVM without ReactiveCocoa  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-09-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 统计打点那些事 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-analytics</id>
+        <link href="https://limboy.me/posts/ios-analytics"/>
+        <updated>2015-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> iOS 统计打点那些事  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-09-09 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习如何学习 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/learning-how-to-learn</id>
+        <link href="https://limboy.me/posts/learning-how-to-learn"/>
+        <updated>2015-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 学习如何学习  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-08-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced NSOperation (limboy blog)]]></title>
+        <id>https://limboy.me/posts/advanced-nsoperation</id>
+        <link href="https://limboy.me/posts/advanced-nsoperation"/>
+        <updated>2015-08-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Advanced NSOperation  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-08-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Builder Pattern 在 Objective-C 中的使用 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/builder-pattern</id>
+        <link href="https://limboy.me/posts/builder-pattern"/>
+        <updated>2015-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Builder Pattern 在 Objective-C 中的使用  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2015-02-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自学 iOS 开发的一些经验 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/learning-ios</id>
+        <link href="https://limboy.me/posts/learning-ios"/>
+        <updated>2014-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 自学 iOS 开发的一些经验  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-12-31 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读源码的乐趣 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-pleasure-of-reading-source</id>
+        <link href="https://limboy.me/posts/the-pleasure-of-reading-source"/>
+        <updated>2014-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 阅读源码的乐趣  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-12-17 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读 Facebook App 头文件的一些收获 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/facebook-app-headers</id>
+        <link href="https://limboy.me/posts/facebook-app-headers"/>
+        <updated>2014-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 读 Facebook App 头文件的一些收获  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-11-28 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把手机拿在手里，这样就不会错过细微的风景了 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/phone-in-my-hand</id>
+        <link href="https://limboy.me/posts/phone-in-my-hand"/>
+        <updated>2014-09-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 把手机拿在手里，这样就不会错过细微的风景了  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-09-22 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Details - Camu (limboy blog)]]></title>
+        <id>https://limboy.me/posts/camu</id>
+        <link href="https://limboy.me/posts/camu"/>
+        <updated>2014-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Design Details - Camu  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-09-20 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MVP VS MLP (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mvp-vs-mlp</id>
+        <link href="https://limboy.me/posts/mvp-vs-mlp"/>
+        <updated>2014-09-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> MVP VS MLP  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-09-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做产品的态度 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-attitude-of-making-products</id>
+        <link href="https://limboy.me/posts/the-attitude-of-making-products"/>
+        <updated>2014-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 做产品的态度  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-09-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactiveCocoa2 实战 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/deep-into-reactivecocoa2</id>
+        <link href="https://limboy.me/posts/deep-into-reactivecocoa2"/>
+        <updated>2014-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> ReactiveCocoa2 实战  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-06-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用objection来模块化开发iOS项目 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/use-objection-to-decouple-ios-project</id>
+        <link href="https://limboy.me/posts/use-objection-to-decouple-ios-project"/>
+        <updated>2014-04-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 使用objection来模块化开发iOS项目  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-04-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发新版花瓣iPhone客户端 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/huaban-app-redesign</id>
+        <link href="https://limboy.me/posts/huaban-app-redesign"/>
+        <updated>2014-03-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 开发新版花瓣iPhone客户端  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-03-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github的扁平化管理与创新 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/github-lean-management-strategy</id>
+        <link href="https://limboy.me/posts/github-lean-management-strategy"/>
+        <updated>2014-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Github的扁平化管理与创新  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-01-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 AFNetworking2.0 和 RAC 的iOS REST Client (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-rest-client-implementation</id>
+        <link href="https://limboy.me/posts/ios-rest-client-implementation"/>
+        <updated>2014-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 基于 AFNetworking2.0 和 RAC 的iOS REST Client  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-01-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[类簇在 iOS 开发中的应用 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/class-cluster</id>
+        <link href="https://limboy.me/posts/class-cluster"/>
+        <updated>2014-01-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 类簇在 iOS 开发中的应用  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2014-01-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说 ReactiveCocoa 2 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/reactivecocoa-2</id>
+        <link href="https://limboy.me/posts/reactivecocoa-2"/>
+        <updated>2013-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说 ReactiveCocoa 2  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-12-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读《程序员的思维修炼》 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/pragmatic-thinking-and-learning</id>
+        <link href="https://limboy.me/posts/pragmatic-thinking-and-learning"/>
+        <updated>2013-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 读《程序员的思维修炼》  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-10-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Icarus Deception (伊卡洛斯的骗局) (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-icarus-deception</id>
+        <link href="https://limboy.me/posts/the-icarus-deception"/>
+        <updated>2013-10-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> The Icarus Deception (伊卡洛斯的骗局)  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-10-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 项目的目录结构和开发流程 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/build-ios-application</id>
+        <link href="https://limboy.me/posts/build-ios-application"/>
+        <updated>2013-09-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> iOS 项目的目录结构和开发流程  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-09-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dip (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-dip</id>
+        <link href="https://limboy.me/posts/the-dip"/>
+        <updated>2013-09-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> The Dip  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-09-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)KVO的内部实现 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/internal-implementation-of-kvo</id>
+        <link href="https://limboy.me/posts/internal-implementation-of-kvo"/>
+        <updated>2013-08-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)KVO的内部实现  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-08-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译) Objective-C 的动态特性 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/dynamic-tips-and-tricks-with-objective-c</id>
+        <link href="https://limboy.me/posts/dynamic-tips-and-tricks-with-objective-c"/>
+        <updated>2013-08-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译) Objective-C 的动态特性  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-08-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactiveCocoa 与 Functional Reactive Programming (limboy blog)]]></title>
+        <id>https://limboy.me/posts/frp-reactivecocoa</id>
+        <link href="https://limboy.me/posts/frp-reactivecocoa"/>
+        <updated>2013-06-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> ReactiveCocoa 与 Functional Reactive Programming  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-06-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说iOS的多线程Core Data (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-multi-thread-core-data</id>
+        <link href="https://limboy.me/posts/ios-multi-thread-core-data"/>
+        <updated>2013-06-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说iOS的多线程Core Data  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-06-16 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单说说iOS的图形和动画 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ios-graphic-animation</id>
+        <link href="https://limboy.me/posts/ios-graphic-animation"/>
+        <updated>2013-06-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 简单说说iOS的图形和动画  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-06-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说 Core Foundation (limboy blog)]]></title>
+        <id>https://limboy.me/posts/core-foundation</id>
+        <link href="https://limboy.me/posts/core-foundation"/>
+        <updated>2013-06-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说 Core Foundation  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-06-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活的乐趣 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/enjoy-life</id>
+        <link href="https://limboy.me/posts/enjoy-life"/>
+        <updated>2013-04-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 生活的乐趣  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-04-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[职业规划是不靠谱的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/career-planning</id>
+        <link href="https://limboy.me/posts/career-planning"/>
+        <updated>2013-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 职业规划是不靠谱的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2013-04-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的袜子还干着吗？ (limboy blog)]]></title>
+        <id>https://limboy.me/posts/sock</id>
+        <link href="https://limboy.me/posts/sock"/>
+        <updated>2012-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 你的袜子还干着吗？  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-12-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发Once Touch的一些感想和经验小结 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/once-touch-conclude</id>
+        <link href="https://limboy.me/posts/once-touch-conclude"/>
+        <updated>2012-11-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 开发Once Touch的一些感想和经验小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-11-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我已经不在知乎了 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/im-not-at-zhihu</id>
+        <link href="https://limboy.me/posts/im-not-at-zhihu"/>
+        <updated>2012-09-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我已经不在知乎了  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-09-11 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员，你还酷吗？ (limboy blog)]]></title>
+        <id>https://limboy.me/posts/hey-programmers-are-you-cool</id>
+        <link href="https://limboy.me/posts/hey-programmers-are-you-cool"/>
+        <updated>2012-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 程序员，你还酷吗？  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-07-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这些年我的不足 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-shortages</id>
+        <link href="https://limboy.me/posts/my-shortages"/>
+        <updated>2012-06-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 这些年我的不足  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-06-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《穷查理宝典》小记 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/charles-thomas-munger</id>
+        <link href="https://limboy.me/posts/charles-thomas-munger"/>
+        <updated>2012-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 《穷查理宝典》小记  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-05-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了个基于SQLAlchemy的ORM (limboy blog)]]></title>
+        <id>https://limboy.me/posts/introduce-thing-an-sqlalchemy-based-orm</id>
+        <link href="https://limboy.me/posts/introduce-thing-an-sqlalchemy-based-orm"/>
+        <updated>2012-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 写了个基于SQLAlchemy的ORM  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2012-02-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小谈摄影 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/about-photograph</id>
+        <link href="https://limboy.me/posts/about-photograph"/>
+        <updated>2011-12-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 小谈摄影  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-12-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次失败的上线 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/learned-from-an-unsuccessful-project</id>
+        <link href="https://limboy.me/posts/learned-from-an-unsuccessful-project"/>
+        <updated>2011-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 一次失败的上线  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-12-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 python 和 redis 实现实时聊天室 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/python-comet</id>
+        <link href="https://limboy.me/posts/python-comet"/>
+        <updated>2011-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 python 和 redis 实现实时聊天室  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-10-26 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[python 的简单 MapReduce 实现：计算π (limboy blog)]]></title>
+        <id>https://limboy.me/posts/python-mapreduce-pi</id>
+        <link href="https://limboy.me/posts/python-mapreduce-pi"/>
+        <updated>2011-09-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> python 的简单 MapReduce 实现：计算π  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-09-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)How To Find What You Love To Do (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-find-what-you-love-to-do</id>
+        <link href="https://limboy.me/posts/how-to-find-what-you-love-to-do"/>
+        <updated>2011-09-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)How To Find What You Love To Do  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-09-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知乎的困境 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/zhihu</id>
+        <link href="https://limboy.me/posts/zhihu"/>
+        <updated>2011-07-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 知乎的困境  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-07-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[time to leave (limboy blog)]]></title>
+        <id>https://limboy.me/posts/time-to-leave</id>
+        <link href="https://limboy.me/posts/time-to-leave"/>
+        <updated>2011-07-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> time to leave  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-07-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纪念L君 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/disillusion</id>
+        <link href="https://limboy.me/posts/disillusion"/>
+        <updated>2011-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 纪念L君  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-06-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小心 PHP 的类定义顺序与继承的问题 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/be-careful-with-php-extends</id>
+        <link href="https://limboy.me/posts/be-careful-with-php-extends"/>
+        <updated>2011-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 小心 PHP 的类定义顺序与继承的问题  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-06-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缩进输出目录结构并计算文件/文件夹大小 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/calc-tree</id>
+        <link href="https://limboy.me/posts/calc-tree"/>
+        <updated>2011-06-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 缩进输出目录结构并计算文件/文件夹大小  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-06-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一道面试题的思考 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-xor-find-num</id>
+        <link href="https://limboy.me/posts/php-xor-find-num"/>
+        <updated>2011-06-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 一道面试题的思考  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-06-03 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做完猜电影的一点感想 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/iguess-feeling</id>
+        <link href="https://limboy.me/posts/iguess-feeling"/>
+        <updated>2011-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 做完猜电影的一点感想  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[have you lost yourself? (limboy blog)]]></title>
+        <id>https://limboy.me/posts/have-you-lost-your-self</id>
+        <link href="https://limboy.me/posts/have-you-lost-your-self"/>
+        <updated>2011-05-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> have you lost yourself?  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做了个猜电影的小应用 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/iguess</id>
+        <link href="https://limboy.me/posts/iguess"/>
+        <updated>2011-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 做了个猜电影的小应用  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-12 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫谈互联网产品开发 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/web-product-develop</id>
+        <link href="https://limboy.me/posts/web-product-develop"/>
+        <updated>2011-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 漫谈互联网产品开发  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iframe 无刷新跨域上传文件并获取返回值 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/crossdomain-upload</id>
+        <link href="https://limboy.me/posts/crossdomain-upload"/>
+        <updated>2011-05-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> iframe 无刷新跨域上传文件并获取返回值  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API 的返回值形式 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/api-return-format</id>
+        <link href="https://limboy.me/posts/api-return-format"/>
+        <updated>2011-05-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> API 的返回值形式  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-05-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于选择 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/about-choice</id>
+        <link href="https://limboy.me/posts/about-choice"/>
+        <updated>2011-04-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于选择  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-04-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我理想中的公司 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-ideal-company</id>
+        <link href="https://limboy.me/posts/my-ideal-company"/>
+        <updated>2011-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我理想中的公司  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-04-07 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单说说StackOverflow和Quora (limboy blog)]]></title>
+        <id>https://limboy.me/posts/so-quora</id>
+        <link href="https://limboy.me/posts/so-quora"/>
+        <updated>2011-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 简单说说StackOverflow和Quora  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-03-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 php5.3 的 namespace 实现类的无痛继承 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-namespace-class-extend</id>
+        <link href="https://limboy.me/posts/php-namespace-class-extend"/>
+        <updated>2011-03-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 用 php5.3 的 namespace 实现类的无痛继承  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-03-24 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[php 实现实时通信 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-comet</id>
+        <link href="https://limboy.me/posts/php-comet"/>
+        <updated>2011-03-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> php 实现实时通信  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-03-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[javascript大杂烩 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/javascript</id>
+        <link href="https://limboy.me/posts/javascript"/>
+        <updated>2011-03-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> javascript大杂烩  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-03-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git 多人协作开发流程(以 blog 为例) (limboy blog)]]></title>
+        <id>https://limboy.me/posts/git-workflow-with-blog-demo</id>
+        <link href="https://limboy.me/posts/git-workflow-with-blog-demo"/>
+        <updated>2011-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> git 多人协作开发流程(以 blog 为例)  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-02-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图解 HTTPS (limboy blog)]]></title>
+        <id>https://limboy.me/posts/https-workflow</id>
+        <link href="https://limboy.me/posts/https-workflow"/>
+        <updated>2011-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 图解 HTTPS  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-02-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《软件随想录》小记 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/more-joel-on-software</id>
+        <link href="https://limboy.me/posts/more-joel-on-software"/>
+        <updated>2011-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 《软件随想录》小记  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-19 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)facebook是如何管理代码的 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-facebook-ships-code</id>
+        <link href="https://limboy.me/posts/how-facebook-ships-code"/>
+        <updated>2011-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)facebook是如何管理代码的  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说数据库架构，ORM 缓存和路由 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/orm-cache</id>
+        <link href="https://limboy.me/posts/orm-cache"/>
+        <updated>2011-01-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说数据库架构，ORM 缓存和路由  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发布一款PHP模块系统——Witty (limboy blog)]]></title>
+        <id>https://limboy.me/posts/witty</id>
+        <link href="https://limboy.me/posts/witty"/>
+        <updated>2011-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 发布一款PHP模块系统——Witty  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-17 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 2010 总结和 2011 展望 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/my-2010-and-2011</id>
+        <link href="https://limboy.me/posts/my-2010-and-2011"/>
+        <updated>2011-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我的 2010 总结和 2011 展望  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-10 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高性能MySQL小结 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/mysql-high-performance-tips</id>
+        <link href="https://limboy.me/posts/mysql-high-performance-tips"/>
+        <updated>2011-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 高性能MySQL小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2011-01-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix编程艺术——Unix哲学 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/the-art-of-unix-programming</id>
+        <link href="https://limboy.me/posts/the-art-of-unix-programming"/>
+        <updated>2010-12-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Unix编程艺术——Unix哲学  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-21 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[web开发从小工到大家 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/web-development-journeyman-master</id>
+        <link href="https://limboy.me/posts/web-development-journeyman-master"/>
+        <updated>2010-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> web开发从小工到大家  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-18 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对web系统架构的一些思考 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/web-system-architecture</id>
+        <link href="https://limboy.me/posts/web-system-architecture"/>
+        <updated>2010-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 我对web系统架构的一些思考  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-15 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈分布式存储的路由设置 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/distributed-storage-route</id>
+        <link href="https://limboy.me/posts/distributed-storage-route"/>
+        <updated>2010-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 浅谈分布式存储的路由设置  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[inotify-rsync实时同步脚本 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/inotify-rsync</id>
+        <link href="https://limboy.me/posts/inotify-rsync"/>
+        <updated>2010-12-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> inotify-rsync实时同步脚本  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-13 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看了Solar框架的几点感触 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/solar</id>
+        <link href="https://limboy.me/posts/solar"/>
+        <updated>2010-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 看了Solar框架的几点感触  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-09 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了一款php日志系统——plog (limboy blog)]]></title>
+        <id>https://limboy.me/posts/plog</id>
+        <link href="https://limboy.me/posts/plog"/>
+        <updated>2010-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 写了一款php日志系统——plog  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-06 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说 pubnub (limboy blog)]]></title>
+        <id>https://limboy.me/posts/about-pubnub</id>
+        <link href="https://limboy.me/posts/about-pubnub"/>
+        <updated>2010-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说 pubnub  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说php的异步请求 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-async</id>
+        <link href="https://limboy.me/posts/php-async"/>
+        <updated>2010-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说php的异步请求  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-05 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了一款REST框架——RESTY (limboy blog)]]></title>
+        <id>https://limboy.me/posts/resty</id>
+        <link href="https://limboy.me/posts/resty"/>
+        <updated>2010-12-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 写了一款REST框架——RESTY  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-04 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尝试多相睡眠 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/polyphasic-sleep</id>
+        <link href="https://limboy.me/posts/polyphasic-sleep"/>
+        <updated>2010-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 尝试多相睡眠  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成为技术领导者 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/becoming-a-technical-leader</id>
+        <link href="https://limboy.me/posts/becoming-a-technical-leader"/>
+        <updated>2010-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 成为技术领导者  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-12-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型应用的 javascript 架构（构想） (limboy blog)]]></title>
+        <id>https://limboy.me/posts/javascript-arch</id>
+        <link href="https://limboy.me/posts/javascript-arch"/>
+        <updated>2010-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 大型应用的 javascript 架构（构想）  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-11-29 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件构建设计 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/software-design</id>
+        <link href="https://limboy.me/posts/software-design"/>
+        <updated>2010-11-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 软件构建设计  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-11-20 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了一款个人知识管理(PKM)工具 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/pkm</id>
+        <link href="https://limboy.me/posts/pkm"/>
+        <updated>2010-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 写了一款个人知识管理(PKM)工具  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-11-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说说 REST (limboy blog)]]></title>
+        <id>https://limboy.me/posts/rest</id>
+        <link href="https://limboy.me/posts/rest"/>
+        <updated>2010-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 说说 REST  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-11-14 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Wish I Knew When I Was 20 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/what-i-wish-i-knew-when-i-was-20</id>
+        <link href="https://limboy.me/posts/what-i-wish-i-knew-when-i-was-20"/>
+        <updated>2010-11-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> What I Wish I Knew When I Was 20  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-11-13 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)Git开发管理之道 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/a-successful-git-branch</id>
+        <link href="https://limboy.me/posts/a-successful-git-branch"/>
+        <updated>2010-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)Git开发管理之道  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-10-30 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于代码的注释 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/code-comments</id>
+        <link href="https://limboy.me/posts/code-comments"/>
+        <updated>2010-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于代码的注释  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-10-25 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于创业的一点感悟 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/think-about-startup</id>
+        <link href="https://limboy.me/posts/think-about-startup"/>
+        <updated>2010-10-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 关于创业的一点感悟  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-10-23 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[php 程序员是否该学习 python (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-vs-python</id>
+        <link href="https://limboy.me/posts/php-vs-python"/>
+        <updated>2010-09-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> php 程序员是否该学习 python  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-09-08 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据分离并快速显示网页 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/rest-flush-template</id>
+        <link href="https://limboy.me/posts/rest-flush-template"/>
+        <updated>2010-09-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 数据分离并快速显示网页  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-09-02 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH小技巧 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/ssh-tips</id>
+        <link href="https://limboy.me/posts/ssh-tips"/>
+        <updated>2010-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> SSH小技巧  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-28 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP特性小结 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/hidden-php-features</id>
+        <link href="https://limboy.me/posts/hidden-php-features"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> PHP特性小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)如何辨别优秀的程序员 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/how-to-recognize-good-programmers</id>
+        <link href="https://limboy.me/posts/how-to-recognize-good-programmers"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)如何辨别优秀的程序员  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嵌套评论的一个数据库设计技巧 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/nested-comments</id>
+        <link href="https://limboy.me/posts/nested-comments"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 嵌套评论的一个数据库设计技巧  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)不再查看简历 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/never-read-another-resume</id>
+        <link href="https://limboy.me/posts/never-read-another-resume"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)不再查看简历  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[php 的多进程 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/php-process-control</id>
+        <link href="https://limboy.me/posts/php-process-control"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> php 的多进程  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 github 作为博客引擎 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/make-github-as-blog-engine</id>
+        <link href="https://limboy.me/posts/make-github-as-blog-engine"/>
+        <updated>2010-08-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 github 作为博客引擎  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-25 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Things I don’t like (Yihong’s Blog)]]></title>
         <id>https://blog.yihong0618.me/issue-329/</id>
