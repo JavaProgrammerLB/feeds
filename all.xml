@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-03T09:39:29.619Z</updated>
+    <updated>2025-12-04T09:39:28.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
@@ -1580,6 +1580,33 @@
         <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 github 作为博客引擎  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-25 </time>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何判断一个项目是个好的开源项目并且想贡献？ (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-331/</id>
+        <link href="https://blog.yihong0618.me/issue-331/"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-331/">如何判断一个项目是个好的开源项目并且想贡献？</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2025-12-03</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/331">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-331/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Things I don’t like (Yihong’s Blog)]]></title>
         <id>https://blog.yihong0618.me/issue-329/</id>
         <link href="https://blog.yihong0618.me/issue-329/"/>
@@ -1820,33 +1847,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-309/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连续跑了 365 天 (Yihong’s Blog)]]></title>
-        <id>https://blog.yihong0618.me/issue-306/</id>
-        <link href="https://blog.yihong0618.me/issue-306/"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-306/">连续跑了 365 天</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-03-12</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/306">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-306/">Read more...</a>
                                     </div>]]></content>
     </entry>
     <entry>
