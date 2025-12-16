@@ -37,16 +37,6 @@ linkSelector = "a"
 dateSelector = "time"
 dateFormat = "dd MMM yyyy"
 
-[WangYin]
-url = "https://www.yinwang.org/"
-title = "WangYin's Blog"
-entrySelector = "main .space-y-6 > a.block.group"
-titleSelector = "article h2"
-linkSelector = "*"
-dateSelector = "time"
-dateFormat = "yyyy年M月d日"
-waitUntil = "networkidle"
-waitForSelector = "main .space-y-6 > a.block.group"
 
 [idoubi]
 url = "https://idoubi.ai/blog"
