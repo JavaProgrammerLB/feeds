@@ -19,13 +19,16 @@ dateFormat = "yyyy-MM-dd"
 [frostming]
 url = "https://frostming.com/"
 title = "Frost Ming — Blog"
-# Each post item on the homepage has this container with padding utility classes
-entrySelector = "main div.w-full.relative.pb-6.pt-6.pl-6.pr-6"
-titleSelector = "a[href^='/20']"
+# Use semantic article tags which are more stable than Tailwind utility classes
+entrySelector = "article"
+titleSelector = "h2 a, h3 a"
 linkSelector = "a[href^='/20']"
-# Date appears as YYYY-MM-DD in the first meta row; select the second child to avoid the icon
-dateSelector = ".flex.items-center > :nth-child(2)"
+# Use time tag for more reliable date extraction
+dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
+# Wait for JS-rendered content to load
+waitUntil = "networkidle"
+waitForSelector = "article"
 
 [TakuyaMatsuyama]
 url = "https://www.devas.life/"
