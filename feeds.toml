@@ -22,7 +22,7 @@ title = "Frost Ming — Blog"
 # Use semantic article tags which are more stable than Tailwind utility classes
 entrySelector = "article"
 titleSelector = "h2 a, h3 a"
-linkSelector = "a[href^='/20']"
+linkSelector = "h2 a, h3 a"
 # Use time tag for more reliable date extraction
 dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
