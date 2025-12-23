@@ -15,3 +15,8 @@ Please read the setup documentation at https://feed-me-up-scotty.vincenttunru.co
 ## checklist
 - get all content
 - right time
+
+## dev generate command
+```
+npx feed-me-up-scotty
+```
