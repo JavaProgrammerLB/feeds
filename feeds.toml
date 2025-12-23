@@ -21,8 +21,9 @@ url = "https://frostming.com/"
 title = "Frost Ming — Blog"
 # Use semantic article tags which are more stable than Tailwind utility classes
 entrySelector = "article"
-titleSelector = "h2 a, h3 a"
-linkSelector = "h2 a, h3 a"
+# The post link is an <a href="/posts/..."> inside each <article>
+titleSelector = "a[href^='/posts/']"
+linkSelector = "a[href^='/posts/']"
 # Use time tag for more reliable date extraction
 dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
