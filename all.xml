@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-25T09:38:35.867Z</updated>
+    <updated>2025-12-26T09:38:24.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
@@ -1885,6 +1885,36 @@
         <content type="html"><![CDATA[<time datetime="2025-03-05T00:00:00.000Z" class="text-sm text-gray-400 font-mono"> 2025-03-05 </time> <div> <a href="/posts/2025/singleton" class="text-lg font-bold hover:opacity-70 transition-opacity"> 再也别问 Singleton 了好吗？ </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/Python" class="inline-block rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">Python</a> </div> </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why a linear notes app is sufficient (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/why-a-linear-notes-app-is-sufficient/</id>
+        <link href="https://www.devas.life/why-a-linear-notes-app-is-sufficient/"/>
+        <updated>2025-12-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/why-a-linear-notes-app-is-sufficient/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Why a linear notes app is sufficient">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">Why a linear notes app is sufficient</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I want to share my thoughts and methodology on how to generate new ideas from your notes and memos.
+
+I'm the author of Inkdrop, a Markdown note-taking app mainly designed for software developers with a core focus on simplicity. I might be a</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-12-25">25 Dec 2025</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don’t be a scary old guy: My 40s survival strategy with charm (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/</id>
         <link href="https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/"/>
@@ -1896,7 +1926,7 @@
                             /content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
                             /content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
                             /content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm">
+                            /content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -2064,39 +2094,6 @@ Subject: Cookie consent</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/</id>
-        <link href="https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/"/>
-        <updated>2025-08-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
-                            /content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
-                            /content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
-                            /content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
-                            /content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Inkdrop</p>
-            <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>
-                    <p class="gh-card-excerpt is-body">Hi! This is Takuya. I'm super excited to announce that the first canary version of v6.0.0 is available 😆✨
-It comes with a bunch of ground-up improvements. Let's go!
-
-Release notes:
-
-Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-08-01">01 Aug 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2145,6 +2142,38 @@ Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/</id>
+        <link href="https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
+                            /content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
+                            /content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
+                            /content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
+                            /content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>
+                    <p class="gh-card-excerpt is-body">Hi! This is Takuya. I'm super excited to announce that the first canary version of v6.0.0 is available 😆✨
+It comes with a bunch of ground-up improvements. Let's go!
+
+Release notes:
+
+Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-08-01">01 Aug 2025</time>
                 <!--
          --></footer>
         </div>
@@ -2458,35 +2487,6 @@ Web clipper v0.2.2 - Import Kindle highlights!I’ve been working on rebuilding 
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-02-05">05 Feb 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I will not care about numbers for my indie dev in 2025 (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/</id>
-        <link href="https://www.devas.life/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/01/My_Personal_Goal_For_2025.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/01/My_Personal_Goal_For_2025.jpg" alt="I will not care about numbers for my indie dev in 2025" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">I will not care about numbers for my indie dev in 2025</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I've been taking a year-end and New Year break until January 20th and have been reflecting on my personal goals for 2025. I'd like to share my thoughts in this post.
-
-Have you ever run a profitable web service for more</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-01-24">24 Jan 2025</time>
                 <!--
          --></footer>
         </div>
