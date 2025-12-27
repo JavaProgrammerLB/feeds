@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2025-12-26T09:38:24.636Z</updated>
+    <updated>2025-12-27T09:36:39.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
     <entry>
-        <title type="html"><![CDATA[Why a linear notes app is sufficient]]></title>
+        <title type="html"><![CDATA[Write, then walk: Why a simple notes app is sufficient]]></title>
         <id>https://www.devas.life/why-a-linear-notes-app-is-sufficient/</id>
         <link href="https://www.devas.life/why-a-linear-notes-app-is-sufficient/"/>
         <updated>2025-12-25T00:00:00.000Z</updated>
@@ -17,11 +17,11 @@
                             /content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
                             /content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
                             /content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Why a linear notes app is sufficient">
+                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">Why a linear notes app is sufficient</h3>
+            <h3 class="gh-card-title is-title">Write, then walk: Why a simple notes app is sufficient</h3>
                     <p class="gh-card-excerpt is-body">Hi, it's Takuya. I want to share my thoughts and methodology on how to generate new ideas from your notes and memos.
 
 I'm the author of Inkdrop, a Markdown note-taking app mainly designed for software developers with a core focus on simplicity. I might be a</p>
