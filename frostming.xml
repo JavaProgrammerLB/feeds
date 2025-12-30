@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostming.com/</id>
     <title>Frost Ming — Blog</title>
-    <updated>2025-12-29T09:43:23.714Z</updated>
+    <updated>2025-12-30T09:40:03.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://frostming.com/avatar.png</icon>
+    <entry>
+        <title type="html"><![CDATA[友好的 Python：从其他语言移植]]></title>
+        <id>https://frostming.com/posts/2025/friendly-python-port</id>
+        <link href="https://frostming.com/posts/2025/friendly-python-port"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time datetime="2025-12-30T00:00:00.000Z" class="text-sm text-gray-400 font-mono"> 2025-12-30 </time> <div> <a href="/posts/2025/friendly-python-port" class="text-lg font-bold hover:opacity-70 transition-opacity"> 友好的 Python：从其他语言移植 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/friendly python" class="inline-block rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">friendly python</a><a href="/tags/Python" class="inline-block rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">Python</a> </div> </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[珍重]]></title>
         <id>https://frostming.com/posts/2025/take-care</id>
