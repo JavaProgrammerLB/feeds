@@ -62,3 +62,20 @@ dateSelector = "span.text-muted-foreground.font-mono.text-xs"
 dateFormat = "yyyy/MM/dd"
 waitUntil = "load"
 waitForSelector = "h3"
+
+[ZaynHao]
+title = "Zayn Hao Blog"
+url = "https://fehey.com/blog"
+# Each post is wrapped in a flex container with date + link
+entrySelector = "div.flex.flex-col.sm\\:flex-row.gap-2.sm\\:gap-4"
+# Title is in a nested anchor tag
+titleSelector = "a[href^='/']"
+# Link is on the same anchor element
+linkSelector = "a[href^='/']"
+# Date is in a div with specific Tailwind classes
+dateSelector = "div.text-secondary-color.w-28.shrink-0.tabular-nums.oldstyle-nums"
+# Date format is like "04 月 14 日"
+dateFormat = "MM 月 dd 日"
+# Wait for JavaScript-rendered content to load
+waitUntil = "networkidle"
+waitForSelector = "div.flex.flex-col.sm\\:flex-row.gap-2.sm\\:gap-4"
