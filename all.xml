@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-30T09:40:03.133Z</updated>
+    <updated>2025-12-31T06:57:40.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
@@ -2778,5 +2778,411 @@ Web clipper v0.2.2 - Import Kindle highlights!I’ve been working on rebuilding 
         <link href="https://idoubi.ai/blog/how-to-create-gpts"/>
         <updated>2025-12-16T07:21:38.744Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->20</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">创建一个可调用第三方 API 的 gpts 应用</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/10</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/10</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在杂草中 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/in-the-weeds</id>
+        <link href="https://fehey.com/in-the-weeds"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 14 日</div><div class="flex gap-2"><div><a href="/in-the-weeds"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">在杂草中</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真正的领导力来自于预见可能性并主动塑造未来 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/leadership-through-foresight</id>
+        <link href="https://fehey.com/leadership-through-foresight"/>
+        <updated>2025-03-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">03 月 26 日</div><div class="flex gap-2"><div><a href="/leadership-through-foresight"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">真正的领导力来自于预见可能性并主动塑造未来</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为 Micro SaaS Creator 整理的资源集 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/micro-saas-resources</id>
+        <link href="https://fehey.com/micro-saas-resources"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">03 月 12 日</div><div class="flex gap-2"><div><a href="/micro-saas-resources"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">为 Micro SaaS Creator 整理的资源集</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些感悟。🌱 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/tiny-thoughts</id>
+        <link href="https://fehey.com/tiny-thoughts"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">03 月 05 日</div><div class="flex gap-2"><div><a href="/tiny-thoughts"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">一些感悟。🌱</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minttr 从 0 → 1 → 50 的感受 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/minttr-from-0-to-50</id>
+        <link href="https://fehey.com/minttr-from-0-to-50"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">02 月 28 日</div><div class="flex gap-2"><div><a href="/minttr-from-0-to-50"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Minttr 从 0 → 1 → 50 的感受</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 年回顾 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/2024-in-review</id>
+        <link href="https://fehey.com/2024-in-review"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 07 日</div><div class="flex gap-2"><div><a href="/2024-in-review"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">2024 年回顾</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好的 AI 笔记工具是能够引发多层思考的 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/good-ai-note-tools-for-multi-layered-thinking</id>
+        <link href="https://fehey.com/good-ai-note-tools-for-multi-layered-thinking"/>
+        <updated>2025-10-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">10 月 21 日</div><div class="flex gap-2"><div><a href="/good-ai-note-tools-for-multi-layered-thinking"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">好的 AI 笔记工具是能够引发多层思考的</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「一次性思维」的应用开发启示 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/one-time-mindset-in-development</id>
+        <link href="https://fehey.com/one-time-mindset-in-development"/>
+        <updated>2025-07-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">07 月 04 日</div><div class="flex gap-2"><div><a href="/one-time-mindset-in-development"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">「一次性思维」的应用开发启示</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何写好提示词（Prompt）？ (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/how-to-write-effective-prompts</id>
+        <link href="https://fehey.com/how-to-write-effective-prompts"/>
+        <updated>2025-05-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">05 月 15 日</div><div class="flex gap-2"><div><a href="/how-to-write-effective-prompts"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">如何写好提示词（Prompt）？</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Command R+、DeepSeek V2、GPT 3.5 翻译效果对比 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/command-r-plus-deepseek-v2-gpt-3-5-translation-comparison</id>
+        <link href="https://fehey.com/command-r-plus-deepseek-v2-gpt-3-5-translation-comparison"/>
+        <updated>2025-05-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">05 月 08 日</div><div class="flex gap-2"><div><a href="/command-r-plus-deepseek-v2-gpt-3-5-translation-comparison"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Command R+、DeepSeek V2、GPT 3.5 翻译效果对比</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea 新版 Landing Page 背后的故事 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/gridea-new-landing-page</id>
+        <link href="https://fehey.com/gridea-new-landing-page"/>
+        <updated>2025-02-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">02 月 02 日</div><div class="flex gap-2"><div><a href="/gridea-new-landing-page"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Gridea 新版 Landing Page 背后的故事</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以积极姿态应对复杂任务：挺身而出的力量 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/stepping-forward-challenges</id>
+        <link href="https://fehey.com/stepping-forward-challenges"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 09 日</div><div class="flex gap-2"><div><a href="/stepping-forward-challenges"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">以积极姿态应对复杂任务：挺身而出的力量</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[借助习惯动作提高专注力——我的“早咖啡”时间 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/focus-routine-morning-coffee</id>
+        <link href="https://fehey.com/focus-routine-morning-coffee"/>
+        <updated>2025-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 03 日</div><div class="flex gap-2"><div><a href="/focus-routine-morning-coffee"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">借助习惯动作提高专注力——我的“早咖啡”时间</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周报 #007： PWA 变得越来越好了 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-007</id>
+        <link href="https://fehey.com/pdf-weekly-007"/>
+        <updated>2025-12-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 23 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-007"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">周报 #007： PWA 变得越来越好了</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跟 Apple Notes 学习导航缓存设计 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/apple-notes-cache-design</id>
+        <link href="https://fehey.com/apple-notes-cache-design"/>
+        <updated>2025-12-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 06 日</div><div class="flex gap-2"><div><a href="/apple-notes-cache-design"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">跟 Apple Notes 学习导航缓存设计</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提升代码可读性的重要性 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/why-readable-code-matters</id>
+        <link href="https://fehey.com/why-readable-code-matters"/>
+        <updated>2025-11-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 02 日</div><div class="flex gap-2"><div><a href="/why-readable-code-matters"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">提升代码可读性的重要性</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 006：缓慢的设计 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-006</id>
+        <link href="https://fehey.com/pdf-weekly-006"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">05 月 12 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-006"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 006：缓慢的设计</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 005：写作催化思考，阅读催化写作 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-005</id>
+        <link href="https://fehey.com/pdf-weekly-005"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 28 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-005"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 005：写作催化思考，阅读催化写作</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 和 Copilot 如何改变数据分析工作 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/copilot-and-gpt-change-data-analysis</id>
+        <link href="https://fehey.com/copilot-and-gpt-change-data-analysis"/>
+        <updated>2025-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 26 日</div><div class="flex gap-2"><div><a href="/copilot-and-gpt-change-data-analysis"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">GPT 和 Copilot 如何改变数据分析工作</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 004 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-004</id>
+        <link href="https://fehey.com/pdf-weekly-004"/>
+        <updated>2025-04-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 23 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-004"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 004</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌱 我的电子书阅读清单：记录我阅读过的书籍 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/reading-e-book</id>
+        <link href="https://fehey.com/reading-e-book"/>
+        <updated>2025-04-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 18 日</div><div class="flex gap-2"><div><a href="/reading-e-book"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">🌱 我的电子书阅读清单：记录我阅读过的书籍</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 003 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-003</id>
+        <link href="https://fehey.com/pdf-weekly-003"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 14 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-003"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 003</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 002 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-002</id>
+        <link href="https://fehey.com/pdf-weekly-002"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 07 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-002"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 002</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P · D · F 早咖啡 001 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pdf-weekly-001</id>
+        <link href="https://fehey.com/pdf-weekly-001"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">03 月 31 日</div><div class="flex gap-2"><div><a href="/pdf-weekly-001"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">P · D · F 早咖啡 001</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 实现元素超出 `overflow: hidden` 的容器显示 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/css-overflow-visible-element</id>
+        <link href="https://fehey.com/css-overflow-visible-element"/>
+        <updated>2025-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 29 日</div><div class="flex gap-2"><div><a href="/css-overflow-visible-element"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">CSS 实现元素超出 `overflow: hidden` 的容器显示</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 如何从数组元素的值中定义 Union Type (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/typescript-const-generic-union-type</id>
+        <link href="https://fehey.com/typescript-const-generic-union-type"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">02 月 26 日</div><div class="flex gap-2"><div><a href="/typescript-const-generic-union-type"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">TypeScript 如何从数组元素的值中定义 Union Type</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 模块动态导入及适用场景 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/javascript-dynamic-import</id>
+        <link href="https://fehey.com/javascript-dynamic-import"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">02 月 12 日</div><div class="flex gap-2"><div><a href="/javascript-dynamic-import"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">JavaScript 模块动态导入及适用场景</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何处理 git dangling commit 的问题 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/git-dangling-commit</id>
+        <link href="https://fehey.com/git-dangling-commit"/>
+        <updated>2025-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 19 日</div><div class="flex gap-2"><div><a href="/git-dangling-commit"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">如何处理 git dangling commit 的问题</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使 PWA 更像 Native App 的 6 个技巧 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/5-pwa-tips</id>
+        <link href="https://fehey.com/5-pwa-tips"/>
+        <updated>2025-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 18 日</div><div class="flex gap-2"><div><a href="/5-pwa-tips"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">使 PWA 更像 Native App 的 6 个技巧</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 CSS `gap` 实现更灵活的元素组布局 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/css-flex-gap</id>
+        <link href="https://fehey.com/css-flex-gap"/>
+        <updated>2025-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 08 日</div><div class="flex gap-2"><div><a href="/css-flex-gap"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">使用 CSS `gap` 实现更灵活的元素组布局</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 :focus-visible 处理 UI 设计和可访问性的关系 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/css-focus-visible</id>
+        <link href="https://fehey.com/css-focus-visible"/>
+        <updated>2025-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">10 月 29 日</div><div class="flex gap-2"><div><a href="/css-focus-visible"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">使用 :focus-visible 处理 UI 设计和可访问性的关系</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['👩‍👩‍👧‍👧'.length === 11 ? Emoji 有多长 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/emoji-length</id>
+        <link href="https://fehey.com/emoji-length"/>
+        <updated>2025-09-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">09 月 17 日</div><div class="flex gap-2"><div><a href="/emoji-length"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">'👩‍👩‍👧‍👧'.length === 11 ? Emoji 有多长</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OffsetHeight 与虚拟列表的缝隙问题 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/offsetheight-and-list</id>
+        <link href="https://fehey.com/offsetheight-and-list"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">07 月 22 日</div><div class="flex gap-2"><div><a href="/offsetheight-and-list"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">OffsetHeight 与虚拟列表的缝隙问题</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 超出文本显示省略号与检测截断方法 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/css-overflow-ellipsis</id>
+        <link href="https://fehey.com/css-overflow-ellipsis"/>
+        <updated>2025-05-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">05 月 02 日</div><div class="flex gap-2"><div><a href="/css-overflow-ellipsis"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">CSS 超出文本显示省略号与检测截断方法</div></a><div class="text-secondary-color">遇到了一个需求：一段文本为文件名，当触发超出文本时，显示后缀在最后。即[我是一个名字很长的....pdf] 如何实现呢？</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两个 git clone 小技巧 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/2-tips-for-git-clone</id>
+        <link href="https://fehey.com/2-tips-for-git-clone"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">04 月 25 日</div><div class="flex gap-2"><div><a href="/2-tips-for-git-clone"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">两个 git clone 小技巧</div></a><div class="text-secondary-color">`-b develop --single-branch` 和 `--depth=1`</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS 系统 Landing Page 设计的两种策略 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/saas-landing-page-rules</id>
+        <link href="https://fehey.com/saas-landing-page-rules"/>
+        <updated>2025-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">03 月 28 日</div><div class="flex gap-2"><div><a href="/saas-landing-page-rules"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">SaaS 系统 Landing Page 设计的两种策略</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件工程师的一天 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/a-day-of-a-software-engineer</id>
+        <link href="https://fehey.com/a-day-of-a-software-engineer"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">02 月 25 日</div><div class="flex gap-2"><div><a href="/a-day-of-a-software-engineer"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">软件工程师的一天</div></a><div class="text-secondary-color">软件工程师的一“生”？误。一天 👨‍💻</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用 CSS 打造实力与颜值并存的网页滚动条 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/how-to-custom-best-scrollbar-with-css</id>
+        <link href="https://fehey.com/how-to-custom-best-scrollbar-with-css"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 21 日</div><div class="flex gap-2"><div><a href="/how-to-custom-best-scrollbar-with-css"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">如何用 CSS 打造实力与颜值并存的网页滚动条</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从分享者找到创作者 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/find-creator-from-sharer</id>
+        <link href="https://fehey.com/find-creator-from-sharer"/>
+        <updated>2025-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 13 日</div><div class="flex gap-2"><div><a href="/find-creator-from-sharer"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">从分享者找到创作者</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 年回顾 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/2020-in-review</id>
+        <link href="https://fehey.com/2020-in-review"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 30 日</div><div class="flex gap-2"><div><a href="/2020-in-review"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">2020 年回顾</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slash - 一款使你「完成」的 Todo 应用 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/slash-app</id>
+        <link href="https://fehey.com/slash-app"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 05 日</div><div class="flex gap-2"><div><a href="/slash-app"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Slash - 一款使你「完成」的 Todo 应用</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS `grid-template-rows: masonry` 轻松实现原生瀑布流布局 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/css-grid-template-rows-masonry</id>
+        <link href="https://fehey.com/css-grid-template-rows-masonry"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 03 日</div><div class="flex gap-2"><div><a href="/css-grid-template-rows-masonry"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">CSS `grid-template-rows: masonry` 轻松实现原生瀑布流布局</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown 小技巧 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/markdown-tips</id>
+        <link href="https://fehey.com/markdown-tips"/>
+        <updated>2025-11-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 25 日</div><div class="flex gap-2"><div><a href="/markdown-tips"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Markdown 小技巧</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailbrew - 像 RSS，但是更好 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/mailbrew</id>
+        <link href="https://fehey.com/mailbrew"/>
+        <updated>2025-11-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 23 日</div><div class="flex gap-2"><div><a href="/mailbrew"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Mailbrew - 像 RSS，但是更好</div></a><div class="text-secondary-color">自定义你的阅读源，然后通过邮件或 Web 来进行每日阅读</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程：Ubuntu 20.04 如何安装 Nginx (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/how-to-install-nginx-in-ubuntu</id>
+        <link href="https://fehey.com/how-to-install-nginx-in-ubuntu"/>
+        <updated>2025-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">11 月 03 日</div><div class="flex gap-2"><div><a href="/how-to-install-nginx-in-ubuntu"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">教程：Ubuntu 20.04 如何安装 Nginx</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程：如何禁止 Linux 服务器 SSH 连接超时 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/ssh-timeout-disable</id>
+        <link href="https://fehey.com/ssh-timeout-disable"/>
+        <updated>2025-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">10 月 29 日</div><div class="flex gap-2"><div><a href="/ssh-timeout-disable"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">教程：如何禁止 Linux 服务器 SSH 连接超时</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程：Git config 配置多用户信息 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/git-config</id>
+        <link href="https://fehey.com/git-config"/>
+        <updated>2025-10-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">10 月 22 日</div><div class="flex gap-2"><div><a href="/git-config"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">教程：Git config 配置多用户信息</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[午休那些事儿 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/lunch</id>
+        <link href="https://fehey.com/lunch"/>
+        <updated>2025-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">10 月 14 日</div><div class="flex gap-2"><div><a href="/lunch"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">午休那些事儿</div></a><div class="text-secondary-color">午休很重要，正确午休同样重要。我平时采用午休 20 分钟，半坐位斜躺，睡后不发沉，工作更高效</div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 Weekly Reading (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/my-weekly-reading</id>
+        <link href="https://fehey.com/my-weekly-reading"/>
+        <updated>2025-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">07 月 14 日</div><div class="flex gap-2"><div><a href="/my-weekly-reading"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">我的 Weekly Reading</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 CSS 控制 SVG 动画 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/svg-animation-with-css</id>
+        <link href="https://fehey.com/svg-animation-with-css"/>
+        <updated>2025-07-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">07 月 14 日</div><div class="flex gap-2"><div><a href="/svg-animation-with-css"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">用 CSS 控制 SVG 动画</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巧用 CSS 检查 HTML (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/lint-html-with-css</id>
+        <link href="https://fehey.com/lint-html-with-css"/>
+        <updated>2025-07-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">07 月 03 日</div><div class="flex gap-2"><div><a href="/lint-html-with-css"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">巧用 CSS 检查 HTML</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好，Gridea Web (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/gridea-web</id>
+        <link href="https://fehey.com/gridea-web"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">06 月 26 日</div><div class="flex gap-2"><div><a href="/gridea-web"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">你好，Gridea Web</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PWA 在 2020 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/pwa-2020</id>
+        <link href="https://fehey.com/pwa-2020"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 20 日</div><div class="flex gap-2"><div><a href="/pwa-2020"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">PWA 在 2020</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊我在用的编程字体 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/coding-font</id>
+        <link href="https://fehey.com/coding-font"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 17 日</div><div class="flex gap-2"><div><a href="/coding-font"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">聊聊我在用的编程字体</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea v0.9.0｜可以，写博客的那个劲儿又回来了 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/gridea-0.9.0</id>
+        <link href="https://fehey.com/gridea-0.9.0"/>
+        <updated>2025-12-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">12 月 31 日</div><div class="flex gap-2"><div><a href="/gridea-0.9.0"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Gridea v0.9.0｜可以，写博客的那个劲儿又回来了</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea v0.8.3｜全新体验，助你妙笔生花 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/gridea-v083-quan-xin-ti-yan-zhu-ni-miao-bi-sheng-hua</id>
+        <link href="https://fehey.com/gridea-v083-quan-xin-ti-yan-zhu-ni-miao-bi-sheng-hua"/>
+        <updated>2025-09-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">09 月 21 日</div><div class="flex gap-2"><div><a href="/gridea-v083-quan-xin-ti-yan-zhu-ni-miao-bi-sheng-hua"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">Gridea v0.8.3｜全新体验，助你妙笔生花</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利器+ (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/liqi</id>
+        <link href="https://fehey.com/liqi"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">06 月 26 日</div><div class="flex gap-2"><div><a href="/liqi"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">利器+</div></a></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018 年终总结 (Zayn Hao Blog)]]></title>
+        <id>https://fehey.com/2018-nian-zhong-zong-jie</id>
+        <link href="https://fehey.com/2018-nian-zhong-zong-jie"/>
+        <updated>2025-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="text-secondary-color w-28 shrink-0 tabular-nums oldstyle-nums">01 月 14 日</div><div class="flex gap-2"><div><a href="/2018-nian-zhong-zong-jie"><div class="text-primary-color hover:text-link-color hover:underline underline-offset-4 font-medium break-word">2018 年终总结</div></a></div></div>]]></content>
     </entry>
 </feed>
