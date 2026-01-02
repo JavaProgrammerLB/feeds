@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-02T09:39:35.696Z</updated>
+    <updated>2026-01-02T13:32:43.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Make Good New Things (limboy blog)]]></title>
+        <id>https://limboy.me/posts/make-good-new-things</id>
+        <link href="https://limboy.me/posts/make-good-new-things"/>
+        <updated>2026-01-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Make Good New Things  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-02 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的第一款 iOS App：PingMind (limboy blog)]]></title>
         <id>https://limboy.me/posts/pingmind</id>
@@ -1538,18 +1545,18 @@
         <content type="html"><![CDATA[<span class="line-clamp-1"> SSH小技巧  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-28 </time>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP特性小结 (limboy blog)]]></title>
-        <id>https://limboy.me/posts/hidden-php-features</id>
-        <link href="https://limboy.me/posts/hidden-php-features"/>
-        <updated>2010-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span class="line-clamp-1"> PHP特性小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(译)如何辨别优秀的程序员 (limboy blog)]]></title>
         <id>https://limboy.me/posts/how-to-recognize-good-programmers</id>
         <link href="https://limboy.me/posts/how-to-recognize-good-programmers"/>
         <updated>2010-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="line-clamp-1"> (译)如何辨别优秀的程序员  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP特性小结 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/hidden-php-features</id>
+        <link href="https://limboy.me/posts/hidden-php-features"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> PHP特性小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[嵌套评论的一个数据库设计技巧 (limboy blog)]]></title>
