@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-01-03T09:09:43.771Z</updated>
+    <updated>2026-01-05T09:59:27.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.ico</icon>
     <entry>
@@ -1546,18 +1546,18 @@
         <content type="html"><![CDATA[<span class="line-clamp-1"> SSH小技巧  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-28 </time>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(译)如何辨别优秀的程序员]]></title>
-        <id>https://limboy.me/posts/how-to-recognize-good-programmers</id>
-        <link href="https://limboy.me/posts/how-to-recognize-good-programmers"/>
-        <updated>2010-08-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)如何辨别优秀的程序员  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PHP特性小结]]></title>
         <id>https://limboy.me/posts/hidden-php-features</id>
         <link href="https://limboy.me/posts/hidden-php-features"/>
         <updated>2010-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="line-clamp-1"> PHP特性小结  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(译)如何辨别优秀的程序员]]></title>
+        <id>https://limboy.me/posts/how-to-recognize-good-programmers</id>
+        <link href="https://limboy.me/posts/how-to-recognize-good-programmers"/>
+        <updated>2010-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> (译)如何辨别优秀的程序员  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-27 </time>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[嵌套评论的一个数据库设计技巧]]></title>
