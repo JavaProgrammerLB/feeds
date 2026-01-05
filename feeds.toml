@@ -16,21 +16,6 @@ linkSelector = "h1.post__title a"
 dateSelector = "span.post__time"
 dateFormat = "yyyy-MM-dd"
 
-[frostming]
-url = "https://frostming.com/"
-title = "Frost Ming — Blog"
-# Use semantic article tags which are more stable than Tailwind utility classes
-entrySelector = "article"
-# The post link is an <a href="/posts/..."> inside each <article>
-titleSelector = "a[href^='/posts/']"
-linkSelector = "a[href^='/posts/']"
-# Use time tag for more reliable date extraction
-dateSelector = "time"
-dateFormat = "yyyy-MM-dd"
-# Wait for JS-rendered content to load
-waitUntil = "networkidle"
-waitForSelector = "article"
-
 [TakuyaMatsuyama]
 url = "https://www.devas.life/"
 title = "Takuya Matsuyama — Blog"
