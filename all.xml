@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-09T09:13:34.349Z</updated>
+    <updated>2026-01-10T09:09:44.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[谁在开车: 西游战车与心智模型 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/who-is-driving</id>
+        <link href="https://limboy.me/posts/who-is-driving"/>
+        <updated>2026-01-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 谁在开车: 西游战车与心智模型  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-09 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[答题者心态 (limboy blog)]]></title>
         <id>https://limboy.me/posts/the-mindset-of-the-answerer</id>
