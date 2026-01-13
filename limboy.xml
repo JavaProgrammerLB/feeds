@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-01-10T09:09:44.728Z</updated>
+    <updated>2026-01-13T05:42:59.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[「共」型人才：AI 时代的个体进化论]]></title>
+        <id>https://limboy.me/posts/gong-type-of-talent</id>
+        <link href="https://limboy.me/posts/gong-type-of-talent"/>
+        <updated>2026-01-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 「共」型人才：AI 时代的个体进化论  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-11 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁在开车: 西游战车与心智模型]]></title>
         <id>https://limboy.me/posts/who-is-driving</id>
