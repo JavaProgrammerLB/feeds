@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-01-14T09:14:05.214Z</updated>
+    <updated>2026-01-15T09:13:21.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[黑白厨师]]></title>
+        <id>https://limboy.me/posts/culinary-class-wars</id>
+        <link href="https://limboy.me/posts/culinary-class-wars"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 黑白厨师  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-14 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ET，福尔摩斯，马尔科维奇，爱迪生：四种思维训练法]]></title>
         <id>https://limboy.me/posts/et-holmes-malkovich-edison</id>

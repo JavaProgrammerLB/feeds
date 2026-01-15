@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-14T09:14:05.248Z</updated>
+    <updated>2026-01-15T09:13:21.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[黑白厨师 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/culinary-class-wars</id>
+        <link href="https://limboy.me/posts/culinary-class-wars"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 黑白厨师  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-14 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ET，福尔摩斯，马尔科维奇，爱迪生：四种思维训练法 (limboy blog)]]></title>
         <id>https://limboy.me/posts/et-holmes-malkovich-edison</id>
@@ -1920,6 +1927,37 @@
         <content type="html"><![CDATA[<time datetime="2025-05-11T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2025-05-11 </time> <div> <a href="/posts/2025/henan" class="text-lg font-bold hover:opacity-70 transition-opacity"> 河南行拾遗 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/游记" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">游记</a> </div> </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My 2025 indie dev journey review (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/my-2025-indie-dev-journey-review/</id>
+        <link href="https://www.devas.life/my-2025-indie-dev-journey-review/"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-2025-indie-dev-journey-review/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2026/01/2025---year-in-review.jpg 160w,
+                            /content/images/size/w320/format/webp/2026/01/2025---year-in-review.jpg 320w,
+                            /content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
+                            /content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
+                            /content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="640px" src="/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">My 2025 indie dev journey review</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it’s Takuya.
+
+Happy new year! It’s already mid-January, but I want to look back at my activities in 2025. If I had to sum up last year in one word, it was the year I got the full "unlucky year (Yakudoshi / 厄年)" experience.
+In Japan,</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-01-14">14 Jan 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Write, then walk: Why a simple notes app is sufficient (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/why-a-linear-notes-app-is-sufficient/</id>
         <link href="https://www.devas.life/why-a-linear-notes-app-is-sufficient/"/>
@@ -1931,7 +1969,7 @@
                             /content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
                             /content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
                             /content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="640px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient">
+                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -2101,34 +2139,6 @@ Subject: Cookie consent</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zen: Why Inkdrop never extends Markdown syntax (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/</id>
-        <link href="https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/"/>
-        <updated>2025-08-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/zen-why-inkdrop-never-extends-markdown-syntax/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
-                            /content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
-                            /content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
-                            /content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
-                            /content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
-                            /content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Inkdrop</p>
-            <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
-                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document format in</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-08-28">28 Aug 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2177,6 +2187,33 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen: Why Inkdrop never extends Markdown syntax (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/</id>
+        <link href="https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/zen-why-inkdrop-never-extends-markdown-syntax/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
+                            /content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
+                            /content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
+                            /content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
+                            /content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
+                            /content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
+                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document format in</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-08-28">28 Aug 2025</time>
                 <!--
          --></footer>
         </div>
@@ -2495,33 +2532,6 @@ Web clipper v0.2.2 - Import Kindle highlights!I’ve been working on rebuilding 
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-02-21">21 Feb 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supporting iOS Share Extensions & Android Intents on React Native (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/supporting-ios-share-extensions-android-intents-on-react-native/</id>
-        <link href="https://www.devas.life/supporting-ios-share-extensions-android-intents-on-react-native/"/>
-        <updated>2025-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/supporting-ios-share-extensions-android-intents-on-react-native/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/02/kyoto_ls_094.png 160w,
-                            /content/images/size/w320/format/webp/2025/02/kyoto_ls_094.png 320w,
-                            /content/images/size/w600/format/webp/2025/02/kyoto_ls_094.png 600w,
-                            /content/images/size/w960/format/webp/2025/02/kyoto_ls_094.png 960w,
-                            /content/images/size/w1200/format/webp/2025/02/kyoto_ls_094.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/02/kyoto_ls_094.png 2000w" sizes="320px" src="/content/images/size/w600/2025/02/kyoto_ls_094.png" alt="Supporting iOS Share Extensions &amp; Android Intents on React Native" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Supporting iOS Share Extensions &amp; Android Intents on React Native</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya, the solo developer of Inkdrop, a note-taking app designed for software developers. Recently, I enabled a web clipper feature on the mobile app for both iOS and Android. I'd like to share how I implemented the logic to receive a shared URL in</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-02-05">05 Feb 2025</time>
                 <!--
          --></footer>
         </div>
