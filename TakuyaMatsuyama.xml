@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-01-28T09:17:03.916Z</updated>
+    <updated>2026-01-29T09:21:30.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Note-driven agentic coding workflow using Claude Code and Inkdrop]]></title>
+        <id>https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/</id>
+        <link href="https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2026/01/Note-driven-agentic-coding.png 160w,
+                            /content/images/size/w320/format/webp/2026/01/Note-driven-agentic-coding.png 320w,
+                            /content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
+                            /content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
+                            /content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
+                            /content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="640px" src="/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">Note-driven agentic coding workflow using Claude Code and Inkdrop</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya. I came up with another AI coding workflow that is note-driven, using Claude Code and Inkdrop. When I was using Claude Code's plan mode, I found the generated plans hard to read on the terminal because the CLI is</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-01-29">29 Jan 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My 2025 indie dev journey review]]></title>
         <id>https://www.devas.life/my-2025-indie-dev-journey-review/</id>
@@ -17,7 +45,7 @@
                             /content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
                             /content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
                             /content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="640px" src="/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
+                            /content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -190,34 +218,6 @@ Subject: Cookie consent</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discovering the joy of driving as a long-time paper driver]]></title>
-        <id>https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/</id>
-        <link href="https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/"/>
-        <updated>2025-10-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/discovering-the-joy-of-driving-as-a-long-time-paper-driver/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
-                            /content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
-                            /content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
-                            /content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
-                            /content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. Ever since I got my driver’s license before entering university, I had basically never driven a car. Living in the city, I avoided driving as much as possible. The thought of operating something that could seriously hurt or even kill someone if I made</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-11">11 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -266,6 +266,33 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering the joy of driving as a long-time paper driver]]></title>
+        <id>https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/</id>
+        <link href="https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/"/>
+        <updated>2025-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/discovering-the-joy-of-driving-as-a-long-time-paper-driver/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
+                            /content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
+                            /content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
+                            /content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
+                            /content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. Ever since I got my driver’s license before entering university, I had basically never driven a car. Living in the city, I avoided driving as much as possible. The thought of operating something that could seriously hurt or even kill someone if I made</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-11">11 Oct 2025</time>
                 <!--
          --></footer>
         </div>
@@ -582,35 +609,6 @@ One of the components I wanted to animate was the note list. This was challengin
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-02-28">28 Feb 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I efficiently built a browser extension]]></title>
-        <id>https://www.devas.life/how-i-efficiently-built-a-browser-extension/</id>
-        <link href="https://www.devas.life/how-i-efficiently-built-a-browser-extension/"/>
-        <updated>2025-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-efficiently-built-a-browser-extension/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 160w,
-                            /content/images/size/w320/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 320w,
-                            /content/images/size/w600/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 600w,
-                            /content/images/size/w960/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 960w,
-                            /content/images/size/w1200/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/02/Screenshot-2025-02-21-at-16.11.22a.png 2000w" sizes="320px" src="/content/images/size/w600/2025/02/Screenshot-2025-02-21-at-16.11.22a.png" alt="How I efficiently built a browser extension" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How I efficiently built a browser extension</h3>
-                    <p class="gh-card-excerpt is-body">I've released a new browser extension for Inkdrop last week.
-
-Web clipper v0.2.2 - Import Kindle highlights!I’ve been working on rebuilding Inkdrop’s browser extension for clipping web pages. And I’m thrilled to announce that it now supports importing your Kindle highlights! This</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-02-21">21 Feb 2025</time>
                 <!--
          --></footer>
         </div>
