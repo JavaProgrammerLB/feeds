@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-01-29T09:21:30.291Z</updated>
+    <updated>2026-01-30T09:19:26.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Routine 就是人生的复利]]></title>
+        <id>https://limboy.me/posts/routine-compound-interest</id>
+        <link href="https://limboy.me/posts/routine-compound-interest"/>
+        <updated>2026-01-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Routine 就是人生的复利  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-01-30 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Agent 时代，App 的核心竞争力是什么？]]></title>
         <id>https://limboy.me/posts/coding-agent-app-core-compentencies</id>
