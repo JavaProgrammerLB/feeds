@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-01-31T09:12:29.365Z</updated>
+    <updated>2026-02-01T09:14:14.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[呼吸能改变很多事]]></title>
+        <id>https://limboy.me/posts/breathe</id>
+        <link href="https://limboy.me/posts/breathe"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 呼吸能改变很多事  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-02-01 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冷水澡是一座小金矿]]></title>
         <id>https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure</id>
