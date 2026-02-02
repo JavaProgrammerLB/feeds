@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://idoubi.ai/blog</id>
     <title>idoubi.ai — Blog</title>
-    <updated>2026-02-02T03:58:46.373Z</updated>
+    <updated>2026-02-02T04:09:34.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://idoubi.ai/favicon.ico</icon>
     <entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[2025，MCP、Agent、AI Coding]]></title>
         <id>https://idoubi.ai/blog/my-ai-2025</id>
         <link href="https://idoubi.ai/blog/my-ai-2025"/>
-        <updated>2025-01-01T00:00:00.000Z</updated>
+        <updated>2026-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->2</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">2025，MCP、Agent、AI Coding</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2026/01/03</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2026/01/03</span></div>]]></content>
     </entry>
     <entry>
