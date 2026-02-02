@@ -26,6 +26,12 @@ jobs:
     - run: npx playwright install --with-deps firefox
     # GitHub Actions unfortunately does not support retries;
     # this is a cumbersome method of retrying twice in case of errors:
+    - env:
+        # Prevent feed-me-up-scotty from inferring a site root URL.
+        # The tool uses CI_PAGES_URL first (if present), otherwise it derives a GitHub Pages URL from GITHUB_REPOSITORY.
+        # By pointing CI_PAGES_URL to a non-existent domain, it cannot fetch old <feedId>.json and therefore
+        # it will not preserve previously-published entry dates (so edited post dates can be reflected).
+        CI_PAGES_URL: "https://example.invalid/"
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
     - name: Deploy to GitHub Pages
       run: |
