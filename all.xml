@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-04T09:17:22.769Z</updated>
+    <updated>2026-02-05T09:19:02.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/chrome-extension-vibe-coding-container</id>
+        <link href="https://limboy.me/posts/chrome-extension-vibe-coding-container"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Chrome Extension 是 Vibe Coding 的绝佳载体  </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-02-04 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坏习惯是道好题目 (limboy blog)]]></title>
         <id>https://limboy.me/posts/bad-habit-good-subject</id>
