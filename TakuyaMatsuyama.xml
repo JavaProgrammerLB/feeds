@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-02-05T09:19:02.861Z</updated>
+    <updated>2026-02-06T09:18:17.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I made my Keychron K2 HE stealthy]]></title>
+        <id>https://www.devas.life/i-made-my-keychron-k2-he-stealthy/</id>
+        <link href="https://www.devas.life/i-made-my-keychron-k2-he-stealthy/"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-my-keychron-k2-he-stealthy/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2026/02/DSCF2918.jpg 160w,
+                            /content/images/size/w320/format/webp/2026/02/DSCF2918.jpg 320w,
+                            /content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
+                            /content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
+                            /content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="640px" src="/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Review</p>
+            <h3 class="gh-card-title is-title">I made my Keychron K2 HE stealthy</h3>
+                    <p class="gh-card-excerpt is-body">Hey guys, I've got a new keyboard: Keychron K2 HE and customized it with blank black and wooden keycaps. So, I'd like to share how I did it.
+
+Here is a video:
+
+
+Unboxing
+
+The above keyboard is Keychron Q1, which I've been using for</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-02-06">06 Feb 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Note-driven agentic coding workflow using Claude Code and Inkdrop]]></title>
         <id>https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/</id>
@@ -17,7 +52,7 @@
                             /content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
                             /content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
                             /content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
-                            /content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="640px" src="/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
+                            /content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -185,39 +220,6 @@ When I get absorbed in something, I tend to lose</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The scariest “user support” email I’ve ever received]]></title>
-        <id>https://www.devas.life/the-scariest-user-support-email-ive-ever-received/</id>
-        <link href="https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"/>
-        <updated>2025-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-scariest-user-support-email-ive-ever-received/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
-                            /content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
-                            /content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
-                            /content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
-                            /content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. As your app grows in popularity, you occasionally start to attract attacks aimed directly at you—the developer or site owner. Just the other day, I got one that was honestly terrifying, so I'd like to share it.
-
-
-The Email
-
-Subject: Cookie consent</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-15">15 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -266,6 +268,38 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scariest “user support” email I’ve ever received]]></title>
+        <id>https://www.devas.life/the-scariest-user-support-email-ive-ever-received/</id>
+        <link href="https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"/>
+        <updated>2025-10-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-scariest-user-support-email-ive-ever-received/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
+                            /content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
+                            /content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
+                            /content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
+                            /content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. As your app grows in popularity, you occasionally start to attract attacks aimed directly at you—the developer or site owner. Just the other day, I got one that was honestly terrifying, so I'd like to share it.
+
+
+The Email
+
+Subject: Cookie consent</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-15">15 Oct 2025</time>
                 <!--
          --></footer>
         </div>
@@ -580,35 +614,6 @@ Integrating my note app with Claude’s MCPHi, it’s Takuya here. I’ve been f
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-03-07">07 Mar 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to animate a TanStack Virtual list with Motion]]></title>
-        <id>https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion/</id>
-        <link href="https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion/"/>
-        <updated>2025-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-animate-a-tanstack-virtual-list-with-motion/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/02/25-02-27_note-list-animations_thumb2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/02/25-02-27_note-list-animations_thumb2.jpg" alt="How to animate a TanStack Virtual list with Motion" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How to animate a TanStack Virtual list with Motion</h3>
-                    <p class="gh-card-excerpt is-body">I love Motion. It makes animating UIs in web apps incredibly easy. I've been using it in my app to animate components like the tags input bar, the notebook list, dialogs, and more.
-
-One of the components I wanted to animate was the note list. This was challenging</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-02-28">28 Feb 2025</time>
                 <!--
          --></footer>
         </div>
