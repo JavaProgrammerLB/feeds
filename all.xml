@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-08T09:09:48.298Z</updated>
+    <updated>2026-02-09T09:23:43.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
@@ -1927,6 +1927,13 @@
                                     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[读《昂贵的和平》后感 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/posts/2026/expensive-harmony</id>
+        <link href="https://frostming.com/posts/2026/expensive-harmony"/>
+        <updated>2026-02-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time datetime="2026-02-08T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2026-02-08 </time> <div> <a href="/posts/2026/expensive-harmony" class="text-lg font-bold hover:opacity-70 transition-opacity"> 读《昂贵的和平》后感 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/历史" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">历史</a><a href="/tags/阅读" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">阅读</a> </div> </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 的号与外 (Frost Ming — Blog)]]></title>
         <id>https://frostming.com/posts/2026/2025-recap</id>
         <link href="https://frostming.com/posts/2026/2025-recap"/>
@@ -1960,13 +1967,6 @@
         <link href="https://frostming.com/posts/2025/pycon"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<time datetime="2025-09-22T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2025-09-22 </time> <div> <a href="/posts/2025/pycon" class="text-lg font-bold hover:opacity-70 transition-opacity"> PyCome </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/日志" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">日志</a> </div> </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河南行拾遗 (Frost Ming — Blog)]]></title>
-        <id>https://frostming.com/posts/2025/henan</id>
-        <link href="https://frostming.com/posts/2025/henan"/>
-        <updated>2025-05-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2025-05-11T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2025-05-11 </time> <div> <a href="/posts/2025/henan" class="text-lg font-bold hover:opacity-70 transition-opacity"> 河南行拾遗 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/游记" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">游记</a> </div> </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I made my Keychron K2 HE stealthy (Takuya Matsuyama — Blog)]]></title>
