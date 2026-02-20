@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yihong0618.me/</id>
     <title>Yihong’s Blog</title>
-    <updated>2026-02-19T09:18:47.417Z</updated>
+    <updated>2026-02-20T09:16:22.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.yihong0618.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新年快乐以及一些近况]]></title>
+        <id>https://blog.yihong0618.me/issue-338/</id>
+        <link href="https://blog.yihong0618.me/issue-338/"/>
+        <updated>2026-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-338/">新年快乐以及一些近况</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2026-02-19</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/338">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-338/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偶得的佳句与 AI]]></title>
         <id>https://blog.yihong0618.me/issue-337/</id>
@@ -246,33 +273,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-326/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次艰难的 cpython issue 排查过程，以及我学到了什么]]></title>
-        <id>https://blog.yihong0618.me/issue-325/</id>
-        <link href="https://blog.yihong0618.me/issue-325/"/>
-        <updated>2025-09-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-325/">一次艰难的 cpython issue 排查过程，以及我学到了什么</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-09-04</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/325">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-325/">Read more...</a>
                                     </div>]]></content>
     </entry>
 </feed>
