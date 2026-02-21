@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-02-20T09:16:22.666Z</updated>
+    <updated>2026-02-21T09:09:40.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How to run Claude Code in a Tmux popup window with persistent sessions]]></title>
+        <id>https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/</id>
+        <link href="https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/"/>
+        <updated>2026-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2026/02/maxresdefault.jpeg 160w,
+                            /content/images/size/w320/format/webp/2026/02/maxresdefault.jpeg 320w,
+                            /content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
+                            /content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
+                            /content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
+                            /content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="640px" src="/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">How to run Claude Code in a Tmux popup window with persistent sessions</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
+
+I've been using Claude Code in my terminal workflow. At first, I was running it at the right side of my terminal using tmux, but I found it not useful because it was too narrow to display messages and</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-02-20">20 Feb 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I made my Keychron K2 HE stealthy]]></title>
         <id>https://www.devas.life/i-made-my-keychron-k2-he-stealthy/</id>
@@ -17,7 +47,7 @@
                             /content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
                             /content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
                             /content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="640px" src="/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
+                            /content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Review</p>
@@ -192,34 +222,6 @@ When I get absorbed in something, I tend to lose</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How low self-esteem and hyperfocus drove me to burnout]]></title>
-        <id>https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/</id>
-        <link href="https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
-                    <p class="gh-card-excerpt is-body">Hey, this is Takuya. Recently, I pushed myself too hard on indie development and ended up sick, as I posted a video on my channel recently. My atopic dermatitis flared up badly, and my quality of life dropped sharply. It was like hell, literally. I’m still recovering, but I’</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-31">31 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -268,6 +270,33 @@ When I get absorbed in something, I tend to lose</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How low self-esteem and hyperfocus drove me to burnout]]></title>
+        <id>https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/</id>
+        <link href="https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/"/>
+        <updated>2025-10-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
+                    <p class="gh-card-excerpt is-body">Hey, this is Takuya. Recently, I pushed myself too hard on indie development and ended up sick, as I posted a video on my channel recently. My atopic dermatitis flared up badly, and my quality of life dropped sharply. It was like hell, literally. I’m still recovering, but I’</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-10-31">31 Oct 2025</time>
                 <!--
          --></footer>
         </div>
@@ -587,33 +616,6 @@ Integrating my note app with Claude’s MCPHi, it’s Takuya here. I’ve been f
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-03-18">18 Mar 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating my note app with Claude's MCP]]></title>
-        <id>https://www.devas.life/integrating-my-note-app-with-claudes-mcp/</id>
-        <link href="https://www.devas.life/integrating-my-note-app-with-claudes-mcp/"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/integrating-my-note-app-with-claudes-mcp/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/03/25-03-07-MCP-Integration_thumb.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-07-MCP-Integration_thumb.jpg" alt="Integrating my note app with Claude's MCP" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Integrating my note app with Claude's MCP</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here. I've been fiddling with Claude, which provides an interesting protocol for third-party AI integrations called MCP (Model Context Protocol). Some of my note app (called Inkdrop) users requested that they want to let Claude use their tech notes as knowledge via MCP.</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-03-07">07 Mar 2025</time>
                 <!--
          --></footer>
         </div>
