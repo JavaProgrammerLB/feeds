@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-07T09:09:06.001Z</updated>
+    <updated>2026-03-08T09:09:05.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
@@ -1657,6 +1657,33 @@
         <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 github 作为博客引擎 </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-25 </time>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Be a human, not a claw. (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-339/</id>
+        <link href="https://blog.yihong0618.me/issue-339/"/>
+        <updated>2026-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-339/">Be a human, not a claw.</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2026-03-07</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/339">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-339/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新年快乐以及一些近况 (Yihong’s Blog)]]></title>
         <id>https://blog.yihong0618.me/issue-338/</id>
         <link href="https://blog.yihong0618.me/issue-338/"/>
@@ -1897,33 +1924,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-327/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从错误中学习 (Yihong’s Blog)]]></title>
-        <id>https://blog.yihong0618.me/issue-326/</id>
-        <link href="https://blog.yihong0618.me/issue-326/"/>
-        <updated>2025-09-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-326/">从错误中学习</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-09-08</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/326">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-326/">Read more...</a>
                                     </div>]]></content>
     </entry>
     <entry>
