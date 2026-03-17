@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yihong0618.me/</id>
     <title>Yihong’s Blog</title>
-    <updated>2026-03-16T09:26:47.699Z</updated>
+    <updated>2026-03-17T09:21:20.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.yihong0618.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[DriftaBot] GitHub API usage is up-to-date ✓]]></title>
+        <id>https://blog.yihong0618.me/issue-340/</id>
+        <link href="https://blog.yihong0618.me/issue-340/"/>
+        <updated>2026-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-340/">[DriftaBot] GitHub API usage is up-to-date ✓</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2026-03-17</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/340">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-340/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Be a human, not a claw.]]></title>
         <id>https://blog.yihong0618.me/issue-339/</id>
@@ -246,33 +273,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-329/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on Pycon2025]]></title>
-        <id>https://blog.yihong0618.me/issue-327/</id>
-        <link href="https://blog.yihong0618.me/issue-327/"/>
-        <updated>2025-09-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-327/">Notes on Pycon2025</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-09-21</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/327">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-327/">Read more...</a>
                                     </div>]]></content>
     </entry>
 </feed>
