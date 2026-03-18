@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yihong0618.me/</id>
     <title>Yihong’s Blog</title>
-    <updated>2026-03-17T09:21:20.412Z</updated>
+    <updated>2026-03-18T09:21:30.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.yihong0618.me/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[DriftaBot] GitHub API usage is up-to-date ✓]]></title>
-        <id>https://blog.yihong0618.me/issue-340/</id>
-        <link href="https://blog.yihong0618.me/issue-340/"/>
-        <updated>2026-03-17T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[12 年过去了，你过得还好么？]]></title>
+        <id>https://blog.yihong0618.me/issue-341/</id>
+        <link href="https://blog.yihong0618.me/issue-341/"/>
+        <updated>2026-03-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<header class="post__header">
         <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-340/">[DriftaBot] GitHub API usage is up-to-date ✓</a>
+            <a href="https://blog.yihong0618.me/issue-341/">12 年过去了，你过得还好么？</a>
         </h1>
         <div class="post__meta">
-            <span class="post__time">2026-03-17</span>
+            <span class="post__time">2026-03-18</span>
             
                 <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/340">read the source issue</a>
+                    <a href="https://github.com/yihong0618/gitblog/issues/341">read the source issue</a>
                 </span>
             
             
@@ -29,7 +29,7 @@
                                         
                                     </div>
                                     <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-340/">Read more...</a>
+                                        <a href="https://blog.yihong0618.me/issue-341/">Read more...</a>
                                     </div>]]></content>
     </entry>
     <entry>
