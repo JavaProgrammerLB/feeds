@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-07T09:27:59.471Z</updated>
+    <updated>2026-04-08T09:27:45.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
@@ -1920,6 +1920,13 @@
                                     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我们为什么要重写 bub? (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/posts/2026/why-rewrite-bub</id>
+        <link href="https://frostming.com/posts/2026/why-rewrite-bub"/>
+        <updated>2026-04-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<time datetime="2026-04-07T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2026-04-07 </time> <div> <a href="/posts/2026/why-rewrite-bub" class="text-lg font-bold hover:opacity-70 transition-opacity"> 我们为什么要重写 bub? </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/AI" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">AI</a><a href="/tags/python" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">python</a> </div> </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[创造一只龙虾，需要些什么? (Frost Ming — Blog)]]></title>
         <id>https://frostming.com/posts/2026/create-a-claw</id>
         <link href="https://frostming.com/posts/2026/create-a-claw"/>
@@ -1955,11 +1962,36 @@
         <content type="html"><![CDATA[<time datetime="2025-12-22T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2025-12-22 </time> <div> <a href="/posts/2025/take-care" class="text-lg font-bold hover:opacity-70 transition-opacity"> 珍重 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/感悟" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">感悟</a> </div> </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被嫌弃的松子的一生 (Frost Ming — Blog)]]></title>
-        <id>https://frostming.com/posts/2025/county-woman</id>
-        <link href="https://frostming.com/posts/2025/county-woman"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2025-12-02T00:00:00.000Z" class="text-sm text-gray-500 dark:text-gray-400 font-mono"> 2025-12-02 </time> <div> <a href="/posts/2025/county-woman" class="text-lg font-bold hover:opacity-70 transition-opacity"> 被嫌弃的松子的一生 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/散文" class="inline-block rounded-full bg-gray-100 text-gray-700 hover:bg-gray-200 transition-colors dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700 px-3 py-1 text-xs">散文</a> </div> </div>]]></content>
+        <title type="html"><![CDATA[What a Japanese cooking principle taught me about overcoming AI fatigue (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</id>
+        <link href="https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2026/04/Untitled_Artwork.png 160w,
+                            /content/images/size/w320/format/webp/2026/04/Untitled_Artwork.png 320w,
+                            /content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
+                            /content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
+                            /content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
+                            /content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="640px" src="/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">What a Japanese cooking principle taught me about overcoming AI fatigue</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
+
+I've been thinking about how to live well in this AI era as a developer, content creator, and artist. By “living well,” I mean enjoying the act of creating while maintaining good mental health.
+
+I imagine many of my</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-04-08">08 Apr 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to run Claude Code in a Tmux popup window with persistent sessions (Takuya Matsuyama — Blog)]]></title>
@@ -1973,7 +2005,7 @@
                             /content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
                             /content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
                             /content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
-                            /content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="640px" src="/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
+                            /content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -2147,37 +2179,6 @@ When I was younger, I could never really picture what life in my 40s would look 
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two) (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/</id>
-        <link href="https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/"/>
-        <updated>2025-11-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/11/Work_At_Healthy_Pace.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/11/Work_At_Healthy_Pace.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here.
-As I wrote in my previous post, I recently pushed myself too hard with my indie SaaS dev work and ended up burning out.
-One of the main reasons was my tendency to hyperfocus.
-When I get absorbed in something, I tend to lose</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-11-08">08 Nov 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2226,6 +2227,36 @@ When I get absorbed in something, I tend to lose</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two) (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/</id>
+        <link href="https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/"/>
+        <updated>2025-11-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/">
+            <figure class="gh-card-image">
+                <img srcset="/content/images/size/w160/format/webp/2025/11/Work_At_Healthy_Pace.jpg 160w,
+                            /content/images/size/w320/format/webp/2025/11/Work_At_Healthy_Pace.jpg 320w,
+                            /content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
+                            /content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
+                            /content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
+                            /content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here.
+As I wrote in my previous post, I recently pushed myself too hard with my indie SaaS dev work and ended up burning out.
+One of the main reasons was my tendency to hyperfocus.
+When I get absorbed in something, I tend to lose</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-11-08">08 Nov 2025</time>
                 <!--
          --></footer>
         </div>
@@ -2543,35 +2574,6 @@ Inkdrop v5.11.0 - Two-factor authentication</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-03-25">25 Mar 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answering dev questions based on my tech notes using MCP + Claude (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/</id>
-        <link href="https://www.devas.life/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/"/>
-        <updated>2025-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/">
-            <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 160w,
-                            /content/images/size/w320/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 320w,
-                            /content/images/size/w600/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 600w,
-                            /content/images/size/w960/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 960w,
-                            /content/images/size/w1200/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-18-Answering-questions-using-MCP_kanji.png" alt="Answering dev questions based on my tech notes using MCP + Claude" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Answering dev questions based on my tech notes using MCP + Claude</h3>
-                    <p class="gh-card-excerpt is-body">In the previous post, I integrated my note-taking app Inkdrop with Claude's MCP:
-
-Integrating my note app with Claude’s MCPHi, it’s Takuya here. I’ve been fiddling with Claude, which provides an interesting protocol for third-party AI integrations called MCP (Model Context Protocol). Some of my</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-03-18">18 Mar 2025</time>
                 <!--
          --></footer>
         </div>
