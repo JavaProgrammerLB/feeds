@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-04-08T09:27:45.566Z</updated>
+    <updated>2026-04-09T09:31:53.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.devas.life/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
     <entry>
         <title type="html"><![CDATA[What a Japanese cooking principle taught me about overcoming AI fatigue]]></title>
         <id>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</id>
@@ -12,12 +12,12 @@
         <updated>2026-04-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2026/04/Untitled_Artwork.png 160w,
-                            /content/images/size/w320/format/webp/2026/04/Untitled_Artwork.png 320w,
-                            /content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
-                            /content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
-                            /content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
-                            /content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="640px" src="/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/04/Untitled_Artwork.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/04/Untitled_Artwork.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -44,12 +44,12 @@ I imagine many of my</p>
         <updated>2026-02-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2026/02/maxresdefault.jpeg 160w,
-                            /content/images/size/w320/format/webp/2026/02/maxresdefault.jpeg 320w,
-                            /content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
-                            /content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
-                            /content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
-                            /content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/maxresdefault.jpeg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/maxresdefault.jpeg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -74,12 +74,12 @@ I've been using Claude Code in my terminal workflow. At first, I was running it 
         <updated>2026-02-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-my-keychron-k2-he-stealthy/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2026/02/DSCF2918.jpg 160w,
-                            /content/images/size/w320/format/webp/2026/02/DSCF2918.jpg 320w,
-                            /content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
-                            /content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
-                            /content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/DSCF2918.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/DSCF2918.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Review</p>
@@ -109,12 +109,12 @@ The above keyboard is Keychron Q1, which I've been using for</p>
         <updated>2026-01-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2026/01/Note-driven-agentic-coding.png 160w,
-                            /content/images/size/w320/format/webp/2026/01/Note-driven-agentic-coding.png 320w,
-                            /content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
-                            /content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
-                            /content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
-                            /content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/Note-driven-agentic-coding.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/Note-driven-agentic-coding.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -137,12 +137,12 @@ The above keyboard is Keychron Q1, which I've been using for</p>
         <updated>2026-01-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/my-2025-indie-dev-journey-review/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2026/01/2025---year-in-review.jpg 160w,
-                            /content/images/size/w320/format/webp/2026/01/2025---year-in-review.jpg 320w,
-                            /content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
-                            /content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
-                            /content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/2025---year-in-review.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/2025---year-in-review.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -168,12 +168,12 @@ In Japan,</p>
         <updated>2025-12-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/why-a-linear-notes-app-is-sufficient/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -198,12 +198,12 @@ I'm the author of Inkdrop, a Markdown note-taking app mainly designed for softwa
         <updated>2025-11-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/11/Charm_Is_Important.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/11/Charm_Is_Important.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/11/Charm_Is_Important.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/11/Charm_Is_Important.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -229,12 +229,12 @@ When I was younger, I could never really picture what life in my 40s would look 
         <updated>2025-01-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/new-wallpaper-pack-textures-of-kyoto/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/01/L1000386.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/01/L1000386.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/01/L1000386.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/01/L1000386.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/01/L1000386.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/01/L1000386.jpg 2000w" sizes="80px" src="/content/images/size/w600/2025/01/L1000386.jpg" alt="New wallpaper pack: Textures of Kyoto">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/01/L1000386.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/01/L1000386.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/01/L1000386.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/01/L1000386.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/01/L1000386.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/01/L1000386.jpg 2000w" sizes="80px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/01/L1000386.jpg" alt="New wallpaper pack: Textures of Kyoto">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">New wallpaper pack: Textures of Kyoto</h3>
@@ -256,12 +256,12 @@ When I was younger, I could never really picture what life in my 40s would look 
         <updated>2018-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 2000w" sizes="80px" src="/content/images/size/w600/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg" alt="How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg 2000w" sizes="80px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/01/1-ik95abuupmxjodwsmewk_g-jpeg-2.jpg" alt="How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo</h3>
@@ -283,12 +283,12 @@ When I was younger, I could never really picture what life in my 40s would look 
         <updated>2025-11-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/11/Work_At_Healthy_Pace.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/11/Work_At_Healthy_Pace.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/11/Work_At_Healthy_Pace.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/11/Work_At_Healthy_Pace.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)</h3>
@@ -313,12 +313,12 @@ When I get absorbed in something, I tend to lose</p>
         <updated>2025-10-31T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
@@ -340,12 +340,12 @@ When I get absorbed in something, I tend to lose</p>
         <updated>2025-10-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/the-scariest-user-support-email-ive-ever-received/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
-                            /content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
-                            /content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
-                            /content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
-                            /content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
@@ -372,12 +372,12 @@ Subject: Cookie consent</p>
         <updated>2025-10-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/discovering-the-joy-of-driving-as-a-long-time-paper-driver/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
-                            /content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
-                            /content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
-                            /content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
-                            /content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
-                            /content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
@@ -399,12 +399,12 @@ Subject: Cookie consent</p>
         <updated>2025-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/zen-why-inkdrop-never-extends-markdown-syntax/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
-                            /content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
-                            /content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
-                            /content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
-                            /content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
-                            /content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
@@ -426,12 +426,12 @@ Subject: Cookie consent</p>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
-                            /content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
-                            /content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
-                            /content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
-                            /content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>
@@ -458,12 +458,12 @@ Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/agentic-coding-made-programming-fun-again/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/07/2025-07-16-Programming-is-fun-again_2.jpg" alt="Agentic coding made programming fun again" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/07/2025-07-16-Programming-is-fun-again_2.jpg" alt="Agentic coding made programming fun again" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Agentic coding made programming fun again</h3>
@@ -486,12 +486,12 @@ Then, I</p>
         <updated>2025-07-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-signing-your-windows-app-with-certum/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
-                            /content/images/size/w320/format/webp/2025/07/image-3.png 320w,
-                            /content/images/size/w600/format/webp/2025/07/image-3.png 600w,
-                            /content/images/size/w960/format/webp/2025/07/image-3.png 960w,
-                            /content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/07/image-3.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/07/image-3.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/07/image-3.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How to automate signing your Windows app with Certum's SimplySign app</h3>
@@ -516,12 +516,12 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
         <updated>2025-06-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-development-journaling-with-claude-code/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
-                            /content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
-                            /content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
-                            /content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
-                            /content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How to automate development journaling with Claude Code</h3>
@@ -543,12 +543,12 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
         <updated>2025-04-23T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/04/2025-04-22-React-Native-0.79_2.jpg" alt="What I did for upgrading React Native to 0.79.1 from 0.74.2" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/04/2025-04-22-React-Native-0.79_2.jpg" alt="What I did for upgrading React Native to 0.79.1 from 0.74.2" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">What I did for upgrading React Native to 0.79.1 from 0.74.2</h3>
@@ -572,12 +572,12 @@ Bumping up the React Native versions has always been hard, and this time wasn't 
         <updated>2025-04-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-animate-a-tanstack-virtual-list-with-motion-rev-2/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/04/Untitled-1.png 160w,
-                            /content/images/size/w320/format/webp/2025/04/Untitled-1.png 320w,
-                            /content/images/size/w600/format/webp/2025/04/Untitled-1.png 600w,
-                            /content/images/size/w960/format/webp/2025/04/Untitled-1.png 960w,
-                            /content/images/size/w1200/format/webp/2025/04/Untitled-1.png 1200w,
-                            /content/images/size/w2000/format/webp/2025/04/Untitled-1.png 2000w" sizes="320px" src="/content/images/size/w600/2025/04/Untitled-1.png" alt="How to animate a TanStack Virtual list with motion (rev. 2)" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/04/Untitled-1.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/04/Untitled-1.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/04/Untitled-1.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/04/Untitled-1.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/04/Untitled-1.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/04/Untitled-1.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/04/Untitled-1.png" alt="How to animate a TanStack Virtual list with motion (rev. 2)" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How to animate a TanStack Virtual list with motion (rev. 2)</h3>
@@ -601,12 +601,12 @@ However, that approach would always trigger animations whenever the note list co
         <updated>2025-03-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/">
             <figure class="gh-card-image">
-                <img srcset="/content/images/size/w160/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 160w,
-                            /content/images/size/w320/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 320w,
-                            /content/images/size/w600/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 600w,
-                            /content/images/size/w960/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 960w,
-                            /content/images/size/w1200/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 1200w,
-                            /content/images/size/w2000/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 2000w" sizes="320px" src="/content/images/size/w600/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg" alt="How I implemented TOTP-based 2FA for my Markdown note app" loading="lazy">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg" alt="How I implemented TOTP-based 2FA for my Markdown note app" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How I implemented TOTP-based 2FA for my Markdown note app</h3>
