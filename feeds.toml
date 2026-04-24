@@ -54,3 +54,14 @@ dateSelector = "span.text-muted-foreground.font-mono.text-xs"
 dateFormat = "yyyy/MM/dd"
 waitUntil = "load"
 waitForSelector = "h3"
+
+[turbek]
+url = "https://turbek.com/"
+title = "Steve Turbek — Blog"
+# Homepage lists many items (projects, press, etc.); include only those linking to /blog/...
+entrySelector = "div.wide-item:has(a.item-link[href^='/blog/'])"
+titleSelector = "a.item-link h2"
+linkSelector = "a.item-link"
+contentSelector = "div.item-desc p"
+dateSelector = "span.item-date"
+dateFormat = "d MMM yyyy"
