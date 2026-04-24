@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-23T10:21:20.066Z</updated>
+    <updated>2026-04-24T05:16:15.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
@@ -2746,5 +2746,266 @@ Inkdrop v5.11.0 - Two-factor authentication</p>
         <link href="https://idoubi.ai/blog/how-to-create-gpts"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->24</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">创建一个可调用第三方 API 的 gpts 应用</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/10</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/10</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEI Conference 2026 (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/04/21/TEI-conference-2026/</id>
+        <link href="https://turbek.com/blog/2026/04/21/TEI-conference-2026/"/>
+        <updated>2026-04-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Notes after virtually attending the TEI Tangible, Embedded, Embodied Interaction Conference 9-11 Mar 2026.  (Image is from OfficeSense paper, which received Best Paper award at conference.)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Health- Bad UX or Irresponsible UX? (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/04/16/apple-health/</id>
+        <link href="https://turbek.com/blog/2026/04/16/apple-health/"/>
+        <updated>2026-04-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[What is a designers responsibility to resist bold marketing when the data doesn't back it up?  An exploration into Apple Health.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotary Encoder Plus Extension for Microbit (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/04/12/Rotary-Encoder-Plus/</id>
+        <link href="https://turbek.com/blog/2026/04/12/Rotary-Encoder-Plus/"/>
+        <updated>2026-04-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A new code extension for the BBC Microbit, open sourced and accepted by the Microbit Foundation.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm writing a book! (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/04/06/tangible-book/</id>
+        <link href="https://turbek.com/blog/2026/04/06/tangible-book/"/>
+        <updated>2026-04-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Designing the Tangible Interface to be published by Rosenfeld Media in late 2027!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tangible Interfaces Design Studio (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/02/02/tangible-interfaces-class/</id>
+        <link href="https://turbek.com/blog/2026/02/02/tangible-interfaces-class/"/>
+        <updated>2026-02-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A senior design studio focused on designing with tactile and sensory components to build interactive user experiences embodied in physical products.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Design Using Artificial Intelligence (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2025/12/15/designing-with-Artificial-Intelligence/</id>
+        <link href="https://turbek.com/blog/2025/12/15/designing-with-Artificial-Intelligence/"/>
+        <updated>2025-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Class Materials for Pratt Industrial Design Senior Capstone Studio class, “Designing with AI”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Calendar Press (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2023/01/01/bubble-calendar-press/</id>
+        <link href="https://turbek.com/blog/2023/01/01/bubble-calendar-press/"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Bubble Calendar got quite a lot of press when it debuted in 2008.
+<br><br>
+Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apartment Therapy, Glamour Magazine, Daily Candy, PRINT Magazine, Tangible (book), AP News Wire, Daily News, Dwell Magazine, Time Out New York Holiday Gift Guide, and coverage in Germany.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live Edge Bench (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2022/01/01/live-edge-bench/</id>
+        <link href="https://turbek.com/blog/2022/01/01/live-edge-bench/"/>
+        <updated>2022-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Reclaimed American mahogany with Japanese-inspired joinery. Seat plates angle inward for comfort.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hex Flooring Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2020/01/01/hex-flooring-table/</id>
+        <link href="https://turbek.com/blog/2020/01/01/hex-flooring-table/"/>
+        <updated>2020-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Using leftover flooring to make hexagon tables.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All-felt stool (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2019/12/19/all-felt-stool/</id>
+        <link href="https://turbek.com/blog/2019/12/19/all-felt-stool/"/>
+        <updated>2019-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Felt is soft, but surprisingly stiff when folded! Tied with string, this is a functional stool weighing just 8 pounds.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conference Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2018/12/18/conference-table/</id>
+        <link href="https://turbek.com/blog/2018/12/18/conference-table/"/>
+        <updated>2018-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Conferencing tables designed for the Razorfish conference rooms. With rollerblade wheel feet, they are easily reconfigured into multiple shapes. An aircraft fuel tank stopper can be opened to run laptop cables neatly through the leg.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classic Arcade Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2018/03/13/classic-arcade-table/</id>
+        <link href="https://turbek.com/blog/2018/03/13/classic-arcade-table/"/>
+        <updated>2018-03-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A table for classic 80's arcade games that fits into a stylish living room. The joysticks fold under the screen of the mirrored glass.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make the Commercial First (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2017/04/14/make-the-commercial-first/</id>
+        <link href="https://turbek.com/blog/2017/04/14/make-the-commercial-first/"/>
+        <updated>2017-04-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Designers' unique skill set can go beyond designing the UI of an existing product idea.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Kinds of Simplicity (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2017/03/27/3-kinds-of-simplicity/</id>
+        <link href="https://turbek.com/blog/2017/03/27/3-kinds-of-simplicity/"/>
+        <updated>2017-03-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Remote controls are a great way to engage non-designers. These three examples show the difference between Engineering simplicity, Conceptual simplicity, and Aesthetic simplicity.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["White Knight" (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2017/03/20/white-knight/</id>
+        <link href="https://turbek.com/blog/2017/03/20/white-knight/"/>
+        <updated>2017-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Inspired by a cyclist friend who wears white jeans, this prototype chain guard for single speed bikes keeps your pants clean. The pattern of circles enables the attachment brackets to fit any sprocket.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Pete Coffee Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2017/01/10/re-pete-coffee-table/</id>
+        <link href="https://turbek.com/blog/2017/01/10/re-pete-coffee-table/"/>
+        <updated>2017-01-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[This coffee table system can make tables with leg patterns composed from 3 to 10 legs.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV Remote grip (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2016/09/23/apple-tv-remote-grip/</id>
+        <link href="https://turbek.com/blog/2016/09/23/apple-tv-remote-grip/"/>
+        <updated>2016-09-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The 2018 Apple TV remote has many design flaws, including not being obvious which way to hold it and being hard to pick up. This grip gives a clear front and back and raising it off the surface. <a href="https://turbek.com/projects/SteveTurbek_3KindsOfSimplicity.stl.zip">3D printing file</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash Your Visual Superpower! (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2015/11/17/unleash-your-visual-superpower/</id>
+        <link href="https://turbek.com/blog/2015/11/17/unleash-your-visual-superpower/"/>
+        <updated>2015-11-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[How enterprise designers can use their special abilities to shape product strategy.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plateaus are Harder Than Mountains (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2014/12/16/plateaus-are-harder-than-mountains/</id>
+        <link href="https://turbek.com/blog/2014/12/16/plateaus-are-harder-than-mountains/"/>
+        <updated>2014-12-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[How can design help real people use data in their lives?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building the In-house Design Agency (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2013/12/19/building-the-in-house-design-agency/</id>
+        <link href="https://turbek.com/blog/2013/12/19/building-the-in-house-design-agency/"/>
+        <updated>2013-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Getting the best of both worlds.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soldiers & Hessians, Ronin & Ninja (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2013/11/26/soldiers-hessians-ronin-ninja/</id>
+        <link href="https://turbek.com/blog/2013/11/26/soldiers-hessians-ronin-ninja/"/>
+        <updated>2013-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[UX team organization can make or break a company's design strategy.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Tractor Green" Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2012/09/20/tractor-green-table/</id>
+        <link href="https://turbek.com/blog/2012/09/20/tractor-green-table/"/>
+        <updated>2012-09-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A 2D metal curve repeated in three dimensions defines a form with interesting positive and negative spaces. Paint color came from a happy accident at the paint shop.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Design Patterns an Anti-pattern? (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2012/01/16/are-design-patterns-an-anti-pattern/</id>
+        <link href="https://turbek.com/blog/2012/01/16/are-design-patterns-an-anti-pattern/"/>
+        <updated>2012-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In a world of limited resources, code beats pictures.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are your users S.T.U.P.I.D.? (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2011/04/20/are-your-users-s-t-u-p-i-d/</id>
+        <link href="https://turbek.com/blog/2011/04/20/are-your-users-s-t-u-p-i-d/"/>
+        <updated>2011-04-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[There are no dumb users, but people are not only users, they have their whole lives going on.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flat Pack Bench (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2008/02/08/flat-pack-bench/</id>
+        <link href="https://turbek.com/blog/2008/02/08/flat-pack-bench/"/>
+        <updated>2008-02-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Inspired by occasional large dinner parties with friends, this flat pack bench can be assembled without tools. The sitter's weight locks the wooden rods in place.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curved Plywood Bar (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2007/08/09/curved-plywood-bar/</id>
+        <link href="https://turbek.com/blog/2007/08/09/curved-plywood-bar/"/>
+        <updated>2007-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Custom designed and built, the curved plywood front dramatically swings open to show contents.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Happy Feet" (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2003/01/01/happy-feet/</id>
+        <link href="https://turbek.com/blog/2003/01/01/happy-feet/"/>
+        <updated>2003-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[(Shown at Art Bots 2003) Happy Feet is an installation of 5 pairs of elegant footwear. Each shoe is mechanically articulated, enabling it to tap. The shoes dance, create chorus line patterns, and interact with the audience — copying the steps of anyone who steps on the foot pads.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handmade Game machine (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2003/01/01/handmade-game-machine/</id>
+        <link href="https://turbek.com/blog/2003/01/01/handmade-game-machine/"/>
+        <updated>2003-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[This completely hand-made and hand-coded arcade device was written in BASIC for the PIC 877 microchip to play simple games like PONG and snake.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYTimes on Furniture (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1999/01/28/nytimes-on-furniture/</id>
+        <link href="https://turbek.com/blog/1999/01/28/nytimes-on-furniture/"/>
+        <updated>1999-01-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Nice small note in print NY Times of my late 90's furniture business.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molded Plywood Bench (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1999/01/01/molded-plywood-bench/</id>
+        <link href="https://turbek.com/blog/1999/01/01/molded-plywood-bench/"/>
+        <updated>1999-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Springy and strong, the plywood forms can be used for home or public seating. The single repeated element can create concave or convex curves by altering the spacing of the aluminum connectors.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pepto Bismol Bottle (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1995/06/01/pepto-bismol-bottle/</id>
+        <link href="https://turbek.com/blog/1995/06/01/pepto-bismol-bottle/"/>
+        <updated>1995-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Concept for a Pepto Bismol bottle. The evocative shape also served a purpose — the goose neck top delivers a measured dose when tipped back and forth.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folding Table (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1995/05/01/folding-table/</id>
+        <link href="https://turbek.com/blog/1995/05/01/folding-table/"/>
+        <updated>1995-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[A traditional Shaker sideboard-table updated with organic forms.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastener-less Shelving (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1995/04/02/fastener-less-shelving/</id>
+        <link href="https://turbek.com/blog/1995/04/02/fastener-less-shelving/"/>
+        <updated>1995-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Non-parallel metal tubes keep the shelves in place without screws. The organic forms were derived from the stresses on the supports.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pratt Student Mailboxes (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1994/05/01/pratt-student-mailboxes/</id>
+        <link href="https://turbek.com/blog/1994/05/01/pratt-student-mailboxes/"/>
+        <updated>1994-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Competition-winning entry for Pratt Architecture student mailboxes. Hand made polypropylene.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carved Plywood Chair (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1994/02/19/carved-plywood-chair/</id>
+        <link href="https://turbek.com/blog/1994/02/19/carved-plywood-chair/"/>
+        <updated>1994-02-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[An organic-form chair from carved layers of sheet plywood. Seat hollowed out for comfort.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cane Concept (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1994/01/19/cane-concept/</id>
+        <link href="https://turbek.com/blog/1994/01/19/cane-concept/"/>
+        <updated>1994-01-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Prototype of injection molded frame over aluminum core, with neoprene cuff, adjustable along molded ribs.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timberframe Pavilion (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/1992/06/01/timberframe-pavilion/</id>
+        <link href="https://turbek.com/blog/1992/06/01/timberframe-pavilion/"/>
+        <updated>1992-06-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Designed and built in the summer of 1992–3, this structure combines traditional timberframe joints with unusual geometry.]]></content>
     </entry>
 </feed>
