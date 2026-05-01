@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-30T10:53:48.933Z</updated>
+    <updated>2026-05-01T10:21:45.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体 (limboy blog)]]></title>
@@ -1962,6 +1962,34 @@
         <content type="html"><![CDATA[<time datetime="2025-12-22T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2025-12-22 </time> <div> <a href="/posts/2025/take-care" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 珍重 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/感悟" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">感悟</a> </div> </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/</id>
+        <link href="https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/"/>
+        <updated>2026-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg" alt="10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Talk</p>
+            <h3 class="gh-card-title is-title">10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2</h3>
+                    <p class="gh-card-excerpt is-body">I joined Hiroshi's podcast episode a few weeks ago. We shared our experience and knowledge on indie dev. I'd like to cross-post our talk in English here. I also tried to create an English dub using AI. The voice cloning quality is quite impressive, so I</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-05-01">01 May 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What a Japanese cooking principle taught me about overcoming AI fatigue (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</id>
         <link href="https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"/>
@@ -1973,7 +2001,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -2148,37 +2176,6 @@ I'm the author of Inkdrop, a Markdown note-taking app mainly designed for softwa
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don’t be a scary old guy: My 40s survival strategy with charm (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/</id>
-        <link href="https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/"/>
-        <updated>2025-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/11/Charm_Is_Important.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/11/Charm_Is_Important.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">Don’t be a scary old guy: My 40s survival strategy with charm</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it’s&nbsp;Takuya.
-Last week I had my birthday and turned 41 (November 19th).
-
-When I was younger, I could never really picture what life in my 40s would look like. It’s this vague age where you don’t have a clear image of how you’re supposed</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-11-27">27 Nov 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2227,6 +2224,36 @@ When I was younger, I could never really picture what life in my 40s would look 
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t be a scary old guy: My 40s survival strategy with charm (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/</id>
+        <link href="https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/"/>
+        <updated>2025-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/11/Charm_Is_Important.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/11/Charm_Is_Important.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Don’t be a scary old guy: My 40s survival strategy with charm</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it’s&nbsp;Takuya.
+Last week I had my birthday and turned 41 (November 19th).
+
+When I was younger, I could never really picture what life in my 40s would look like. It’s this vague age where you don’t have a clear image of how you’re supposed</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2025-11-27">27 Nov 2025</time>
                 <!--
          --></footer>
         </div>
@@ -2545,35 +2572,6 @@ However, that approach would always trigger animations whenever the note list co
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-04-15">15 Apr 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I implemented TOTP-based 2FA for my Markdown note app (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/</id>
-        <link href="https://www.devas.life/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/03/25-03-25-Desktop-v5.11.0-Release.jpg" alt="How I implemented TOTP-based 2FA for my Markdown note app" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How I implemented TOTP-based 2FA for my Markdown note app</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I'm building a Markdown note-taking app called&nbsp;Inkdrop. As of v5.11.0, it supports two-factor authentication with a time-based one-time password. Thank you so much for the feedback during the beta testing!
-
-Inkdrop v5.11.0 - Two-factor authentication</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-03-25">25 Mar 2025</time>
                 <!--
          --></footer>
         </div>
