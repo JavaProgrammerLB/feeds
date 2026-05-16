@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-15T09:56:43.136Z</updated>
+    <updated>2026-05-16T09:34:29.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[为什么要写周记 (limboy blog)]]></title>
@@ -1671,6 +1671,33 @@
         <content type="html"><![CDATA[<span class="line-clamp-1"> 使用 github 作为博客引擎 </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2010-08-25 </time>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[不要自动化你的情感链接 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/issue-343/</id>
+        <link href="https://blog.yihong0618.me/issue-343/"/>
+        <updated>2026-05-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<header class="post__header">
+        <h1 class="post__title">
+            <a href="https://blog.yihong0618.me/issue-343/">不要自动化你的情感链接</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2026-05-15</span>
+            
+                <span class="post__source">
+                    <a href="https://github.com/yihong0618/gitblog/issues/343">read the source issue</a>
+                </span>
+            
+            
+        </div>
+    </header>
+
+                                    <div class="post__summary">
+                                        
+                                    </div>
+                                    <div class="read-more">
+                                        <a href="https://blog.yihong0618.me/issue-343/">Read more...</a>
+                                    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[那些幸福的瞬间 (Yihong’s Blog)]]></title>
         <id>https://blog.yihong0618.me/issue-342/</id>
         <link href="https://blog.yihong0618.me/issue-342/"/>
@@ -1911,33 +1938,6 @@
                                     </div>
                                     <div class="read-more">
                                         <a href="https://blog.yihong0618.me/issue-333/">Read more...</a>
-                                    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何判断一个项目是个好的开源项目并且想贡献？ (Yihong’s Blog)]]></title>
-        <id>https://blog.yihong0618.me/issue-331/</id>
-        <link href="https://blog.yihong0618.me/issue-331/"/>
-        <updated>2025-12-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header">
-        <h1 class="post__title">
-            <a href="https://blog.yihong0618.me/issue-331/">如何判断一个项目是个好的开源项目并且想贡献？</a>
-        </h1>
-        <div class="post__meta">
-            <span class="post__time">2025-12-03</span>
-            
-                <span class="post__source">
-                    <a href="https://github.com/yihong0618/gitblog/issues/331">read the source issue</a>
-                </span>
-            
-            
-        </div>
-    </header>
-
-                                    <div class="post__summary">
-                                        
-                                    </div>
-                                    <div class="read-more">
-                                        <a href="https://blog.yihong0618.me/issue-331/">Read more...</a>
                                     </div>]]></content>
     </entry>
     <entry>
