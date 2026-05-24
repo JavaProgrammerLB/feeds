@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-05-22T10:07:52.718Z</updated>
+    <updated>2026-05-24T09:39:42.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A conversation with Tobias Butler, creator of Tuneshine]]></title>
+        <id>https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/</id>
+        <link href="https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/"/>
+        <updated>2026-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Tobias Butler is a software engineer turned hardware entrepreneur who built a very cool LED display of the album art you are currently streaming.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEI Conference 2026]]></title>
         <id>https://turbek.com/blog/2026/04/21/TEI-conference-2026/</id>

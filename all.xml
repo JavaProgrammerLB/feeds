@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-05-22T10:07:52.722Z</updated>
+    <updated>2026-05-24T09:39:42.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[为什么要写周记 (limboy blog)]]></title>
@@ -2758,6 +2758,13 @@ However, that approach would always trigger animations whenever the note list co
         <link href="https://idoubi.ai/blog/how-to-create-gpts"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->24</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">创建一个可调用第三方 API 的 gpts 应用</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/10</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/10</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A conversation with Tobias Butler, creator of Tuneshine (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/</id>
+        <link href="https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/"/>
+        <updated>2026-05-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Tobias Butler is a software engineer turned hardware entrepreneur who built a very cool LED display of the album art you are currently streaming.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TEI Conference 2026 (Steve Turbek — Blog)]]></title>
