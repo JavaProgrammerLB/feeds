@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-05-29T10:22:21.810Z</updated>
+    <updated>2026-05-30T09:39:44.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/"/>
         <updated>2026-05-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Tobias Butler is a software engineer turned hardware entrepreneur who built a very cool LED display of the album art you are currently streaming.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design History: The Rise and Fall of Automotive Touchscreens]]></title>
+        <id>https://turbek.com/blog/2026/04/27/car-dashboard-safety/</id>
+        <link href="https://turbek.com/blog/2026/04/27/car-dashboard-safety/"/>
+        <updated>2026-04-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The rise and fall of automotive touchscreens — a design history]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TEI Conference 2026]]></title>
