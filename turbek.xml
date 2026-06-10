@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-06-09T10:16:41.488Z</updated>
+    <updated>2026-06-10T10:28:21.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A Playdate with Greg Maletic and Neven Mrgan from Panic Software]]></title>
+        <id>https://turbek.com/blog/2026/06/09/playdate/</id>
+        <link href="https://turbek.com/blog/2026/06/09/playdate/"/>
+        <updated>2026-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The creation of the Playdate game device with Greg Maletic (Playdate Lead) and Neven Mrgan (Panic Creative Lead)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A conversation with Tobias Butler, creator of Tuneshine]]></title>
         <id>https://turbek.com/blog/2026/05/20/tobias-butler-tuneshine/</id>

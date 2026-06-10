@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-09T10:16:41.514Z</updated>
+    <updated>2026-06-10T10:28:22.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[为什么要写周记 (limboy blog)]]></title>
@@ -2758,6 +2758,13 @@ Bumping up the React Native versions has always been hard, and this time wasn't 
         <link href="https://idoubi.ai/blog/how-to-create-gpts"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->24</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">创建一个可调用第三方 API 的 gpts 应用</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/10</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/10</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Playdate with Greg Maletic and Neven Mrgan from Panic Software (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2026/06/09/playdate/</id>
+        <link href="https://turbek.com/blog/2026/06/09/playdate/"/>
+        <updated>2026-06-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[The creation of the Playdate game device with Greg Maletic (Playdate Lead) and Neven Mrgan (Panic Creative Lead)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A conversation with Tobias Butler, creator of Tuneshine (Steve Turbek — Blog)]]></title>
