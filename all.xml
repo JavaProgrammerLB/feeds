@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-10T10:28:22.077Z</updated>
+    <updated>2026-06-11T10:33:46.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[微信是一个奇葩 (limboy blog)]]></title>
+        <id>https://limboy.me/posts/wechat-is-abnormal</id>
+        <link href="https://limboy.me/posts/wechat-is-abnormal"/>
+        <updated>2026-06-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 微信是一个奇葩 </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-06-11 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么要写周记 (limboy blog)]]></title>
         <id>https://limboy.me/posts/why-write-weekly</id>
@@ -1994,7 +2001,7 @@
             <h3 class="gh-card-title is-title">A day in the life of a Japanese indie developer</h3>
                     <p class="gh-card-excerpt is-body">In the morning, I saw my daughter off to her school bus stop. I recently came across comedian Atsushi Tamura’s conversational nodding technique and thought it sounded interesting, so I immediately tried it out during some small talk with my mama-tomo (mom friend). The results were instant.
 
-The method</p>
+The</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2022,7 +2029,7 @@ The method</p>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Talk</p>
             <h3 class="gh-card-title is-title">10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2</h3>
-                    <p class="gh-card-excerpt is-body">I joined Hiroshi's podcast episode a few weeks ago. We shared our experience and knowledge on indie dev. I'd like to cross-post our talk in English here. I also tried to create an English dub using AI. The voice cloning quality is quite impressive, so I</p>
+                    <p class="gh-card-excerpt is-body">I joined Hiroshi's podcast episode a few weeks ago. We shared our experience and knowledge on indie dev. I'd like to cross-post our talk in English here. I also tried to create an English dub using AI. The voice cloning quality is quite impressive, so</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2147,7 +2154,7 @@ The above keyboard is Keychron Q1, which I've been using for</p>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
             <h3 class="gh-card-title is-title">Note-driven agentic coding workflow using Claude Code and Inkdrop</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya. I came up with another AI coding workflow that is note-driven, using Claude Code and Inkdrop. When I was using Claude Code's plan mode, I found the generated plans hard to read on the terminal because the CLI is</p>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya. I came up with another AI coding workflow that is note-driven, using Claude Code and Inkdrop. When I was using Claude Code's plan mode, I found the generated plans hard to read on the terminal because the CLI</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2178,7 +2185,7 @@ The above keyboard is Keychron Q1, which I've been using for</p>
                     <p class="gh-card-excerpt is-body">Hi, it’s Takuya.
 
 Happy new year! It’s already mid-January, but I want to look back at my activities in 2025. If I had to sum up last year in one word, it was the year I got the full "unlucky year (Yakudoshi / 厄年)" experience.
-In Japan,</p>
+In</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2205,7 +2212,7 @@ In Japan,</p>
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">New wallpaper pack: Textures of Kyoto</h3>
-                    <p class="gh-card-excerpt is-body">I’m no exception as a Japanese person who loves Kyoto, despite its recent overtourism issues. When considering creating a wallpaper pack in Kyoto, I contemplated what aspects of the city resonate with me most. There are already tons of amazing photos showcasing iconic views, such as Sannen-zaka or Zen</p>
+                    <p class="gh-card-excerpt is-body">I’m no exception as a Japanese person who loves Kyoto, despite its recent overtourism issues. When considering creating a wallpaper pack in Kyoto, I contemplated what aspects of the city resonate with me most. There are already tons of amazing photos showcasing iconic views, such as Sannen-zaka or</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2261,7 +2268,7 @@ In Japan,</p>
             <h3 class="gh-card-title is-title">Write, then walk: Why a simple notes app is sufficient</h3>
                     <p class="gh-card-excerpt is-body">Hi, it's Takuya. I want to share my thoughts and methodology on how to generate new ideas from your notes and memos.
 
-I'm the author of Inkdrop, a Markdown note-taking app mainly designed for software developers with a core focus on simplicity. I might be a</p>
+I'm the author of Inkdrop, a Markdown note-taking app mainly designed for software developers with a core focus on simplicity. I might be</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2434,7 +2441,7 @@ Subject: Cookie consent</p>
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
-                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document format in</p>
+                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2466,7 +2473,7 @@ It comes with a bunch of ground-up improvements. Let's go!
 
 Release notes:
 
-Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
+Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2493,8 +2500,7 @@ Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to announce that</p>
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Agentic coding made programming fun again</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I have a 9-year-old SaaS with multi-platform desktop and mobile apps called Inkdrop, a plain-text Markdown note-taking app. Recently, I started using Claude Code in my project. My first attempt was a failure, though I eventually got used to it in my workflow.
-Then, I</p>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I have a 9-year-old SaaS with multi-platform desktop and mobile apps called Inkdrop, a plain-text Markdown note-taking app. Recently, I started using Claude Code in my project. My first attempt was a failure, though I eventually got used to it</p>
             <footer class="gh-card-meta">
 <!--
              -->
@@ -2580,7 +2586,7 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
             <h3 class="gh-card-title is-title">What I did for upgrading React Native to 0.79.1 from 0.74.2</h3>
                     <p class="gh-card-excerpt is-body">Hi, it's Takuya here, the developer of Inkdrop – a Markdown note-taking app that supports syncing and offline-first capabilities, built with React Native.
 
-Bumping up the React Native versions has always been hard, and this time wasn't an exception, especially because it involved migrating from the old</p>
+Bumping up the React Native versions has always been hard, and this time wasn't an exception, especially because it involved migrating from</p>
             <footer class="gh-card-meta">
 <!--
              -->
