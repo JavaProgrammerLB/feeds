@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-06-14T10:12:22.179Z</updated>
+    <updated>2026-06-15T11:06:06.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I made a Claude Code session manager for tmux]]></title>
+        <id>https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/</id>
+        <link href="https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-a-claude-code-session-manager-for-tmux/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/06/26-06-14-tmux-claude-session-manager.jpg" alt="I made a Claude Code session manager for tmux">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">I made a Claude Code session manager for tmux</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I'm happy to introduce a tool for managing multiple Claude Code sessions in tmux. Here is a demo video:
+
+First, let me share a bit about the journey that led me to build it. Or, you can just jump right to the repo</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-06-15">15 Jun 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A day in the life of a Japanese indie developer]]></title>
         <id>https://www.devas.life/a-day-in-the-life-of-a-japanese-indie-developer/</id>
@@ -17,7 +47,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/L1002401.jpeg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/L1002401.jpeg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/L1002401.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/L1002401.jpeg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/L1002401.jpeg" alt="A day in the life of a Japanese indie developer">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/L1002401.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/L1002401.jpeg" alt="A day in the life of a Japanese indie developer">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -189,37 +219,6 @@ The above keyboard is Keychron Q1, which I've been using for</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My 2025 indie dev journey review]]></title>
-        <id>https://www.devas.life/my-2025-indie-dev-journey-review/</id>
-        <link href="https://www.devas.life/my-2025-indie-dev-journey-review/"/>
-        <updated>2026-01-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-2025-indie-dev-journey-review/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/2025---year-in-review.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/2025---year-in-review.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">My 2025 indie dev journey review</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it’s Takuya.
-
-Happy new year! It’s already mid-January, but I want to look back at my activities in 2025. If I had to sum up last year in one word, it was the year I got the full "unlucky year (Yakudoshi / 厄年)" experience.
-In</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-01-14">14 Jan 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -268,6 +267,36 @@ In</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 2025 indie dev journey review]]></title>
+        <id>https://www.devas.life/my-2025-indie-dev-journey-review/</id>
+        <link href="https://www.devas.life/my-2025-indie-dev-journey-review/"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/my-2025-indie-dev-journey-review/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/2025---year-in-review.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/2025---year-in-review.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">My 2025 indie dev journey review</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it’s Takuya.
+
+Happy new year! It’s already mid-January, but I want to look back at my activities in 2025. If I had to sum up last year in one word, it was the year I got the full "unlucky year (Yakudoshi / 厄年)" experience.
+In</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-01-14">14 Jan 2026</time>
                 <!--
          --></footer>
         </div>
@@ -586,35 +615,6 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-06-20">20 Jun 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I did for upgrading React Native to 0.79.1 from 0.74.2]]></title>
-        <id>https://www.devas.life/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/</id>
-        <link href="https://www.devas.life/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/04/2025-04-22-React-Native-0.79_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/04/2025-04-22-React-Native-0.79_2.jpg" alt="What I did for upgrading React Native to 0.79.1 from 0.74.2" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">What I did for upgrading React Native to 0.79.1 from 0.74.2</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya here, the developer of Inkdrop – a Markdown note-taking app that supports syncing and offline-first capabilities, built with React Native.
-
-Bumping up the React Native versions has always been hard, and this time wasn't an exception, especially because it involved migrating from</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-04-23">23 Apr 2025</time>
                 <!--
          --></footer>
         </div>
