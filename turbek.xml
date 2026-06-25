@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-06-24T10:07:30.708Z</updated>
+    <updated>2026-06-25T10:06:16.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Mechanical Wonderland -The Clark Collection of Mechanical Movements]]></title>
+        <id>https://turbek.com/blog/2026/06/24/mechanical_wonderland/</id>
+        <link href="https://turbek.com/blog/2026/06/24/mechanical_wonderland/"/>
+        <updated>2026-06-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Research into the charming history of an 1920s exhibit on American invention]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Playdate with Greg Maletic and Neven Mrgan from Panic Software]]></title>
         <id>https://turbek.com/blog/2026/06/09/playdate/</id>
