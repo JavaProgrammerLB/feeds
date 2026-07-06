@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-05T09:51:45.767Z</updated>
+    <updated>2026-07-06T10:35:53.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[读《置身钉内》后的一些感受 (limboy blog)]]></title>
@@ -1997,6 +1997,36 @@
         <content type="html"><![CDATA[<time datetime="2025-12-22T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2025-12-22 </time> <div> <a href="/posts/2025/take-care" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 珍重 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/感悟" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">感悟</a> </div> </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/inkdrop-roadmap-vol-6-completed/</id>
+        <link href="https://www.devas.life/inkdrop-roadmap-vol-6-completed/"/>
+        <updated>2026-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-roadmap-vol-6-completed/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/07/thumb.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/07/thumb.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/07/thumb.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/07/thumb.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/07/thumb.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/07/thumb.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/07/thumb.png" alt="Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Inkdrop</p>
+            <h3 class="gh-card-title is-title">Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release</h3>
+                    <p class="gh-card-excerpt is-body">Hi folks, it's Takuya here, the solo developer of Inkdrop.
+
+I'd like to report a status update on the Inkdrop project here. About a year and a half ago, I published the roadmap of Inkdrop vol.6. And I'm happy to announce that every</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-07-06">06 Jul 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I made a Claude Code session manager for tmux (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/</id>
         <link href="https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/"/>
@@ -2008,7 +2038,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/06/26-06-14-tmux-claude-session-manager.jpg" alt="I made a Claude Code session manager for tmux">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/06/26-06-14-tmux-claude-session-manager.jpg" alt="I made a Claude Code session manager for tmux">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -2182,34 +2212,6 @@ The above keyboard is Keychron Q1, which I've been using for</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Note-driven agentic coding workflow using Claude Code and Inkdrop (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/</id>
-        <link href="https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/"/>
-        <updated>2026-01-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/Note-driven-agentic-coding.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/Note-driven-agentic-coding.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">Note-driven agentic coding workflow using Claude Code and Inkdrop</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya. I came up with another AI coding workflow that is note-driven, using Claude Code and Inkdrop. When I was using Claude Code's plan mode, I found the generated plans hard to read on the terminal because the CLI</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-01-29">29 Jan 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2258,6 +2260,33 @@ The above keyboard is Keychron Q1, which I've been using for</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Note-driven agentic coding workflow using Claude Code and Inkdrop (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/</id>
+        <link href="https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/"/>
+        <updated>2026-01-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/01/Note-driven-agentic-coding.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/01/Note-driven-agentic-coding.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Note-driven agentic coding workflow using Claude Code and Inkdrop</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya. I came up with another AI coding workflow that is note-driven, using Claude Code and Inkdrop. When I was using Claude Code's plan mode, I found the generated plans hard to read on the terminal because the CLI</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-01-29">29 Jan 2026</time>
                 <!--
          --></footer>
         </div>
@@ -2579,33 +2608,6 @@ Code signing certificate for indie developersA walkthrough from buying a Certum�
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-07-11">11 Jul 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to automate development journaling with Claude Code (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-to-automate-development-journaling-with-claude-code/</id>
-        <link href="https://www.devas.life/how-to-automate-development-journaling-with-claude-code/"/>
-        <updated>2025-06-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-development-journaling-with-claude-code/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/06/2025-06-20-Building-a-RAG-system-for-my-Inkdrop-notes_2.png" alt="How to automate development journaling with Claude Code" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How to automate development journaling with Claude Code</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? This is Takuya. I recently started using Claude Code to write code. It works great with my tmux and neovim setup since it can run as a CLI tool. It dramatically improved my productivity, but I tend to get lost in what I was working</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-06-20">20 Jun 2025</time>
                 <!--
          --></footer>
         </div>
