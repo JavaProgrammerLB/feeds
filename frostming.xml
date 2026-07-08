@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostming.com/</id>
     <title>Frost Ming — Blog</title>
-    <updated>2026-07-07T10:12:12.407Z</updated>
+    <updated>2026-07-08T09:50:36.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://frostming.com/avatar.png</icon>
+    <entry>
+        <title type="html"><![CDATA[楞次定律]]></title>
+        <id>https://frostming.com/posts/2026/changes</id>
+        <link href="https://frostming.com/posts/2026/changes"/>
+        <updated>2026-07-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-07-08T00:00:00.000Z"> Jul 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/随笔" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">随笔</a> </div>  </div> <a href="/posts/2026/changes" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 楞次定律 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们为什么要重写 bub?]]></title>
         <id>https://frostming.com/posts/2026/why-rewrite-bub</id>
         <link href="https://frostming.com/posts/2026/why-rewrite-bub"/>
         <updated>2026-04-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2026-04-07T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2026-04-07 </time> <div> <a href="/posts/2026/why-rewrite-bub" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 我们为什么要重写 bub? </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/AI" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">AI</a><a href="/tags/python" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">python</a> </div> </div>]]></content>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-04-07T00:00:00.000Z"> Apr 7, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/AI" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">AI</a><a href="/tags/Python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">Python</a> </div>  </div> <a href="/posts/2026/why-rewrite-bub" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 我们为什么要重写 bub? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[创造一只龙虾，需要些什么?]]></title>
         <id>https://frostming.com/posts/2026/create-a-claw</id>
         <link href="https://frostming.com/posts/2026/create-a-claw"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2026-02-12T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2026-02-12 </time> <div> <a href="/posts/2026/create-a-claw" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 创造一只龙虾，需要些什么? </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/AI" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">AI</a> </div> </div>]]></content>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-12T00:00:00.000Z"> Feb 12, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/AI" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">AI</a> </div>  </div> <a href="/posts/2026/create-a-claw" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 创造一只龙虾，需要些什么? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[读《昂贵的和平》后感]]></title>
         <id>https://frostming.com/posts/2026/expensive-harmony</id>
         <link href="https://frostming.com/posts/2026/expensive-harmony"/>
         <updated>2026-02-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2026-02-08T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2026-02-08 </time> <div> <a href="/posts/2026/expensive-harmony" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/历史" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">历史</a><a href="/tags/阅读" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">阅读</a> </div> </div>]]></content>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 的号与外]]></title>
         <id>https://frostming.com/posts/2026/2025-recap</id>
         <link href="https://frostming.com/posts/2026/2025-recap"/>
         <updated>2026-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2026-01-07T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2026-01-07 </time> <div> <a href="/posts/2026/2025-recap" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 2025 的号与外 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/总结" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">总结</a> </div> </div>]]></content>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-01-07T00:00:00.000Z"> Jan 7, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/总结" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">总结</a> </div>  </div> <a href="/posts/2026/2025-recap" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 2025 的号与外 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[友好的 Python：从其他语言移植]]></title>
         <id>https://frostming.com/posts/2025/friendly-python-port</id>
         <link href="https://frostming.com/posts/2025/friendly-python-port"/>
         <updated>2025-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2025-12-30T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2025-12-30 </time> <div> <a href="/posts/2025/friendly-python-port" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 友好的 Python：从其他语言移植 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/friendly python" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">friendly python</a><a href="/tags/Python" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">Python</a> </div> </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍重]]></title>
-        <id>https://frostming.com/posts/2025/take-care</id>
-        <link href="https://frostming.com/posts/2025/take-care"/>
-        <updated>2025-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<time datetime="2025-12-22T00:00:00.000Z" class="font-mono text-sm text-neutral-7"> 2025-12-22 </time> <div> <a href="/posts/2025/take-care" class="text-lg font-medium text-neutral-10 transition-colors hover:text-accent"> 珍重 </a> <div class="mt-2 flex flex-wrap gap-2"> <a href="/tags/感悟" class="inline-block rounded-md bg-neutral-2 text-neutral-7 ring-1 ring-border transition-colors hover:bg-neutral-3 hover:text-neutral-9 px-3 py-1 text-xs">感悟</a> </div> </div>]]></content>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2025-12-30T00:00:00.000Z"> Dec 30, '25 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/friendly python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">friendly python</a><a href="/tags/Python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">Python</a> </div>  </div> <a href="/posts/2025/friendly-python-port" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 友好的 Python：从其他语言移植 </a>]]></content>
     </entry>
 </feed>
