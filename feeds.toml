@@ -65,3 +65,12 @@ linkSelector = "a.item-link"
 contentSelector = "div.item-desc p"
 dateSelector = "span.item-date"
 dateFormat = "d MMM yyyy"
+
+[byvoid]
+url = "https://byvoid.com/zhs/blog/archive/"
+title = "Beyond the Void — BYVoid"
+entrySelector = "table tr"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "td:first-child"
+dateFormat = "yyyy-MM-dd"
