@@ -74,3 +74,13 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "td:first-child"
 dateFormat = "yyyy-MM-dd"
+
+[littlecheesecake]
+url = "https://littlecheesecake.me/money.sense/cn/posts/"
+title = "LittleCheeseCake MoneySense"
+entrySelector = "li.post-list-item"
+titleSelector = "h3.post-list-item-title"
+linkSelector = "a.post-list-item-link"
+contentSelector = "p.post-list-item-description"
+dateSelector = "div.post-list-item-meta"
+dateFormat = "MMMM d, yyyy"
