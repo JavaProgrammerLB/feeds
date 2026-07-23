@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yihong0618.me/</id>
     <title>Yihong’s Blog</title>
-    <updated>2026-07-22T09:51:13.989Z</updated>
+    <updated>2026-07-23T09:50:58.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.yihong0618.me/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[八次离职]]></title>
+        <id>https://blog.yihong0618.me/issue-345/</id>
+        <link href="https://blog.yihong0618.me/issue-345/"/>
+        <updated>2026-07-23T09:50:01.899Z</updated>
+        <content type="html"><![CDATA[<header class="post__header"><h1 class="post__title"><a href="https://blog.yihong0618.me/issue-345/">八次离职</a></h1><div class="post__meta"><time datetime="2026-07-23T01:08:10.000Z">2026-07-23</time><span class="post__source"><a href="https://github.com/yihong0618/gitblog/issues/345">read the source issue</a></span></div></header><div class="read-more"><a href="https://blog.yihong0618.me/issue-345/">Read more...</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12 月，姥姥，以及大模型]]></title>
         <id>https://blog.yihong0618.me/issue-344/</id>
@@ -67,12 +74,5 @@
         <link href="https://blog.yihong0618.me/issue-335/"/>
         <updated>2026-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<header class="post__header"><h1 class="post__title"><a href="https://blog.yihong0618.me/issue-335/">Something Boring or Interesting</a></h1><div class="post__meta"><time datetime="2026-01-20T14:53:03.000Z">2026-01-20</time><span class="post__source"><a href="https://github.com/yihong0618/gitblog/issues/335">read the source issue</a></span></div></header><div class="read-more"><a href="https://blog.yihong0618.me/issue-335/">Read more...</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年我提了 500 个 Pull Requests]]></title>
-        <id>https://blog.yihong0618.me/issue-334/</id>
-        <link href="https://blog.yihong0618.me/issue-334/"/>
-        <updated>2025-12-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<header class="post__header"><h1 class="post__title"><a href="https://blog.yihong0618.me/issue-334/">2025 年我提了 500 个 Pull Requests</a></h1><div class="post__meta"><time datetime="2025-12-26T14:33:37.000Z">2025-12-26</time><span class="post__source"><a href="https://github.com/yihong0618/gitblog/issues/334">read the source issue</a></span></div></header><div class="read-more"><a href="https://blog.yihong0618.me/issue-334/">Read more...</a></div>]]></content>
     </entry>
 </feed>
