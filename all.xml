@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-31T09:56:44.323Z</updated>
+    <updated>2026-08-01T09:41:19.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Google’s AI Problem Is Bigger Than You Think (limboy blog)]]></title>
+        <id>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</id>
+        <link href="https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think"/>
+        <updated>2026-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Google’s AI Problem Is Bigger Than You Think </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-08-01 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读《置身钉内》后的一些感受 (limboy blog)]]></title>
         <id>https://limboy.me/posts/pinned-inside-dingtalk</id>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-07-31T09:56:44.293Z</updated>
+    <updated>2026-08-01T09:41:19.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Google’s AI Problem Is Bigger Than You Think]]></title>
+        <id>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</id>
+        <link href="https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think"/>
+        <updated>2026-08-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> Google’s AI Problem Is Bigger Than You Think </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-08-01 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读《置身钉内》后的一些感受]]></title>
         <id>https://limboy.me/posts/pinned-inside-dingtalk</id>
