@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-08-02T09:41:50.471Z</updated>
+    <updated>2026-08-03T10:20:03.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[社交媒体、香烟、科技与个人]]></title>
+        <id>https://limboy.me/posts/social-media-and-cigarettes-technology</id>
+        <link href="https://limboy.me/posts/social-media-and-cigarettes-technology"/>
+        <updated>2026-08-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 社交媒体、香烟、科技与个人 </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-08-02 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google’s AI Problem Is Bigger Than You Think]]></title>
         <id>https://limboy.me/posts/google-ai-problem-is-bigger-than-you-think</id>
