@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-08T09:35:51.811Z</updated>
+    <updated>2026-08-09T09:36:58.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[注意力 (limboy blog)]]></title>
@@ -1825,6 +1825,40 @@
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2025-12-30T00:00:00.000Z"> Dec 30, '25 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/friendly python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">friendly python</a><a href="/tags/Python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">Python</a> </div>  </div> <a href="/posts/2025/friendly-python-port" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 友好的 Python：从其他语言移植 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Conviction: What 1.5 years and one burnout taught me about coding with AI agents (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/conviction-what-1-5-years-and-one-burnout-taught-me-about-coding-with-ai-agents/</id>
+        <link href="https://www.devas.life/conviction-what-1-5-years-and-one-burnout-taught-me-about-coding-with-ai-agents/"/>
+        <updated>2026-08-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/conviction-what-1-5-years-and-one-burnout-taught-me-about-coding-with-ai-agents/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/08/2026-08_conviction.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/08/2026-08_conviction.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/08/2026-08_conviction.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/08/2026-08_conviction.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/08/2026-08_conviction.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/08/2026-08_conviction.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/08/2026-08_conviction.jpg" alt="Conviction: What 1.5 years and one burnout taught me about coding with AI agents">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Life</p>
+            <h3 class="gh-card-title is-title">Conviction: What 1.5 years and one burnout taught me about coding with AI agents</h3>
+                    <p class="gh-card-excerpt is-body">Disclaimer: I used AI to correct my broken English
+
+
+TL;DR
+
+ * What I learned through a 1.5-year journey of developing a new version of my app, including a 3-month burnout.
+ * AI should always be secondary in your life. You can't go back to the past.</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-08-09">09 Aug 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/inkdrop-roadmap-vol-6-completed/</id>
         <link href="https://www.devas.life/inkdrop-roadmap-vol-6-completed/"/>
@@ -1836,7 +1870,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/07/thumb.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/07/thumb.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/07/thumb.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/07/thumb.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/07/thumb.png" alt="Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/07/thumb.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/07/thumb.png" alt="Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Inkdrop</p>
@@ -2005,41 +2039,6 @@ I've been using Claude Code in my terminal workflow. At first, I was running it 
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made my Keychron K2 HE stealthy (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/i-made-my-keychron-k2-he-stealthy/</id>
-        <link href="https://www.devas.life/i-made-my-keychron-k2-he-stealthy/"/>
-        <updated>2026-02-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-my-keychron-k2-he-stealthy/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/DSCF2918.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/DSCF2918.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Review</p>
-            <h3 class="gh-card-title is-title">I made my Keychron K2 HE stealthy</h3>
-                    <p class="gh-card-excerpt is-body">Hey guys, I've got a new keyboard: Keychron K2 HE and customized it with blank black and wooden keycaps. So, I'd like to share how I did it.
-
-Here is a video:
-
-
-Unboxing
-
-The above keyboard is Keychron Q1, which I've been using for</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-02-06">06 Feb 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -2088,6 +2087,40 @@ The above keyboard is Keychron Q1, which I've been using for</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made my Keychron K2 HE stealthy (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/i-made-my-keychron-k2-he-stealthy/</id>
+        <link href="https://www.devas.life/i-made-my-keychron-k2-he-stealthy/"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-my-keychron-k2-he-stealthy/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/DSCF2918.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/DSCF2918.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">I made my Keychron K2 HE stealthy</h3>
+                    <p class="gh-card-excerpt is-body">Hey guys, I've got a new keyboard: Keychron K2 HE and customized it with blank black and wooden keycaps. So, I'd like to share how I did it.
+
+Here is a video:
+
+
+Unboxing
+
+The above keyboard is Keychron Q1, which I've been using for</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-02-06">06 Feb 2026</time>
                 <!--
          --></footer>
         </div>
@@ -2406,36 +2439,6 @@ Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-07-16">16 Jul 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to automate signing your Windows app with Certum's SimplySign app (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/</id>
-        <link href="https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/"/>
-        <updated>2025-07-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-automate-signing-your-windows-app-with-certum/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/07/image-3.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/07/image-3.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/07/image-3.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/07/image-3.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/07/image-3.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/07/image-3.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/07/image-3.png" alt="How to automate signing your Windows app with Certum's SimplySign app" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How to automate signing your Windows app with Certum's SimplySign app</h3>
-                    <p class="gh-card-excerpt is-body">I’ve been running a SaaS for 9 years, which includes an Electron app for Windows.
-For code signing, I’ve been using Certum's Code Signing Certificate:
-
-Code signing certificate for indie developersA walkthrough from buying a Certum’s code signing certificate to sign an app with itTakuya</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-07-11">11 Jul 2025</time>
                 <!--
          --></footer>
         </div>
