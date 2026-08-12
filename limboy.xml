@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://limboy.me/posts</id>
     <title>limboy blog</title>
-    <updated>2026-08-11T09:58:28.424Z</updated>
+    <updated>2026-08-12T10:00:49.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://limboy.me/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[捷径]]></title>
+        <id>https://limboy.me/posts/shortcut</id>
+        <link href="https://limboy.me/posts/shortcut"/>
+        <updated>2026-08-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span class="line-clamp-1"> 捷径 </span> <span class="flex-1 border-b border-dashed border-gray-200"></span> <time class="shrink-0 font-code text-gray-400 text-sm"> 2026-08-12 </time>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[注意力]]></title>
         <id>https://limboy.me/posts/attention</id>
