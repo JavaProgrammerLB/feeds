@@ -45,15 +45,18 @@ dateSelector = "time"
 dateFormat = "dd MMM yyyy"
 
 [idoubi]
-url = "https://idoubi.ai/blog"
+# English /blog currently has no posts; Chinese listing is the live index.
+url = "https://idoubi.ai/zh/blog"
 title = "idoubi.ai — Blog"
-entrySelector = "a[href^='/blog/']"
+entrySelector = "a[href^='/zh/blog/']"
 titleSelector = "h3"
 linkSelector = "*"
-dateSelector = "span.text-muted-foreground.font-mono.text-xs"
-dateFormat = "yyyy/MM/dd"
+contentSelector = "p.line-clamp-3"
+# Date sits in the first inline-flex span inside the card footer (avoid gap-1.5 — invalid CSS).
+dateSelector = "div.mt-auto > span.inline-flex:first-child"
+dateFormat = "yyyy年M月d日"
 waitUntil = "load"
-waitForSelector = "h3"
+waitForSelector = "a[href^='/zh/blog/']"
 
 [turbek]
 url = "https://turbek.com/"
