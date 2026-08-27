@@ -1,176 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://idoubi.ai/blog</id>
+    <id>https://idoubi.ai/zh/blog</id>
     <title>idoubi.ai — Blog</title>
-    <updated>2026-08-27T12:32:33.842Z</updated>
+    <updated>2026-08-27T21:58:24.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://idoubi.ai/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构]]></title>
+        <id>https://idoubi.ai/zh/blog/from-openclaw-to-fastclaw</id>
+        <link href="https://idoubi.ai/zh/blog/from-openclaw-to-fastclaw"/>
+        <updated>2026-06-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://cdn.shipany.ai/imgs/0015ac4d59a5dce02894535416e13ea3.png" alt="从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构" width="640" height="360" loading="lazy" class="aspect-video w-full object-cover object-center"><div class="flex flex-1 flex-col gap-3 p-6"><h3 class="font-medium leading-snug group-hover:underline group-hover:underline-offset-4">从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构</h3><div class="mt-auto flex items-center gap-2 pt-2 text-xs text-muted-foreground"><span class="inline-flex items-center gap-1.5"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar size-3.5" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg>2026年6月22日</span><span class="flex-1"></span><span class="inline-flex items-center gap-2"><img src="/logo.png" alt="idoubi" width="20" height="20" loading="lazy" class="size-5 rounded-full object-cover">idoubi</span></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我的 Vibe Coding 项目]]></title>
-        <id>https://idoubi.ai/blog/my-vibe-coding-projects</id>
-        <link href="https://idoubi.ai/blog/my-vibe-coding-projects"/>
+        <id>https://idoubi.ai/zh/blog/my-vibe-coding-projects</id>
+        <link href="https://idoubi.ai/zh/blog/my-vibe-coding-projects"/>
         <updated>2026-04-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->1</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我的 Vibe Coding 项目</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2026/04/05</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2026/04/05</span></div>]]></content>
+        <content type="html"><![CDATA[记录我最近三个月用 Claude Code Vibe Coding 出的几个有意思的项目。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我 Vibe Coding 一周，做了个桌面 Agent]]></title>
-        <id>https://idoubi.ai/blog/vibe-coding-workany</id>
-        <link href="https://idoubi.ai/blog/vibe-coding-workany"/>
+        <id>https://idoubi.ai/zh/blog/vibe-coding-workany</id>
+        <link href="https://idoubi.ai/zh/blog/vibe-coding-workany"/>
         <updated>2026-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->2</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我 Vibe Coding 一周，做了个桌面 Agent</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2026/01/24</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2026/01/24</span></div>]]></content>
+        <content type="html"><![CDATA[复盘我 Vibe Coding 一周、开发桌面 Agent 项目 WorkAny 的有趣过程。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025，MCP、Agent、AI Coding]]></title>
-        <id>https://idoubi.ai/blog/my-ai-2025</id>
-        <link href="https://idoubi.ai/blog/my-ai-2025"/>
+        <id>https://idoubi.ai/zh/blog/my-ai-2025</id>
+        <link href="https://idoubi.ai/zh/blog/my-ai-2025"/>
         <updated>2026-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->3</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">2025，MCP、Agent、AI Coding</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2026/01/03</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2026/01/03</span></div>]]></content>
+        <content type="html"><![CDATA[我裸辞成为自由职业后写的第三篇年终总结，聚焦 MCP、Agent 与 AI Coding。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的 AI 员工会后空翻]]></title>
-        <id>https://idoubi.ai/blog/ai-agents-cowork</id>
-        <link href="https://idoubi.ai/blog/ai-agents-cowork"/>
+        <id>https://idoubi.ai/zh/blog/ai-agents-cowork</id>
+        <link href="https://idoubi.ai/zh/blog/ai-agents-cowork"/>
         <updated>2025-12-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->4</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我的 AI 员工会后空翻</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/12/31</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/12/31</span></div>]]></content>
+        <content type="html"><![CDATA[记录如何让多个 AI 员工掌握更多技能并互相协作，共同完成复杂工作任务。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我招了 6 个 AI 员工一起干活]]></title>
-        <id>https://idoubi.ai/blog/ai-agents-work-together</id>
-        <link href="https://idoubi.ai/blog/ai-agents-work-together"/>
+        <id>https://idoubi.ai/zh/blog/ai-agents-work-together</id>
+        <link href="https://idoubi.ai/zh/blog/ai-agents-work-together"/>
         <updated>2025-12-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->5</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我招了 6 个 AI 员工一起干活</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/12/29</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/12/29</span></div>]]></content>
+        <content type="html"><![CDATA[记录我用一天时间招聘 6 个 AI 员工、走完入职流程并安排他们一起干活的全过程。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的新书《这就是 MCP》出版了]]></title>
-        <id>https://idoubi.ai/blog/my-mcp-book</id>
-        <link href="https://idoubi.ai/blog/my-mcp-book"/>
+        <id>https://idoubi.ai/zh/blog/my-mcp-book</id>
+        <link href="https://idoubi.ai/zh/blog/my-mcp-book"/>
         <updated>2025-07-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->6</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我的新书《这就是 MCP》出版了</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/07/17</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/07/17</span></div>]]></content>
+        <content type="html"><![CDATA[分享我的新书《这就是 MCP》出版并登上京东新书热卖榜日榜第一的喜讯。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI 时代如何做独立开发]]></title>
-        <id>https://idoubi.ai/blog/ai-solo-dev</id>
-        <link href="https://idoubi.ai/blog/ai-solo-dev"/>
+        <id>https://idoubi.ai/zh/blog/ai-solo-dev</id>
+        <link href="https://idoubi.ai/zh/blog/ai-solo-dev"/>
         <updated>2025-07-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->7</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">AI 时代如何做独立开发</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/07/03</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/07/03</span></div>]]></content>
+        <content type="html"><![CDATA[整理我在 AICon 大会上《AI 时代如何做独立开发》的分享内容。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MCP is all you need]]></title>
-        <id>https://idoubi.ai/blog/mcp-is-all-you-need</id>
-        <link href="https://idoubi.ai/blog/mcp-is-all-you-need"/>
+        <id>https://idoubi.ai/zh/blog/mcp-is-all-you-need</id>
+        <link href="https://idoubi.ai/zh/blog/mcp-is-all-you-need"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->8</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">MCP is all you need</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/06/16</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/06/16</span></div>]]></content>
+        <content type="html"><![CDATA[整理我在 GTLC 大会上《MCP 的发展与未来》的分享内容。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[详解 MCP 核心架构]]></title>
-        <id>https://idoubi.ai/blog/mcp-architecture</id>
-        <link href="https://idoubi.ai/blog/mcp-architecture"/>
+        <id>https://idoubi.ai/zh/blog/mcp-architecture</id>
+        <link href="https://idoubi.ai/zh/blog/mcp-architecture"/>
         <updated>2025-04-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->9</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">详解 MCP 核心架构</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/04/13</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/04/13</span></div>]]></content>
+        <content type="html"><![CDATA[详解 MCP 协议的主机—客户端—服务器核心架构。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[详解 MCP 连接生命周期]]></title>
-        <id>https://idoubi.ai/blog/mcp-lifecycle</id>
-        <link href="https://idoubi.ai/blog/mcp-lifecycle"/>
+        <id>https://idoubi.ai/zh/blog/mcp-lifecycle</id>
+        <link href="https://idoubi.ai/zh/blog/mcp-lifecycle"/>
         <updated>2025-04-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->10</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">详解 MCP 连接生命周期</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/04/12</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/04/12</span></div>]]></content>
+        <content type="html"><![CDATA[详解 MCP 协议中客户端与服务器连接的初始化、操作与关闭三个生命周期阶段。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[详解 MCP 传输机制]]></title>
-        <id>https://idoubi.ai/blog/mcp-transport</id>
-        <link href="https://idoubi.ai/blog/mcp-transport"/>
+        <id>https://idoubi.ai/zh/blog/mcp-transport</id>
+        <link href="https://idoubi.ai/zh/blog/mcp-transport"/>
         <updated>2025-04-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->11</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">详解 MCP 传输机制</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/04/11</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/04/11</span></div>]]></content>
+        <content type="html"><![CDATA[详解 MCP 客户端与服务器之间通信的传输机制及其消息编码方式。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024，我追过的 AI 风口]]></title>
-        <id>https://idoubi.ai/blog/my-ai-2024</id>
-        <link href="https://idoubi.ai/blog/my-ai-2024"/>
+        <id>https://idoubi.ai/zh/blog/my-ai-2024</id>
+        <link href="https://idoubi.ai/zh/blog/my-ai-2024"/>
         <updated>2025-01-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->12</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">2024，我追过的 AI 风口</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2025/01/01</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2025/01/01</span></div>]]></content>
+        <content type="html"><![CDATA[回顾我在 2024 年做过的众多项目和追过的 AI 风口。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我用 AI 辅助编程，效率提升 x 倍]]></title>
-        <id>https://idoubi.ai/blog/use-ai-coding-copilot</id>
-        <link href="https://idoubi.ai/blog/use-ai-coding-copilot"/>
+        <id>https://idoubi.ai/zh/blog/use-ai-coding-copilot</id>
+        <link href="https://idoubi.ai/zh/blog/use-ai-coding-copilot"/>
         <updated>2024-12-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->13</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我用 AI 辅助编程，效率提升 x 倍</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/12/16</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/12/16</span></div>]]></content>
+        <content type="html"><![CDATA[分享我用 AI 辅助编程、大幅提升开发效率的实践经验。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我跑通了全球收付款的流程]]></title>
-        <id>https://idoubi.ai/blog/get-paied-all-over-the-world</id>
-        <link href="https://idoubi.ai/blog/get-paied-all-over-the-world"/>
+        <id>https://idoubi.ai/zh/blog/get-paied-all-over-the-world</id>
+        <link href="https://idoubi.ai/zh/blog/get-paied-all-over-the-world"/>
         <updated>2024-11-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->14</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我跑通了全球收付款的流程</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/11/09</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/11/09</span></div>]]></content>
+        <content type="html"><![CDATA[分享我做出海 SaaS 产品一年来，跑通全球收付款流程的经验。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我把网站迁移到 cf，省了几万块]]></title>
-        <id>https://idoubi.ai/blog/migrate-to-cloudflare</id>
-        <link href="https://idoubi.ai/blog/migrate-to-cloudflare"/>
+        <id>https://idoubi.ai/zh/blog/migrate-to-cloudflare</id>
+        <link href="https://idoubi.ai/zh/blog/migrate-to-cloudflare"/>
         <updated>2024-08-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->15</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我把网站迁移到 cf，省了几万块</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/08/12</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/08/12</span></div>]]></content>
+        <content type="html"><![CDATA[分享我把网站从 Vercel 迁移到 Cloudflare、每月节省几万块账单的经历。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个 AI 搜索引擎]]></title>
-        <id>https://idoubi.ai/blog/ai-search-engine</id>
-        <link href="https://idoubi.ai/blog/ai-search-engine"/>
+        <id>https://idoubi.ai/zh/blog/ai-search-engine</id>
+        <link href="https://idoubi.ai/zh/blog/ai-search-engine"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->16</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我做了一个 AI 搜索引擎</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/05/22</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/05/22</span></div>]]></content>
+        <content type="html"><![CDATA[复盘我做的 AI 搜索引擎 ThinkAny 三个月内成长为月访问量 60 万全球化产品的历程。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我开源了一个 Sora AI 视频生成器模板，却被人拿去割韭菜]]></title>
-        <id>https://idoubi.ai/blog/sora-ai-video-generator</id>
-        <link href="https://idoubi.ai/blog/sora-ai-video-generator"/>
+        <id>https://idoubi.ai/zh/blog/sora-ai-video-generator</id>
+        <link href="https://idoubi.ai/zh/blog/sora-ai-video-generator"/>
         <updated>2024-02-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->17</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我开源了一个 Sora AI 视频生成器模板，却被人拿去割韭菜</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/02/23</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/02/23</span></div>]]></content>
+        <content type="html"><![CDATA[讲述我开源 Sora AI 视频生成器模板后被人拿去割韭菜的故事。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我写了一个 AI 红包封面生成器]]></title>
-        <id>https://idoubi.ai/blog/ai-cover-generator</id>
-        <link href="https://idoubi.ai/blog/ai-cover-generator"/>
+        <id>https://idoubi.ai/zh/blog/ai-cover-generator</id>
+        <link href="https://idoubi.ai/zh/blog/ai-cover-generator"/>
         <updated>2024-01-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->18</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我写了一个 AI 红包封面生成器</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/01/30</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/01/30</span></div>]]></content>
+        <content type="html"><![CDATA[分享我从零到一开发一个 AI 红包封面生成器的过程与思考。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024，我想开一门 AI 应用全栈开发课]]></title>
-        <id>https://idoubi.ai/blog/my-ai-course-in-2024</id>
-        <link href="https://idoubi.ai/blog/my-ai-course-in-2024"/>
+        <id>https://idoubi.ai/zh/blog/my-ai-course-in-2024</id>
+        <link href="https://idoubi.ai/zh/blog/my-ai-course-in-2024"/>
         <updated>2024-01-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->19</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">2024，我想开一门 AI 应用全栈开发课</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/01/09</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/01/09</span></div>]]></content>
+        <content type="html"><![CDATA[分享我尝试知识付费、计划开设一门 AI 应用全栈开发课程的想法。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023，我做过的 AI 项目]]></title>
-        <id>https://idoubi.ai/blog/my-ai-projects-in-2023</id>
-        <link href="https://idoubi.ai/blog/my-ai-projects-in-2023"/>
+        <id>https://idoubi.ai/zh/blog/my-ai-projects-in-2023</id>
+        <link href="https://idoubi.ai/zh/blog/my-ai-projects-in-2023"/>
         <updated>2024-01-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->20</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">2023，我做过的 AI 项目</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2024/01/04</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2024/01/04</span></div>]]></content>
+        <content type="html"><![CDATA[总结我在 2023 这一 AI 大爆发之年做过的几个 AI 项目与经验。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我写了一款 AI-Native 产品]]></title>
-        <id>https://idoubi.ai/blog/an-ai-native-product</id>
-        <link href="https://idoubi.ai/blog/an-ai-native-product"/>
+        <id>https://idoubi.ai/zh/blog/an-ai-native-product</id>
+        <link href="https://idoubi.ai/zh/blog/an-ai-native-product"/>
         <updated>2023-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->21</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">我写了一款 AI-Native 产品</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/12/20</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/12/20</span></div>]]></content>
+        <content type="html"><![CDATA[介绍知了 zKnown：一款以 AI-Native 方式构建、专注信息降噪与阅读提效的个人知识助手。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1024，我从腾讯裸辞了]]></title>
-        <id>https://idoubi.ai/blog/I-quit-from-tencent</id>
-        <link href="https://idoubi.ai/blog/I-quit-from-tencent"/>
+        <id>https://idoubi.ai/zh/blog/I-quit-from-tencent</id>
+        <link href="https://idoubi.ai/zh/blog/I-quit-from-tencent"/>
         <updated>2023-11-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->22</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">1024，我从腾讯裸辞了</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/24</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/24</span></div>]]></content>
+        <content type="html"><![CDATA[讲述我从腾讯裸辞、开始自由职业一个月以来的经历与心路。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[出海第一周，我的 GPTs 导航站🔥了]]></title>
-        <id>https://idoubi.ai/blog/my-gpts-works-project</id>
-        <link href="https://idoubi.ai/blog/my-gpts-works-project"/>
+        <id>https://idoubi.ai/zh/blog/my-gpts-works-project</id>
+        <link href="https://idoubi.ai/zh/blog/my-gpts-works-project"/>
         <updated>2023-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->23</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">出海第一周，我的 GPTs 导航站🔥了</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/19</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/19</span></div>]]></content>
+        <content type="html"><![CDATA[记录我做 GPTs 导航站出海第一周就爆火的经历。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[创建一个可调用第三方 API 的 gpts 应用]]></title>
-        <id>https://idoubi.ai/blog/how-to-create-gpts</id>
-        <link href="https://idoubi.ai/blog/how-to-create-gpts"/>
+        <id>https://idoubi.ai/zh/blog/how-to-create-gpts</id>
+        <link href="https://idoubi.ai/zh/blog/how-to-create-gpts"/>
         <updated>2023-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center gap-4"><span class="text-muted-foreground group-hover:text-primary font-mono text-sm opacity-50 transition-colors">0<!-- -->24</span><div><h3 class="text-foreground group-hover:text-primary text-base transition-colors">创建一个可调用第三方 API 的 gpts 应用</h3><p class="text-muted-foreground mt-1 text-xs md:hidden">2023/11/10</p></div></div><div class="hidden items-center gap-6 md:flex"><span class="text-muted-foreground group-hover:text-foreground font-mono text-xs transition-colors">2023/11/10</span></div>]]></content>
+        <content type="html"><![CDATA[介绍 gpts，并演示如何创建一个能通过 Actions 调用第三方 API 的 gpts 应用。]]></content>
     </entry>
 </feed>
