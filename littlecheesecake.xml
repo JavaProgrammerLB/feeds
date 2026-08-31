@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://littlecheesecake.me/money.sense/cn/posts/</id>
     <title>LittleCheeseCake MoneySense</title>
-    <updated>2026-08-30T09:10:08.511Z</updated>
+    <updated>2026-08-31T09:15:27.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://littlecheesecake.me/money.sense/images/favicon.ico</icon>
     <entry>
@@ -53,7 +53,7 @@
         <id>https://littlecheesecake.me/money.sense/cn/posts/singapore-personal-income-tax-calculator-family/</id>
         <link href="https://littlecheesecake.me/money.sense/cn/posts/singapore-personal-income-tax-calculator-family/"/>
         <updated>2025-05-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[新加坡的个税制度还算精简，如果是双薪收入，合理规划可以省不少税。我一直用一个简易的Google Sheet来计算家庭所得税，每次算出来和实际缴税金额基本一致。分享一下Tips]]></content>
+        <content type="html"><![CDATA[新加坡的个税制度还算精简，如果是双薪收入，合理规划可以省不少税。这些年我一直用一个 Google Sheet 来计算家庭所得税，本页的计算器做的是同一件事，思路分享如下。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新加坡府医院看诊补贴怎么算]]></title>
