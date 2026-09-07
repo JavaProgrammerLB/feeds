@@ -2,9 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-09-06T12:36:51.276Z</updated>
+    <updated>2026-09-07T14:46:24.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How I designed my SaaS landing page with AI tools]]></title>
+        <id>https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools/</id>
+        <link href="https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools/"/>
+        <updated>2026-09-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-designed-my-saas-landing-page-with-ai-tools/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/09/Screenshot-2026-09-07-at-17.43.12.png" alt="How I designed my SaaS landing page with AI tools">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">How I designed my SaaS landing page with AI tools</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya here. Recently, I rebuilt the landing page for Inkdrop, which has a demo app built with the real components. It self-plays an editing session when you visit, and at the same time, you can actually edit notes in it.
+
+I</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-09-07">07 Sep 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Conviction: What 1.5 years and one burnout taught me about coding with AI agents]]></title>
         <id>https://www.devas.life/conviction-what-1-5-years-and-one-burnout-taught-me-about-coding-with-ai-agents/</id>
@@ -17,7 +47,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/08/2026-08_conviction.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/08/2026-08_conviction.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/08/2026-08_conviction.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/08/2026-08_conviction.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/08/2026-08_conviction.jpg" alt="Conviction: What 1.5 years and one burnout taught me about coding with AI agents">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/08/2026-08_conviction.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/08/2026-08_conviction.jpg" alt="Conviction: What 1.5 years and one burnout taught me about coding with AI agents">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Life</p>
@@ -190,36 +220,6 @@ I imagine many of my</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to run Claude Code in a Tmux popup window with persistent sessions]]></title>
-        <id>https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/</id>
-        <link href="https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/"/>
-        <updated>2026-02-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/maxresdefault.jpeg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/maxresdefault.jpeg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">How to run Claude Code in a Tmux popup window with persistent sessions</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
-
-I've been using Claude Code in my terminal workflow. At first, I was running it at the right side of my terminal using tmux, but I found it not useful because it was too narrow to display messages and</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-02-20">20 Feb 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -268,6 +268,35 @@ I've been using Claude Code in my terminal workflow. At first, I was running it 
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to run Claude Code in a Tmux popup window with persistent sessions]]></title>
+        <id>https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/</id>
+        <link href="https://www.devas.life/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/"/>
+        <updated>2026-02-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-to-run-claude-code-in-a-tmux-popup-window-with-persistent-sessions/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/02/maxresdefault.jpeg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/02/maxresdefault.jpeg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">How to run Claude Code in a Tmux popup window with persistent sessions</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
+
+I've been using Claude Code in my terminal workflow. At first, I was running it at the right side of my terminal using tmux, but I found it not useful because it was too narrow to display messages and</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-02-20">20 Feb 2026</time>
                 <!--
          --></footer>
         </div>
@@ -593,33 +622,6 @@ Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-08-01">01 Aug 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic coding made programming fun again]]></title>
-        <id>https://www.devas.life/agentic-coding-made-programming-fun-again/</id>
-        <link href="https://www.devas.life/agentic-coding-made-programming-fun-again/"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/agentic-coding-made-programming-fun-again/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/07/2025-07-16-Programming-is-fun-again_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/07/2025-07-16-Programming-is-fun-again_2.jpg" alt="Agentic coding made programming fun again" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Agentic coding made programming fun again</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I have a 9-year-old SaaS with multi-platform desktop and mobile apps called Inkdrop, a plain-text Markdown note-taking app. Recently, I started using Claude Code in my project. My first attempt was a failure, though I eventually got used to it</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-07-16">16 Jul 2025</time>
                 <!--
          --></footer>
         </div>
