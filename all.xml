@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-07T14:46:24.287Z</updated>
+    <updated>2026-09-08T03:51:59.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[捷径 (limboy blog)]]></title>
@@ -1718,6 +1718,76 @@
         <link href="https://limboy.me/posts/make-github-as-blog-engine"/>
         <updated>2010-08-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<span class="line-clamp-1">使用 github 作为博客引擎</span><span class="flex-1 border-b border-dashed border-gray-200"></span><time class="shrink-0 font-code text-gray-400 text-sm">2010-08-25</time>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新生代 VS 老欧洲 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-347/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-347/"/>
+        <updated>2026-08-27T23:22:24.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-347/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-1">新生代 VS 老欧洲</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-08-27T23:22:24.000Z">27 Aug, 2026</time></div><p>新生代 VS 老欧洲</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来，喝一杯 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-346/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-346/"/>
+        <updated>2026-08-20T16:38:13.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-346/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-2">来，喝一杯</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-08-20T16:38:13.000Z">20 Aug, 2026</time></div><p>来，喝一杯</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八次离职 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-345/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-345/"/>
+        <updated>2026-08-20T14:43:54.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-345/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-3">八次离职</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-08-20T14:43:54.000Z">20 Aug, 2026</time></div><p>八次离职</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 年过去了，你过得还好么？ (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-341/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-341/"/>
+        <updated>2026-07-30T05:50:12.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-341/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-4">12 年过去了，你过得还好么？</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-07-30T05:50:12.000Z">30 Jul, 2026</time></div><p>12 年过去了，你过得还好么？</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[力扣的程序是如何运行的 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-205/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-205/"/>
+        <updated>2026-07-13T20:17:49.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-205/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-5">力扣的程序是如何运行的</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-07-13T20:17:49.000Z">13 Jul, 2026</time></div><p>力扣的程序是如何运行的</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用 root 使用小爱同学和 ChatGPT 交互折腾记 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-258/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-258/"/>
+        <updated>2026-07-12T23:43:10.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-258/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-6">不用 root 使用小爱同学和 ChatGPT 交互折腾记</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-07-12T23:43:10.000Z">12 Jul, 2026</time></div><p>不用 root 使用小爱同学和 ChatGPT 交互折腾记</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 月，姥姥，以及大模型 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-344/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-344/"/>
+        <updated>2026-07-08T12:02:34.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-344/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-7">12 月，姥姥，以及大模型</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-07-08T12:02:34.000Z">8 Jul, 2026</time></div><p>12 月，姥姥，以及大模型</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何判断一个数字帐号来自中国大陆 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-248/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-248/"/>
+        <updated>2026-07-01T08:25:21.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-248/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-8">如何判断一个数字帐号来自中国大陆</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-07-01T08:25:21.000Z">1 Jul, 2026</time></div><p>如何判断一个数字帐号来自中国大陆</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些幸福的瞬间 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-342/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-342/"/>
+        <updated>2026-05-30T02:09:57.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-342/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-9">那些幸福的瞬间</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-05-30T02:09:57.000Z">30 May, 2026</time></div><p>那些幸福的瞬间</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[友情链接 (Yihong’s Blog)]]></title>
+        <id>https://blog.yihong0618.me/posts/issue-217/</id>
+        <link href="https://blog.yihong0618.me/posts/issue-217/"/>
+        <updated>2026-05-29T05:57:31.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-217/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-10">友情链接</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-05-29T05:57:31.000Z">29 May, 2026</time></div><p>友情链接</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[楞次定律 (Frost Ming — Blog)]]></title>
