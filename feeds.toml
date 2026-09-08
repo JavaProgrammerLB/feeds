@@ -11,13 +11,16 @@ dateSelector = "time"
 dateFormat = "yyyy-MM-dd"
 
 [yihong]
+# Site redesigned: homepage now lists Recent Posts as <li> cards (old article.post gone).
 url = "https://blog.yihong0618.me/"
 title = "Yihong’s Blog"
-entrySelector = "article.post"
-titleSelector = "h1.post__title a"
-linkSelector = "h1.post__title a"
-dateSelector = "span.post__time"
-dateFormat = "yyyy-MM-dd"
+entrySelector = "#recent-posts li"
+titleSelector = "h3"
+linkSelector = "a[href*='/posts/']"
+dateSelector = "time"
+dateFormat = "d MMM, yyyy"
+waitUntil = "load"
+waitForSelector = "#recent-posts li"
 
 [frostming]
 url = "https://frostming.com/"
