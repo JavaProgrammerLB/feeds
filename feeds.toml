@@ -90,3 +90,15 @@ linkSelector = "a.post-list-item-link"
 contentSelector = "p.post-list-item-description"
 dateSelector = "div.post-list-item-meta"
 dateFormat = "MMMM d, yyyy"
+
+[yadongxie]
+url = "https://www.yadongxie.com/writing"
+title = "Yadong Xie — Writing"
+# Writing list is a plain <ul><li>; title/link/date selectors are relative to each <li>.
+entrySelector = "main ul li"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "p"
+dateFormat = "MMM d, yyyy"
+waitUntil = "load"
+waitForSelector = "main ul li"
