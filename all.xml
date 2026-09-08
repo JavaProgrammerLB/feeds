@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-08T03:51:59.460Z</updated>
+    <updated>2026-09-08T06:07:33.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[捷径 (limboy blog)]]></title>
@@ -9463,5 +9463,61 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <link href="https://littlecheesecake.me/money.sense/cn/posts/property-budgeting-buy-strategy/"/>
         <updated>2025-01-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="https://littlecheesecake.me/money.sense/cn/posts/property-budgeting-buy-strategy/" class="post-list-item-link"><div class="post-list-item-overlay"></div><div class="post-list-item-content"><h3 class="post-list-item-title">换房预算和购买方式</h3><div class="post-list-item-meta">January 30, 2025</div><div class="post-list-item-tags"><span class="post-tag">金钱故事</span></div></div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Login (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login</id>
+        <link href="https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login"/>
+        <updated>2026-08-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/your-beta-product-may-have-leaked-before-login">Your Beta Product May Have Leaked Before Login</a><p class="mt-0.5 text-xs sm:text-sm">Aug 23, 2026</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-Engineering flipbook.page Into a Spec (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/reverse-engineering-flipbook-into-a-spec</id>
+        <link href="https://www.yadongxie.com/blog/reverse-engineering-flipbook-into-a-spec"/>
+        <updated>2026-04-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/reverse-engineering-flipbook-into-a-spec">Reverse-Engineering flipbook.page Into a Spec</a><p class="mt-0.5 text-xs sm:text-sm">Apr 26, 2026</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thriving in the AI Age: Reinventing Web Development Value (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/thriving-in-the-ai-age-reinventing-web-development-value</id>
+        <link href="https://www.yadongxie.com/blog/thriving-in-the-ai-age-reinventing-web-development-value"/>
+        <updated>2026-09-08T06:07:33.162Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/thriving-in-the-ai-age-reinventing-web-development-value">Thriving in the AI Age: Reinventing Web Development Value</a><p class="mt-0.5 text-xs sm:text-sm">@D2 2025<!-- --> · <!-- -->中文<!-- --> · <a class="font-bold transition-colors" href="thriving-in-the-ai-age-reinventing-front-end-development-value.pdf">slides</a> · <!-- -->Mar 9, 2025</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Applications with client-side and server-side AI (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/building-applications-with-client-side-and-server-side-ai</id>
+        <link href="https://www.yadongxie.com/blog/building-applications-with-client-side-and-server-side-ai"/>
+        <updated>2026-09-08T06:07:33.163Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/building-applications-with-client-side-and-server-side-ai">Building Applications with client-side and server-side AI</a><p class="mt-0.5 text-xs sm:text-sm">@FEDAY 2024<!-- --> · <!-- -->中文<!-- --> · <a class="font-bold transition-colors" href="build-ai-application-with-client-and-server-side-ai.pdf">slides</a> · <!-- -->Dec 7, 2024</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Chrome Extension with LLM (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/build-chrome-extension-with-llm.pdf</id>
+        <link href="https://www.yadongxie.com/build-chrome-extension-with-llm.pdf"/>
+        <updated>2026-09-08T06:07:33.165Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="build-chrome-extension-with-llm.pdf">Build Chrome Extension with LLM</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2024 I/O Extended Hangzhou<!-- --> · <!-- -->中文<!-- --> · <!-- -->Jun 1, 2024</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Details for Enhancing Cloud Computing User Experience (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/10-essential-details-for-enhancing-cloud-computing-user-experience</id>
+        <link href="https://www.yadongxie.com/blog/10-essential-details-for-enhancing-cloud-computing-user-experience"/>
+        <updated>2023-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/10-essential-details-for-enhancing-cloud-computing-user-experience">10 Essential Details for Enhancing Cloud Computing User Experience</a><p class="mt-0.5 text-xs sm:text-sm">Dec 19, 2023</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From GUI to NUI (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/from-gui-to-nui.pdf</id>
+        <link href="https://www.yadongxie.com/from-gui-to-nui.pdf"/>
+        <updated>2026-09-08T06:07:33.168Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/from-gui-to-nui.pdf">From GUI to NUI</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2023 I/O Extended Beijing<!-- --> · <!-- -->中文<!-- --> · <!-- -->Jan 11, 2023</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TC39 based Dependency Injection (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/frontend-dependency-injection-for-tc39-standards.pdf</id>
+        <link href="https://www.yadongxie.com/frontend-dependency-injection-for-tc39-standards.pdf"/>
+        <updated>2026-09-08T06:07:33.170Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="frontend-dependency-injection-for-tc39-standards.pdf">TC39 based Dependency Injection</a><p class="mt-0.5 text-xs sm:text-sm">@Google DevFest 2022 Hangzhou<!-- --> · <!-- -->中文<!-- --> · <!-- -->Aug 3, 2022</p>]]></content>
     </entry>
 </feed>
