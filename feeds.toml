@@ -95,6 +95,8 @@ dateFormat = "MMMM d, yyyy"
 url = "https://www.yadongxie.com/writing"
 title = "Yadong Xie — Writing"
 # Writing list is a plain <ul><li>; title/link/date selectors are relative to each <li>.
+# Talk rows put metadata before the date in the same <p>; CI runs
+# scripts/fix-yadongxie-dates.mjs after generation to recover those dates.
 entrySelector = "main ul li"
 titleSelector = "a"
 linkSelector = "a"

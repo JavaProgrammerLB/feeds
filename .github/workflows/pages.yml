@@ -33,6 +33,9 @@ jobs:
         # it will not preserve previously-published entry dates (so edited post dates can be reflected).
         CI_PAGES_URL: "https://example.invalid/"
     - run: npx feed-me-up-scotty || npx feed-me-up-scotty || npx feed-me-up-scotty
+    # Talk rows on yadongxie's writing list mix metadata into the date <p>, so
+    # feed-me-up-scotty falls back to "now". Re-extract MMM d, yyyy from content.
+    - run: node scripts/fix-yadongxie-dates.mjs
     - name: Deploy to GitHub Pages
       run: |
         git config user.name $GITHUB_ACTOR
