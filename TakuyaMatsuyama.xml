@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-09-10T13:19:42.800Z</updated>
+    <updated>2026-09-11T13:13:49.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
     <entry>
@@ -285,7 +285,7 @@ I imagine many of my</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/maxresdefault.jpeg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/maxresdefault.jpeg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/maxresdefault.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/maxresdefault.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/maxresdefault.jpeg" alt="How to run Claude Code in a Tmux popup window with persistent sessions" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How to run Claude Code in a Tmux popup window with persistent sessions</h3>
@@ -314,7 +314,7 @@ I've been using Claude Code in my terminal workflow. At first, I was running it 
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/02/DSCF2918.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/02/DSCF2918.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/02/DSCF2918.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/02/DSCF2918.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/02/DSCF2918.jpg" alt="I made my Keychron K2 HE stealthy" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">I made my Keychron K2 HE stealthy</h3>
@@ -348,7 +348,7 @@ The above keyboard is Keychron Q1, which I've been using for</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/Note-driven-agentic-coding.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/Note-driven-agentic-coding.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/Note-driven-agentic-coding.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/Note-driven-agentic-coding.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/Note-driven-agentic-coding.png" alt="Note-driven agentic coding workflow using Claude Code and Inkdrop" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Note-driven agentic coding workflow using Claude Code and Inkdrop</h3>
@@ -375,7 +375,7 @@ The above keyboard is Keychron Q1, which I've been using for</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/01/2025---year-in-review.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/01/2025---year-in-review.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/01/2025---year-in-review.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/01/2025---year-in-review.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/01/2025---year-in-review.jpg" alt="My 2025 indie dev journey review" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">My 2025 indie dev journey review</h3>
@@ -405,7 +405,7 @@ In</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/12/why-simple-notes-app-is-enough.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/12/why-simple-notes-app-is-enough.jpg" alt="Write, then walk: Why a simple notes app is sufficient" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Write, then walk: Why a simple notes app is sufficient</h3>
@@ -434,7 +434,7 @@ I'm the author of Inkdrop, a Markdown note-taking app mainly designed for softwa
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Charm_Is_Important.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Charm_Is_Important.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Charm_Is_Important.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Charm_Is_Important.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Charm_Is_Important.jpg" alt="Don’t be a scary old guy: My 40s survival strategy with charm" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Don’t be a scary old guy: My 40s survival strategy with charm</h3>
@@ -464,7 +464,7 @@ When I was younger, I could never really picture what life in my 40s would look 
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/11/Work_At_Healthy_Pace.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/11/Work_At_Healthy_Pace.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/11/Work_At_Healthy_Pace.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/11/Work_At_Healthy_Pace.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/11/Work_At_Healthy_Pace.jpg" alt="My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)</h3>
@@ -494,7 +494,7 @@ When I get absorbed in something, I tend to lose</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
@@ -521,7 +521,7 @@ When I get absorbed in something, I tend to lose</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
@@ -553,7 +553,7 @@ Subject: Cookie consent</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
@@ -580,7 +580,7 @@ Subject: Cookie consent</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
@@ -607,7 +607,7 @@ Subject: Cookie consent</p>
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
             </figure>
         <div class="gh-card-wrapper">
             <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>

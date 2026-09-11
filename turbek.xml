@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-09-10T13:19:42.797Z</updated>
+    <updated>2026-09-11T13:13:48.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[A Tangible Design Conversation with Ted Ullrich of Tomorrow Lab]]></title>
-        <id>https://turbek.com/blog/2026/09/03/ted-ullrich-futurelab-interview/</id>
-        <link href="https://turbek.com/blog/2026/09/03/ted-ullrich-futurelab-interview/"/>
+        <id>https://turbek.com/blog/2026/09/03/ted-ullrich-tomorrow-lab-interview/</id>
+        <link href="https://turbek.com/blog/2026/09/03/ted-ullrich-tomorrow-lab-interview/"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Why the gap between prototype and mass production is harder than the invention itself.]]></content>
     </entry>
