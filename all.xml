@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-13T13:39:27.251Z</updated>
+    <updated>2026-09-14T15:39:03.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[来，喝一杯 (Yihong’s Blog)]]></title>
@@ -7628,6 +7628,13 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <link href="https://littlecheesecake.me/money.sense/cn/posts/singapore-insurance-how-gov-do/"/>
         <updated>2023-12-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[新加坡政府爸爸是出了名事无巨细地为本地人规划生活，为普通人生活托底。从政府组屋这个举世少有的实现居者有其屋的住房政策，到持续优化的提供基本养老保障的公积金政策。还有一个没有被太注意的：关于保险配新加坡政府爸爸是出了名事无巨细地为本地人规划生活，为普通人生活托底。从政府组屋这个举世少有的实现居者有其屋的住房政策，到持续优化的提供基本养老保障的公积金政策。还有一个没有被太注意的：关于保险配置。可以学学新加坡政府是怎么给每个普通人上保险的，我觉得算是普通人配置保险的范例。]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近读的几本理财书 (LittleCheeseCake MoneySense)]]></title>
+        <id>https://littlecheesecake.me/money.sense/cn/posts/recent-personal-finance-books/</id>
+        <link href="https://littlecheesecake.me/money.sense/cn/posts/recent-personal-finance-books/"/>
+        <updated>2026-09-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[最近读的五本FIRE相关畅销书的笔记。最大的收获不是如何FIRE，而是以FIRE思想为启发——更理性的消费、更高效的理财、更好地和金钱相处。]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 年终理财复盘：慢慢变稳的一年 (LittleCheeseCake MoneySense)]]></title>
