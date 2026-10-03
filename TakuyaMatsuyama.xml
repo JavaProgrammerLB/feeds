@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-10-02T15:22:20.011Z</updated>
+    <updated>2026-10-03T14:08:31.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hackers and photographers]]></title>
+        <id>https://www.devas.life/hackers-and-photographers/</id>
+        <link href="https://www.devas.life/hackers-and-photographers/"/>
+        <updated>2026-10-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/hackers-and-photographers/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/10/2026-10-Hackers-and-Photographers.PNG" alt="Hackers and photographers">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Productivity</p>
+            <h3 class="gh-card-title is-title">Hackers and photographers</h3>
+                    <p class="gh-card-excerpt is-body">💡I used AI to fix my grammar mistakes and awkward phrasing.
+
+Hey, what's up? It's Takuya here.
+
+Agentic coding has become a crucial workflow these days. It has completely changed the landscape and perspective of software development, even for indie developers like me. At the same</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-10-03">03 Oct 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I designed my SaaS landing page with AI tools]]></title>
         <id>https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools/</id>
@@ -17,7 +49,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/09/Screenshot-2026-09-07-at-17.43.12.png" alt="How I designed my SaaS landing page with AI tools">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/09/Screenshot-2026-09-07-at-17.43.12.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/09/Screenshot-2026-09-07-at-17.43.12.png" alt="How I designed my SaaS landing page with AI tools">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -188,38 +220,6 @@ The</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What a Japanese cooking principle taught me about overcoming AI fatigue]]></title>
-        <id>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</id>
-        <link href="https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"/>
-        <updated>2026-04-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/04/Untitled_Artwork.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/04/Untitled_Artwork.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">What a Japanese cooking principle taught me about overcoming AI fatigue</h3>
-                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
-
-I've been thinking about how to live well in this AI era as a developer, content creator, and artist. By “living well,” I mean enjoying the act of creating while maintaining good mental health.
-
-I imagine many of my</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-04-08">08 Apr 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -268,6 +268,37 @@ I imagine many of my</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Japanese cooking principle taught me about overcoming AI fatigue]]></title>
+        <id>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</id>
+        <link href="https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/04/Untitled_Artwork.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/04/Untitled_Artwork.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/04/Untitled_Artwork.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/04/Untitled_Artwork.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/04/Untitled_Artwork.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/04/Untitled_Artwork.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/04/Untitled_Artwork.png" alt="What a Japanese cooking principle taught me about overcoming AI fatigue" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">What a Japanese cooking principle taught me about overcoming AI fatigue</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya.
+
+I've been thinking about how to live well in this AI era as a developer, content creator, and artist. By “living well,” I mean enjoying the act of creating while maintaining good mental health.
+
+I imagine many of my</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-04-08">08 Apr 2026</time>
                 <!--
          --></footer>
         </div>
@@ -590,38 +621,6 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-08-28">28 Aug 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more]]></title>
-        <id>https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/</id>
-        <link href="https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/"/>
-        <updated>2025-08-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/25-07-31-Inkdrop-v6-canary_thumb.png" alt="Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more</h3>
-                    <p class="gh-card-excerpt is-body">Hi! This is Takuya. I'm super excited to announce that the first canary version of v6.0.0 is available 😆✨
-It comes with a bunch of ground-up improvements. Let's go!
-
-Release notes:
-
-Inkdrop Desktop v6.0.0-canary.1 🥳Hi! I’m super excited to</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-08-01">01 Aug 2025</time>
                 <!--
          --></footer>
         </div>
