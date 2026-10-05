@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-04T14:37:33.595Z</updated>
+    <updated>2026-10-05T17:51:32.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[来，喝一杯 (Yihong’s Blog)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-217/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-10">友情链接</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-05-29T05:57:31.000Z">29 May, 2026</time></div><p>友情链接</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[变与不变 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/posts/2026/old-house</id>
+        <link href="https://frostming.com/posts/2026/old-house"/>
+        <updated>2026-10-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-10-05T00:00:00.000Z"> Oct 5, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/随笔" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">随笔</a> </div>  </div> <a href="/posts/2026/old-house" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 变与不变 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[楞次定律 (Frost Ming — Blog)]]></title>
         <id>https://frostming.com/posts/2026/changes</id>
         <link href="https://frostming.com/posts/2026/changes"/>
@@ -108,13 +115,6 @@
         <link href="https://frostming.com/posts/2026/2025-recap"/>
         <updated>2026-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-01-07T00:00:00.000Z"> Jan 7, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/总结" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">总结</a> </div>  </div> <a href="/posts/2026/2025-recap" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 2025 的号与外 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友好的 Python：从其他语言移植 (Frost Ming — Blog)]]></title>
-        <id>https://frostming.com/posts/2025/friendly-python-port</id>
-        <link href="https://frostming.com/posts/2025/friendly-python-port"/>
-        <updated>2025-12-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2025-12-30T00:00:00.000Z"> Dec 30, '25 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/friendly python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">friendly python</a><a href="/tags/Python" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">Python</a> </div>  </div> <a href="/posts/2025/friendly-python-port" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 友好的 Python：从其他语言移植 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hackers and photographers (Takuya Matsuyama — Blog)]]></title>
