@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-10-12T18:34:35.210Z</updated>
+    <updated>2026-10-13T16:43:09.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A Tangible Talk with Mitch Heinrich of Copper]]></title>
+        <id>https://turbek.com/blog/2026/10/12/mitch-heinrich-copper/</id>
+        <link href="https://turbek.com/blog/2026/10/12/mitch-heinrich-copper/"/>
+        <updated>2026-10-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Why an induction range should feel like the gas stove Grandma already knows.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Tangible Design Conversation with Ted Ullrich of Tomorrow Lab]]></title>
         <id>https://turbek.com/blog/2026/09/03/ted-ullrich-tomorrow-lab-interview/</id>
