@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-16T13:44:36.880Z</updated>
+    <updated>2026-10-17T12:41:30.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[来 DOTA (Yihong’s Blog)]]></title>
@@ -742,7 +742,7 @@ Subject: Cookie consent</p>
         <id>https://idoubi.ai/zh/blog/from-openclaw-to-fastclaw</id>
         <link href="https://idoubi.ai/zh/blog/from-openclaw-to-fastclaw"/>
         <updated>2026-06-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://cdn.shipany.ai/imgs/0015ac4d59a5dce02894535416e13ea3.png" alt="从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构" width="640" height="360" loading="lazy" class="aspect-video w-full object-cover object-center"><div class="flex flex-1 flex-col gap-3 p-6"><h3 class="font-medium leading-snug group-hover:underline group-hover:underline-offset-4">从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构</h3><div class="mt-auto flex items-center gap-2 pt-2 text-xs text-muted-foreground"><span class="inline-flex items-center gap-1.5"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar size-3.5" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg>2026年6月22日</span><span class="flex-1"></span><span class="inline-flex items-center gap-2"><img src="/logo.png" alt="idoubi" width="20" height="20" loading="lazy" class="size-5 rounded-full object-cover">idoubi</span></div></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://cdn.shipany.ai/imgs/0015ac4d59a5dce02894535416e13ea3.png" alt="从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构" width="640" height="360" loading="lazy" class="aspect-video w-full object-cover object-center"><div class="flex flex-1 flex-col gap-3 p-6"><h3 class="leading-snug font-medium group-hover:underline group-hover:underline-offset-4">从 OpenClaw 到 FastClaw：如何设计优秀的多 Agent 架构</h3><div class="text-muted-foreground mt-auto flex items-center gap-2 pt-2 text-xs"><span class="inline-flex items-center gap-1.5"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar size-3.5" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg>2026年6月22日</span><span class="flex-1"></span><span class="inline-flex items-center gap-2"><img src="/logo.png" alt="idoubi" width="20" height="20" loading="lazy" class="size-5 rounded-full object-cover">idoubi</span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的 Vibe Coding 项目 (idoubi.ai — Blog)]]></title>
