@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-21T14:20:24.204Z</updated>
+    <updated>2026-10-22T14:20:10.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[来 DOTA (Yihong’s Blog)]]></title>
@@ -30,7 +30,7 @@
         <id>https://blog.yihong0618.me/posts/issue-345/</id>
         <link href="https://blog.yihong0618.me/posts/issue-345/"/>
         <updated>2026-08-20T14:43:54.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-345/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-4">八次离职</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-10-19T06:17:47.000Z">19 Oct, 2026</time></div><p>八次离职</p>]]></content>
+        <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-345/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-4">八次离职</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-10-22T07:43:16.000Z">22 Oct, 2026</time></div><p>八次离职</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12 月，姥姥，以及大模型 (Yihong’s Blog)]]></title>
@@ -1032,6 +1032,13 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <link href="https://turbek.com/blog/2019/12/19/all-felt-stool/"/>
         <updated>2019-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Felt is soft, but surprisingly stiff when folded! Tied with string, this is a functional stool weighing just 8 pounds.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letters to My Younger Self (Steve Turbek — Blog)]]></title>
+        <id>https://turbek.com/blog/2019/01/01/letters-to-my-younger-self/</id>
+        <link href="https://turbek.com/blog/2019/01/01/letters-to-my-younger-self/"/>
+        <updated>2019-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Some self reflections on mentoring.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Conference Table (Steve Turbek — Blog)]]></title>

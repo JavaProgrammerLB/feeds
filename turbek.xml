@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-10-21T14:20:24.118Z</updated>
+    <updated>2026-10-22T14:20:10.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
     <entry>
@@ -125,6 +125,13 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <link href="https://turbek.com/blog/2019/12/19/all-felt-stool/"/>
         <updated>2019-12-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Felt is soft, but surprisingly stiff when folded! Tied with string, this is a functional stool weighing just 8 pounds.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letters to My Younger Self]]></title>
+        <id>https://turbek.com/blog/2019/01/01/letters-to-my-younger-self/</id>
+        <link href="https://turbek.com/blog/2019/01/01/letters-to-my-younger-self/"/>
+        <updated>2019-01-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Some self reflections on mentoring.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Conference Table]]></title>
