@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://frostming.com/</id>
     <title>Frost Ming — Blog</title>
-    <updated>2026-10-25T13:33:42.156Z</updated>
+    <updated>2026-10-26T15:50:28.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://frostming.com/avatar.png</icon>
+    <entry>
+        <title type="html"><![CDATA[笑傲江湖]]></title>
+        <id>https://frostming.com/posts/2026/swordsman</id>
+        <link href="https://frostming.com/posts/2026/swordsman"/>
+        <updated>2026-10-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-10-26T00:00:00.000Z"> Oct 26, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/随笔" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">随笔</a> </div>  </div> <a href="/posts/2026/swordsman" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 笑傲江湖 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[变与不变]]></title>
         <id>https://frostming.com/posts/2026/old-house</id>
@@ -39,12 +46,5 @@
         <link href="https://frostming.com/posts/2026/expensive-harmony"/>
         <updated>2026-02-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 的号与外]]></title>
-        <id>https://frostming.com/posts/2026/2025-recap</id>
-        <link href="https://frostming.com/posts/2026/2025-recap"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-01-07T00:00:00.000Z"> Jan 7, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/总结" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">总结</a> </div>  </div> <a href="/posts/2026/2025-recap" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 2025 的号与外 </a>]]></content>
     </entry>
 </feed>
