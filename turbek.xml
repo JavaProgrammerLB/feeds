@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-10-29T15:50:52.384Z</updated>
+    <updated>2026-10-30T15:31:27.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://turbek.com/blog/2026/09/03/ted-ullrich-tomorrow-lab-interview/"/>
         <updated>2026-09-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Why the gap between prototype and mass production is harder than the invention itself.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tangible Talk with Deren Güler of Teknikio]]></title>
+        <id>https://turbek.com/blog/2026/08/31/deren-guler-teknikio/</id>
+        <link href="https://turbek.com/blog/2026/08/31/deren-guler-teknikio/"/>
+        <updated>2026-08-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Designing electronics that work in any material, and why kids should see the light turn on before they learn to code it.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mechanical Wonderland -The Clark Collection of Mechanical Movements]]></title>
