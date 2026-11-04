@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-03T16:49:42.993Z</updated>
+    <updated>2026-11-04T16:49:50.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[xintao (Yihong’s Blog)]]></title>
@@ -117,6 +117,40 @@
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Effective Neovim setup for agentic coding towards 2027 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/effective-neovim-setup-for-agentic-coding-towards-2027/</id>
+        <link href="https://www.devas.life/effective-neovim-setup-for-agentic-coding-towards-2027/"/>
+        <updated>2026-11-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/effective-neovim-setup-for-agentic-coding-towards-2027/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg" alt="Effective Neovim setup for agentic coding towards 2027">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">Effective Neovim setup for agentic coding towards 2027</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya here. In this article, I'm going to share my new Neovim setup, which I built from scratch with an AI agent.
+
+Watch the video tutorial on YouTube:
+
+My Dotfiles is here:
+
+GitHub - craftzdog/dotfiles: My personal dotfilesMy personal dotfiles.</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-11-04">04 Nov 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hackers and photographers (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/hackers-and-photographers/</id>
         <link href="https://www.devas.life/hackers-and-photographers/"/>
@@ -128,7 +162,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/10/2026-10-Hackers-and-Photographers.PNG" alt="Hackers and photographers">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/10/2026-10-Hackers-and-Photographers.PNG 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/10/2026-10-Hackers-and-Photographers.PNG" alt="Hackers and photographers">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Productivity</p>
@@ -303,34 +337,6 @@ The</p>
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2 (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/</id>
-        <link href="https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/"/>
-        <updated>2026-05-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg" alt="10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Talk</p>
-            <h3 class="gh-card-title is-title">10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2</h3>
-                    <p class="gh-card-excerpt is-body">I joined Hiroshi's podcast episode a few weeks ago. We shared our experience and knowledge on indie dev. I'd like to cross-post our talk in English here. I also tried to create an English dub using AI. The voice cloning quality is quite impressive, so</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-05-01">01 May 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -379,6 +385,33 @@ The</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2 (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/</id>
+        <link href="https://www.devas.life/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/"/>
+        <updated>2026-05-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/10-years-of-indie-dev-how-i-went-global-from-japan-talk-w-hiroshi-part-1-2/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/2026-04-Podcast-with-Hirochi-part-1-2_2.jpg" alt="10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">10 years of indie dev: How I went global from Japan (talk w/ Hiroshi) - Part 1/2</h3>
+                    <p class="gh-card-excerpt is-body">I joined Hiroshi's podcast episode a few weeks ago. We shared our experience and knowledge on indie dev. I'd like to cross-post our talk in English here. I also tried to create an English dub using AI. The voice cloning quality is quite impressive, so</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-05-01">01 May 2026</time>
                 <!--
          --></footer>
         </div>
@@ -705,33 +738,6 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-10-11">11 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zen: Why Inkdrop never extends Markdown syntax (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/</id>
-        <link href="https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/"/>
-        <updated>2025-08-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/zen-why-inkdrop-never-extends-markdown-syntax/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/08/IMG_1252.JPG 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/08/IMG_1252.JPG 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/08/IMG_1252.JPG 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/08/IMG_1252.JPG 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/08/IMG_1252.JPG 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/08/IMG_1252.JPG 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/08/IMG_1252.JPG" alt="Zen: Why Inkdrop never extends Markdown syntax" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Zen: Why Inkdrop never extends Markdown syntax</h3>
-                    <p class="gh-card-excerpt is-body">I've been running Inkdrop, which is a Markdown note-taking app, and I’ve decided to never implement proprietary Markdown extensions, as that’s the philosophy of the app. The strength of Markdown (specifically GitHub-flavored Markdown) lies in its status as a widely used, loosely standardized document</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-08-28">28 Aug 2025</time>
                 <!--
          --></footer>
         </div>
