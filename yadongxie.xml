@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yadongxie.com/writing</id>
     <title>Yadong Xie — Writing</title>
-    <updated>2026-11-06T16:35:16.821Z</updated>
+    <updated>2026-11-07T15:24:21.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.yadongxie.com/icon.svg?icon.40qlphkx-yp-i.svg</icon>
+    <icon>https://www.yadongxie.com/icon.svg</icon>
     <entry>
-        <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Login]]></title>
-        <id>https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login</id>
-        <link href="https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login"/>
+        <title type="html"><![CDATA[How Pixel Singapore Was Made]]></title>
+        <id>https://www.yadongxie.com/blog/how-pixel-singapore-was-made</id>
+        <link href="https://www.yadongxie.com/blog/how-pixel-singapore-was-made"/>
+        <updated>2026-11-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/how-pixel-singapore-was-made">How Pixel Singapore Was Made</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-11-07" class="whitespace-nowrap tabular-nums">Nov 7, 2026</time></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Publish]]></title>
+        <id>https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-publish</id>
+        <link href="https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-publish"/>
         <updated>2026-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/your-beta-product-may-have-leaked-before-login">Your Beta Product May Have Leaked Before Login</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-08-23" class="whitespace-nowrap tabular-nums">Aug 23, 2026</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/your-beta-product-may-have-leaked-before-publish">Your Beta Product May Have Leaked Before Publish</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-08-23" class="whitespace-nowrap tabular-nums">Aug 23, 2026</time></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reverse-Engineering flipbook.page Into a Spec]]></title>

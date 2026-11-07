@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-06T16:35:16.848Z</updated>
+    <updated>2026-11-07T15:24:21.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[可怜 (Yihong’s Blog)]]></title>
@@ -7790,11 +7790,18 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <content type="html"><![CDATA[<a href="https://littlecheesecake.me/money.sense/cn/posts/property-budgeting-buy-strategy/" class="post-list-item-link"><div class="post-list-item-overlay"></div><div class="post-list-item-content"><h3 class="post-list-item-title">换房预算和购买方式</h3><div class="post-list-item-meta">January 30, 2025</div><div class="post-list-item-tags"><span class="post-tag">金钱故事</span></div></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Login (Yadong Xie — Writing)]]></title>
-        <id>https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login</id>
-        <link href="https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-login"/>
+        <title type="html"><![CDATA[How Pixel Singapore Was Made (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/how-pixel-singapore-was-made</id>
+        <link href="https://www.yadongxie.com/blog/how-pixel-singapore-was-made"/>
+        <updated>2026-11-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/how-pixel-singapore-was-made">How Pixel Singapore Was Made</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-11-07" class="whitespace-nowrap tabular-nums">Nov 7, 2026</time></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Publish (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-publish</id>
+        <link href="https://www.yadongxie.com/blog/your-beta-product-may-have-leaked-before-publish"/>
         <updated>2026-08-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/your-beta-product-may-have-leaked-before-login">Your Beta Product May Have Leaked Before Login</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-08-23" class="whitespace-nowrap tabular-nums">Aug 23, 2026</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/your-beta-product-may-have-leaked-before-publish">Your Beta Product May Have Leaked Before Publish</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-08-23" class="whitespace-nowrap tabular-nums">Aug 23, 2026</time></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reverse-Engineering flipbook.page Into a Spec (Yadong Xie — Writing)]]></title>
