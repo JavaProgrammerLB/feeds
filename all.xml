@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-08T15:47:02.163Z</updated>
+    <updated>2026-11-09T19:28:53.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[可怜 (Yihong’s Blog)]]></title>
@@ -7790,11 +7790,11 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <content type="html"><![CDATA[<a href="https://littlecheesecake.me/money.sense/cn/posts/property-budgeting-buy-strategy/" class="post-list-item-link"><div class="post-list-item-overlay"></div><div class="post-list-item-content"><h3 class="post-list-item-title">换房预算和购买方式</h3><div class="post-list-item-meta">January 30, 2025</div><div class="post-list-item-tags"><span class="post-tag">金钱故事</span></div></div></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Pixel Singapore Was Made (Yadong Xie — Writing)]]></title>
-        <id>https://www.yadongxie.com/blog/how-pixel-singapore-was-made</id>
-        <link href="https://www.yadongxie.com/blog/how-pixel-singapore-was-made"/>
+        <title type="html"><![CDATA[How Isometric Pixel City Was Made (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/how-isometric-pixel-city-was-made</id>
+        <link href="https://www.yadongxie.com/blog/how-isometric-pixel-city-was-made"/>
         <updated>2026-11-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/how-pixel-singapore-was-made">How Pixel Singapore Was Made</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-11-07" class="whitespace-nowrap tabular-nums">Nov 7, 2026</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/how-isometric-pixel-city-was-made">How Isometric Pixel City Was Made</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2026-11-07" class="whitespace-nowrap tabular-nums">Nov 7, 2026</time></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Your Beta Product May Have Leaked Before Publish (Yadong Xie — Writing)]]></title>
@@ -7815,21 +7815,21 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <id>https://www.yadongxie.com/blog/thriving-in-the-ai-age-reinventing-web-development-value</id>
         <link href="https://www.yadongxie.com/blog/thriving-in-the-ai-age-reinventing-web-development-value"/>
         <updated>2025-03-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/thriving-in-the-ai-age-reinventing-web-development-value">Thriving in the AI Age: Reinventing Web Development Value</a><p class="mt-0.5 text-xs sm:text-sm">@D2 2025<!-- --> · <!-- -->中文<!-- --> · <a class="font-bold transition-colors" href="thriving-in-the-ai-age-reinventing-front-end-development-value.pdf">slides</a> · <time datetime="2025-03-09" class="whitespace-nowrap tabular-nums">Mar 9, 2025</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/thriving-in-the-ai-age-reinventing-web-development-value">Thriving in the AI Age: Reinventing Web Development Value</a><p class="mt-0.5 text-xs sm:text-sm">@D2 2025<!-- --> · <a class="font-bold transition-colors" href="thriving-in-the-ai-age-reinventing-front-end-development-value.pdf">slides</a> · <time datetime="2025-03-09" class="whitespace-nowrap tabular-nums">Mar 9, 2025</time></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building Applications with client-side and server-side AI (Yadong Xie — Writing)]]></title>
         <id>https://www.yadongxie.com/blog/building-applications-with-client-side-and-server-side-ai</id>
         <link href="https://www.yadongxie.com/blog/building-applications-with-client-side-and-server-side-ai"/>
         <updated>2024-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/building-applications-with-client-side-and-server-side-ai">Building Applications with client-side and server-side AI</a><p class="mt-0.5 text-xs sm:text-sm">@FEDAY 2024<!-- --> · <!-- -->中文<!-- --> · <a class="font-bold transition-colors" href="build-ai-application-with-client-and-server-side-ai.pdf">slides</a> · <time datetime="2024-12-07" class="whitespace-nowrap tabular-nums">Dec 7, 2024</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/building-applications-with-client-side-and-server-side-ai">Building Applications with client-side and server-side AI</a><p class="mt-0.5 text-xs sm:text-sm">@FEDAY 2024<!-- --> · <a class="font-bold transition-colors" href="build-ai-application-with-client-and-server-side-ai.pdf">slides</a> · <time datetime="2024-12-07" class="whitespace-nowrap tabular-nums">Dec 7, 2024</time></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Chrome Extension with LLM (Yadong Xie — Writing)]]></title>
-        <id>https://www.yadongxie.com/build-chrome-extension-with-llm.pdf</id>
-        <link href="https://www.yadongxie.com/build-chrome-extension-with-llm.pdf"/>
+        <title type="html"><![CDATA[Building a Chrome Extension with LLMs (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/building-a-chrome-extension-with-llms</id>
+        <link href="https://www.yadongxie.com/blog/building-a-chrome-extension-with-llms"/>
         <updated>2024-06-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="build-chrome-extension-with-llm.pdf">Build Chrome Extension with LLM</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2024 I/O Extended Hangzhou<!-- --> · <!-- -->中文<!-- --> · <time datetime="2024-06-01" class="whitespace-nowrap tabular-nums">Jun 1, 2024</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/building-a-chrome-extension-with-llms">Building a Chrome Extension with LLMs</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2024 I/O Extended Hangzhou<!-- --> · <a class="font-bold transition-colors" href="build-chrome-extension-with-llm.pdf">slides</a> · <time datetime="2024-06-01" class="whitespace-nowrap tabular-nums">Jun 1, 2024</time></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10 Essential Details for Enhancing Cloud Computing User Experience (Yadong Xie — Writing)]]></title>
@@ -7839,17 +7839,17 @@ Broadcast nationally on the Today Show on NBC, CoolHunting.com, BoingBoing, Apar
         <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/10-essential-details-for-enhancing-cloud-computing-user-experience">10 Essential Details for Enhancing Cloud Computing User Experience</a><p class="mt-0.5 text-xs sm:text-sm"><time datetime="2023-12-19" class="whitespace-nowrap tabular-nums">Dec 19, 2023</time></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From GUI to NUI (Yadong Xie — Writing)]]></title>
-        <id>https://www.yadongxie.com/from-gui-to-nui.pdf</id>
-        <link href="https://www.yadongxie.com/from-gui-to-nui.pdf"/>
+        <title type="html"><![CDATA[From GUI to NUI: How LLMs Change the Way We Interact (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/from-gui-to-nui</id>
+        <link href="https://www.yadongxie.com/blog/from-gui-to-nui"/>
         <updated>2023-01-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/from-gui-to-nui.pdf">From GUI to NUI</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2023 I/O Extended Beijing<!-- --> · <!-- -->中文<!-- --> · <time datetime="2023-01-11" class="whitespace-nowrap tabular-nums">Jan 11, 2023</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/from-gui-to-nui">From GUI to NUI: How LLMs Change the Way We Interact</a><p class="mt-0.5 text-xs sm:text-sm">@Google 2023 I/O Extended Beijing<!-- --> · <a class="font-bold transition-colors" href="/from-gui-to-nui.pdf">slides</a> · <time datetime="2023-01-11" class="whitespace-nowrap tabular-nums">Jan 11, 2023</time></p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TC39 based Dependency Injection (Yadong Xie — Writing)]]></title>
-        <id>https://www.yadongxie.com/frontend-dependency-injection-for-tc39-standards.pdf</id>
-        <link href="https://www.yadongxie.com/frontend-dependency-injection-for-tc39-standards.pdf"/>
+        <title type="html"><![CDATA[Frontend Dependency Injection for TC39 Standards (Yadong Xie — Writing)]]></title>
+        <id>https://www.yadongxie.com/blog/frontend-dependency-injection-for-tc39-standards</id>
+        <link href="https://www.yadongxie.com/blog/frontend-dependency-injection-for-tc39-standards"/>
         <updated>2022-08-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="frontend-dependency-injection-for-tc39-standards.pdf">TC39 based Dependency Injection</a><p class="mt-0.5 text-xs sm:text-sm">@Google DevFest 2022 Hangzhou<!-- --> · <!-- -->中文<!-- --> · <time datetime="2022-08-03" class="whitespace-nowrap tabular-nums">Aug 3, 2022</time></p>]]></content>
+        <content type="html"><![CDATA[<a class="font-bold transition-colors" href="/blog/frontend-dependency-injection-for-tc39-standards">Frontend Dependency Injection for TC39 Standards</a><p class="mt-0.5 text-xs sm:text-sm">@Google DevFest 2022 Hangzhou<!-- --> · <a class="font-bold transition-colors" href="frontend-dependency-injection-for-tc39-standards.pdf">slides</a> · <time datetime="2022-08-03" class="whitespace-nowrap tabular-nums">Aug 3, 2022</time></p>]]></content>
     </entry>
 </feed>
