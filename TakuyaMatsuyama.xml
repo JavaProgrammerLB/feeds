@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.devas.life/</id>
     <title>Takuya Matsuyama — Blog</title>
-    <updated>2026-11-12T17:20:38.156Z</updated>
+    <updated>2026-11-13T16:56:50.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w256h256/2023/11/logo-with-white-stroke.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I moved 39 repos into a monorepo to boost agentic coding]]></title>
+        <id>https://www.devas.life/i-moved-my-projects-into-a-monorepo-for-better-agentic-coding/</id>
+        <link href="https://www.devas.life/i-moved-my-projects-into-a-monorepo-for-better-agentic-coding/"/>
+        <updated>2026-11-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-moved-my-projects-into-a-monorepo-for-better-agentic-coding/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png" alt="I moved 39 repos into a monorepo to boost agentic coding">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">I moved 39 repos into a monorepo to boost agentic coding</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya here.
+
+I recently moved my projects into a monorepo to speed up my agentic coding.
+
+
+Rethinking how I work with agents, from repository structures
+
+I came across a post by Mitchell Hashimoto. He recently started a new company, Superlogical, which builds</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-11-14">14 Nov 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Effective Neovim setup for agentic coding towards 2027]]></title>
         <id>https://www.devas.life/effective-neovim-setup-for-agentic-coding-towards-2027/</id>
@@ -17,7 +52,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg" alt="Effective Neovim setup for agentic coding towards 2027">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/2026-11-01-Neovim-setup---thumb_2.jpg" alt="Effective Neovim setup for agentic coding towards 2027">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -196,36 +231,6 @@ First, let me share a bit about the journey that led me to build it. Or, you can
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A day in the life of a Japanese indie developer]]></title>
-        <id>https://www.devas.life/a-day-in-the-life-of-a-japanese-indie-developer/</id>
-        <link href="https://www.devas.life/a-day-in-the-life-of-a-japanese-indie-developer/"/>
-        <updated>2026-05-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/a-day-in-the-life-of-a-japanese-indie-developer/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/05/L1002401.jpeg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/05/L1002401.jpeg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/L1002401.jpeg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/L1002401.jpeg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/L1002401.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/L1002401.jpeg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/L1002401.jpeg" alt="A day in the life of a Japanese indie developer">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Life</p>
-            <h3 class="gh-card-title is-title">A day in the life of a Japanese indie developer</h3>
-                    <p class="gh-card-excerpt is-body">In the morning, I saw my daughter off to her school bus stop. I recently came across comedian Atsushi Tamura’s conversational nodding technique and thought it sounded interesting, so I immediately tried it out during some small talk with my mama-tomo (mom friend). The results were instant.
-
-The</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-05-28">28 May 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -274,6 +279,35 @@ The</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A day in the life of a Japanese indie developer]]></title>
+        <id>https://www.devas.life/a-day-in-the-life-of-a-japanese-indie-developer/</id>
+        <link href="https://www.devas.life/a-day-in-the-life-of-a-japanese-indie-developer/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/a-day-in-the-life-of-a-japanese-indie-developer/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/05/L1002401.jpeg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/05/L1002401.jpeg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/05/L1002401.jpeg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/05/L1002401.jpeg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/05/L1002401.jpeg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/05/L1002401.jpeg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/05/L1002401.jpeg" alt="A day in the life of a Japanese indie developer" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">A day in the life of a Japanese indie developer</h3>
+                    <p class="gh-card-excerpt is-body">In the morning, I saw my daughter off to her school bus stop. I recently came across comedian Atsushi Tamura’s conversational nodding technique and thought it sounded interesting, so I immediately tried it out during some small talk with my mama-tomo (mom friend). The results were instant.
+
+The</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-05-28">28 May 2026</time>
                 <!--
          --></footer>
         </div>
@@ -600,33 +634,6 @@ Subject: Cookie consent</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-10-15">15 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovering the joy of driving as a long-time paper driver]]></title>
-        <id>https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/</id>
-        <link href="https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/"/>
-        <updated>2025-10-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/discovering-the-joy-of-driving-as-a-long-time-paper-driver/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/L1000041-1.jpeg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/L1000041-1.jpeg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/L1000041-1.jpeg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/L1000041-1.jpeg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/L1000041-1.jpeg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/L1000041-1.jpeg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/L1000041-1.jpeg" alt="Discovering the joy of driving as a long-time paper driver" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">Discovering the joy of driving as a long-time paper driver</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. Ever since I got my driver’s license before entering university, I had basically never driven a car. Living in the city, I avoided driving as much as possible. The thought of operating something that could seriously hurt or even kill someone if I made</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-11">11 Oct 2025</time>
                 <!--
          --></footer>
         </div>
