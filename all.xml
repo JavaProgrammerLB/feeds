@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-19T17:58:15.273Z</updated>
+    <updated>2026-11-20T17:32:08.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AI 时代我的生产力下降了 500% (Yihong’s Blog)]]></title>
@@ -117,6 +117,36 @@
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How I fixed 55 bugs in a week by making my monorepo more agent-friendly (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-i-fixed-55-bugs-in-a-week-by-making-my-monorepo-more-agent-friendly/</id>
+        <link href="https://www.devas.life/how-i-fixed-55-bugs-in-a-week-by-making-my-monorepo-more-agent-friendly/"/>
+        <updated>2026-11-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-fixed-55-bugs-in-a-week-by-making-my-monorepo-more-agent-friendly/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/11/gardener-1.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/11/gardener-1.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/gardener-1.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/gardener-1.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/gardener-1.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/gardener-1.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/gardener-1.png" alt="How I fixed 55 bugs in a week by making my monorepo more agent-friendly">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Tips</p>
+            <h3 class="gh-card-title is-title">How I fixed 55 bugs in a week by making my monorepo more agent-friendly</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya here.
+
+This week, I restructured my app's monorepo so that my coding agents copy good patterns instead of bad ones. Along the way, about 55 bugs turned up and got fixed, and all of them were written by me,</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-11-20">20 Nov 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I moved 39 repos into a monorepo to boost agentic coding (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/i-moved-my-projects-into-a-monorepo-for-better-agentic-coding/</id>
         <link href="https://www.devas.life/i-moved-my-projects-into-a-monorepo-for-better-agentic-coding/"/>
@@ -128,7 +158,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png" alt="I moved 39 repos into a monorepo to boost agentic coding">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/CleanShot-2026-11-14-at-00.33.20@2x.png" alt="I moved 39 repos into a monorepo to boost agentic coding">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -312,36 +342,6 @@ I'd like to report a status update on the Inkdrop project here. About a year and
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I made a Claude Code session manager for tmux (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/</id>
-        <link href="https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/"/>
-        <updated>2026-06-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-a-claude-code-session-manager-for-tmux/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/06/26-06-14-tmux-claude-session-manager.jpg" alt="I made a Claude Code session manager for tmux">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Tips</p>
-            <h3 class="gh-card-title is-title">I made a Claude Code session manager for tmux</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I'm happy to introduce a tool for managing multiple Claude Code sessions in tmux. Here is a demo video:
-
-First, let me share a bit about the journey that led me to build it. Or, you can just jump right to the repo</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-06-15">15 Jun 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -390,6 +390,35 @@ First, let me share a bit about the journey that led me to build it. Or, you can
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a Claude Code session manager for tmux (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/</id>
+        <link href="https://www.devas.life/i-made-a-claude-code-session-manager-for-tmux/"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/i-made-a-claude-code-session-manager-for-tmux/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/06/26-06-14-tmux-claude-session-manager.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/06/26-06-14-tmux-claude-session-manager.jpg" alt="I made a Claude Code session manager for tmux" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">I made a Claude Code session manager for tmux</h3>
+                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. I'm happy to introduce a tool for managing multiple Claude Code sessions in tmux. Here is a demo video:
+
+First, let me share a bit about the journey that led me to build it. Or, you can just jump right to the repo</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-06-15">15 Jun 2026</time>
                 <!--
          --></footer>
         </div>
@@ -713,38 +742,6 @@ When I get absorbed in something, I tend to lose</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-10-31">31 Oct 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The scariest “user support” email I’ve ever received (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/the-scariest-user-support-email-ive-ever-received/</id>
-        <link href="https://www.devas.life/the-scariest-user-support-email-ive-ever-received/"/>
-        <updated>2025-10-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/the-scariest-user-support-email-ive-ever-received/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/CleanShot-2025-10-15-at-10.34.15@2x.png" alt="The scariest “user support” email I’ve ever received" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">The scariest “user support” email I’ve ever received</h3>
-                    <p class="gh-card-excerpt is-body">Hi, it's Takuya. As your app grows in popularity, you occasionally start to attract attacks aimed directly at you—the developer or site owner. Just the other day, I got one that was honestly terrifying, so I'd like to share it.
-
-
-The Email
-
-Subject: Cookie consent</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-15">15 Oct 2025</time>
                 <!--
          --></footer>
         </div>
