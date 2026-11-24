@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://turbek.com/</id>
     <title>Steve Turbek — Blog</title>
-    <updated>2026-11-23T20:52:05.636Z</updated>
+    <updated>2026-11-24T19:56:12.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://turbek.com/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[A Tangible Talk with Carla Diana]]></title>
+        <id>https://turbek.com/blog/2026/11/03/carla-diana/</id>
+        <link href="https://turbek.com/blog/2026/11/03/carla-diana/"/>
+        <updated>2026-11-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Why robots should speak in light, sound, and movement, and how to prototype that with cardboard, tape, and acting it out.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Tangible Talk with Mitch Heinrich of Copper]]></title>
         <id>https://turbek.com/blog/2026/10/12/mitch-heinrich-copper/</id>
