@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-24T19:56:12.769Z</updated>
+    <updated>2026-11-25T18:59:07.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AI 时代我的生产力下降了 500% (Yihong’s Blog)]]></title>
@@ -117,6 +117,36 @@
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/</id>
+        <link href="https://www.devas.life/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/"/>
+        <updated>2026-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-i-automated-my-bookkeeping-with-ai-and-replaced-the-work-i-outsourced-to-an-admin-assistant/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/11/tea-break-2.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/11/tea-break-2.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/tea-break-2.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/tea-break-2.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/tea-break-2.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/tea-break-2.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/tea-break-2.png" alt="How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant">
+            </figure>
+        <div class="gh-card-wrapper">
+                <p class="gh-card-tag">Japan</p>
+            <h3 class="gh-card-title is-title">How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant</h3>
+                    <p class="gh-card-excerpt is-body">Hey, what's up? It's Takuya here. I'm an indie developer based in Japan, and I make a living by developing and selling an app called Inkdrop on my own.
+
+Over the past 2–3 months, I've been automating my bookkeeping little by</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-11-26">26 Nov 2026</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I fixed 55 bugs in a week by making my monorepo more agent-friendly (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/how-i-fixed-55-bugs-in-a-week-by-making-my-monorepo-more-agent-friendly/</id>
         <link href="https://www.devas.life/how-i-fixed-55-bugs-in-a-week-by-making-my-monorepo-more-agent-friendly/"/>
@@ -128,7 +158,7 @@
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/11/gardener-1.png 600w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/11/gardener-1.png 960w,
                             https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/11/gardener-1.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/gardener-1.png 2000w" sizes="640px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/gardener-1.png" alt="How I fixed 55 bugs in a week by making my monorepo more agent-friendly">
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/11/gardener-1.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/11/gardener-1.png" alt="How I fixed 55 bugs in a week by making my monorepo more agent-friendly">
             </figure>
         <div class="gh-card-wrapper">
                 <p class="gh-card-tag">Tips</p>
@@ -312,36 +342,6 @@ TL;DR
     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/inkdrop-roadmap-vol-6-completed/</id>
-        <link href="https://www.devas.life/inkdrop-roadmap-vol-6-completed/"/>
-        <updated>2026-07-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-roadmap-vol-6-completed/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/07/thumb.png 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/07/thumb.png 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/07/thumb.png 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/07/thumb.png 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/07/thumb.png 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/07/thumb.png 2000w" sizes="320px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/07/thumb.png" alt="Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release">
-            </figure>
-        <div class="gh-card-wrapper">
-                <p class="gh-card-tag">Inkdrop</p>
-            <h3 class="gh-card-title is-title">Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release</h3>
-                    <p class="gh-card-excerpt is-body">Hi folks, it's Takuya here, the solo developer of Inkdrop.
-
-I'd like to report a status update on the Inkdrop project here. About a year and a half ago, I published the roadmap of Inkdrop vol.6. And I'm happy to announce that every</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2026-07-06">06 Jul 2026</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New wallpaper pack: Textures of Kyoto (Takuya Matsuyama — Blog)]]></title>
         <id>https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/</id>
         <link href="https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/"/>
@@ -390,6 +390,35 @@ I'd like to report a status update on the Inkdrop project here. About a year and
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2018-10-15">15 Oct 2018</time>
+                <!--
+         --></footer>
+        </div>
+    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release (Takuya Matsuyama — Blog)]]></title>
+        <id>https://www.devas.life/inkdrop-roadmap-vol-6-completed/</id>
+        <link href="https://www.devas.life/inkdrop-roadmap-vol-6-completed/"/>
+        <updated>2026-07-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="gh-card-link" href="/inkdrop-roadmap-vol-6-completed/">
+            <figure class="gh-card-image">
+                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2026/07/thumb.png 160w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2026/07/thumb.png 320w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2026/07/thumb.png 600w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2026/07/thumb.png 960w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2026/07/thumb.png 1200w,
+                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2026/07/thumb.png 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2026/07/thumb.png" alt="Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release" loading="lazy">
+            </figure>
+        <div class="gh-card-wrapper">
+            <h3 class="gh-card-title is-title">Inkdrop Roadmap vol.6: Completed 🎉 — Now preparing for the official v6 release</h3>
+                    <p class="gh-card-excerpt is-body">Hi folks, it's Takuya here, the solo developer of Inkdrop.
+
+I'd like to report a status update on the Inkdrop project here. About a year and a half ago, I published the roadmap of Inkdrop vol.6. And I'm happy to announce that every</p>
+            <footer class="gh-card-meta">
+<!--
+             -->
+                    <span class="gh-card-author">By Takuya Matsuyama</span>
+                    <time class="gh-card-date" datetime="2026-07-06">06 Jul 2026</time>
                 <!--
          --></footer>
         </div>
@@ -715,33 +744,6 @@ When I get absorbed in something, I tend to lose</p>
              -->
                     <span class="gh-card-author">By Takuya Matsuyama</span>
                     <time class="gh-card-date" datetime="2025-11-08">08 Nov 2025</time>
-                <!--
-         --></footer>
-        </div>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How low self-esteem and hyperfocus drove me to burnout (Takuya Matsuyama — Blog)]]></title>
-        <id>https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/</id>
-        <link href="https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="gh-card-link" href="/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/">
-            <figure class="gh-card-image">
-                <img srcset="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w160/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 160w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w320/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 320w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 600w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w960/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 960w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w1200/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 1200w,
-                            https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w2000/format/webp/2025/10/Burnout_ain-t_no_joke.jpg 2000w" sizes="auto, (max-width: 1199px) 100vw, 980px" src="https://storage.ghost.io/c/d0/bc/d0bc0a46-ecd4-4f66-8377-998e00d2e3f7/content/images/size/w600/2025/10/Burnout_ain-t_no_joke.jpg" alt="How low self-esteem and hyperfocus drove me to burnout" loading="lazy">
-            </figure>
-        <div class="gh-card-wrapper">
-            <h3 class="gh-card-title is-title">How low self-esteem and hyperfocus drove me to burnout</h3>
-                    <p class="gh-card-excerpt is-body">Hey, this is Takuya. Recently, I pushed myself too hard on indie development and ended up sick, as I posted a video on my channel recently. My atopic dermatitis flared up badly, and my quality of life dropped sharply. It was like hell, literally. I’m still recovering, but I’</p>
-            <footer class="gh-card-meta">
-<!--
-             -->
-                    <span class="gh-card-author">By Takuya Matsuyama</span>
-                    <time class="gh-card-date" datetime="2025-10-31">31 Oct 2025</time>
                 <!--
          --></footer>
         </div>
