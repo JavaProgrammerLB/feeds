@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://JavaProgrammerLB.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-11-27T18:41:36.442Z</updated>
+    <updated>2026-11-28T17:21:47.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AI 时代我的生产力下降了 500% (Yihong’s Blog)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[<a href="https://blog.yihong0618.me/posts/issue-342/" class="text-accent inline-block text-lg font-medium decoration-dashed underline-offset-4 hover:underline focus-visible:no-underline focus-visible:underline-offset-0"><h3 data-astro-transition-scope="astro-jyu37kgb-10">那些幸福的瞬间</h3></a><div class="text-muted-foreground flex items-center gap-x-2"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="inline-block size-6 min-w-5.5 scale-90" viewBox="0 0 24 24"><path stroke="none" d="M0 0h24v24H0z"></path><path d="M4 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2zM16 3v4M8 3v4M4 11h16M7 14h.013M10.01 14h.005M13.01 14h.005M16.015 14h.005M13.015 17h.005M7.01 17h.005M10.01 17h.005"></path></svg><span class="text-sm">Updated:</span><time class="text-sm" datetime="2026-05-30T02:09:57.000Z">30 May, 2026</time></div><p>那些幸福的瞬间</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《影之刃零》拾遗 (Frost Ming — Blog)]]></title>
+        <id>https://frostming.com/posts/2026/blade-zero</id>
+        <link href="https://frostming.com/posts/2026/blade-zero"/>
+        <updated>2026-11-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-11-28T00:00:00.000Z"> Nov 28, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/游戏" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">游戏</a> </div>  </div> <a href="/posts/2026/blade-zero" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 《影之刃零》拾遗 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[笑傲江湖 (Frost Ming — Blog)]]></title>
         <id>https://frostming.com/posts/2026/swordsman</id>
         <link href="https://frostming.com/posts/2026/swordsman"/>
@@ -108,13 +115,6 @@
         <link href="https://frostming.com/posts/2026/create-a-claw"/>
         <updated>2026-02-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-12T00:00:00.000Z"> Feb 12, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/AI" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">AI</a> </div>  </div> <a href="/posts/2026/create-a-claw" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 创造一只龙虾，需要些什么? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读《昂贵的和平》后感 (Frost Ming — Blog)]]></title>
-        <id>https://frostming.com/posts/2026/expensive-harmony</id>
-        <link href="https://frostming.com/posts/2026/expensive-harmony"/>
-        <updated>2026-02-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex flex-wrap items-center gap-x-2 gap-y-1 font-mono text-xs tracking-wide text-neutral-6"> <time datetime="2026-02-08T00:00:00.000Z"> Feb 8, '26 </time>  <span aria-hidden="true">·</span> <div class="flex flex-wrap gap-1.5"> <a href="/tags/历史" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">历史</a><a href="/tags/阅读" class="inline-block border border-border font-mono tracking-wider text-neutral-7 transition-colors hover:border-neutral-10 hover:bg-neutral-10 hover:text-paper px-1.5 py-0.5 text-[10px]">阅读</a> </div>  </div> <a href="/posts/2026/expensive-harmony" class="font-serif text-2xl font-semibold tracking-tight text-neutral-10 transition-colors hover:text-accent"> 读《昂贵的和平》后感 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I automated my bookkeeping with AI and replaced the work I outsourced to an admin assistant (Takuya Matsuyama — Blog)]]></title>
